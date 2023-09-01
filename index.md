@@ -27,63 +27,63 @@ hide_description: true
 
 --- -->
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
+Hi! I'm Yuanhang Zhang.
+<!-- Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper.  -->
 
-Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper. 
+<!-- My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.   -->
 
-My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
+<!-- Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
 
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
-
-I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
+I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. -->
 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
-<div class="body-social sidebar-social">
+<!-- <div class="body-social sidebar-social">
   <ul>
     <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Yuanhang Zhang's LinkedIn profile</span></a></li>
     <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Yuanhang Zhang's Google Scholar page</span></a></li>
     <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Yuanhang Zhang's Twitter profile</span></a></li>
     <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Yuanhang Zhang's Instagram profile</span></a></li> -->
   </ul>
-</div>
+</div> -->
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
-<h3 class="h2">Understanding Accessibility in Audio Production</h3>
+<!-- <h3 class="h2">Understanding Accessibility in Audio Production</h3>
 The advent of digital audio workstations and other digital audio tools has brought a critical shift in the audio industry by empowering amateur and professional audio content creators with the necessary means to produce high quality audio content. Yet, we know little about the accessibility of widely used audio production tools for blind and low vision people. Through interviews with 18 blind and low vision audio professionals and hobbyists, I found that accessible audio production involves: piecing together accessible and efficient workflows through a combination of mainstream and custom tools; achieving professional competency through a steep learning curve in which domain knowledge and accessibility are inseparable; and facilitating learning and creating access by engaging in online communities of blind audio enthusiasts. I reflected on the deep entanglement between accessibility and professional competency and conclude with design considerations to inform future development of accessible audio production tools.
-<br/>
+<br/> -->
 
 <!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews** 
 <br/> 
 <br/> -->
-**Contextual inquiry, in-depth interviews**
+<!-- **Contextual inquiry, in-depth interviews**
 {:.note title="Methods Used"}
-<br/>
+<br/> -->
 
 
-<h3 class="h2">Understanding Peer-To-Peer Support Exchange in an Online Community for Blind Audio Producers</h3>
+<!-- <h3 class="h2">Understanding Peer-To-Peer Support Exchange in an Online Community for Blind Audio Producers</h3>
 Exchange of peer-to-peer support in online Q&A communities plays an instrumental role in helping people learn and use complex software tools. While prior work has documented how disabled people support each other in finding accessible practices and workarounds in different contexts, research on understanding their participation in dedicated online Q&A communities has been limited. Through the analysis of 180 conversation threads consisting of 1140 posts in an online text-based Q&A community of blind and low-vision audio producers, I revealed various strategies members in this community use to formulate their queries and provide effective solutions regarding screen reader based navigation of complex graphical user interfaces. I reflected upon my findings to discuss the complexities blind and low-vision software users face in developing a shared understanding during collaborative troubleshooting through textual conversations and reimagine how online Q&A platforms could enhance peer-to-peer instructional support among screen reader users.
-<br/>
+<br/> -->
 
 <!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Online content analysis**
 <br/> 
 <br/> -->
-**Online content analysis**
+<!-- **Online content analysis**
 {:.note title="Methods Used"}
-<br/>
+<br/> -->
 
 
-<h3 class="h2">Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers</h3>
+<!-- <h3 class="h2">Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers</h3>
 Audio production is a skilled practice that requires mastery in highly complex software and hardware tools. Blind audio producers face a steep learning curve where they must learn multiple inaccessible audio production tools in conjunction with workarounds for screen reader support. Learning audio production is made even more challenging due to a scarcity of educational resources geared towards blind people. Grounded in my formative interviews and observations with seven blind audio production instructors, I designed Tutoria11y, an extension for GarageBand to support blind audio producers in creating accessible, interactive tutorials that screen reader users can follow to receive step-by-step guidance and confirmation of their actions. Findings from my design exploration sessions with five blind instructors highlight how Tutoria11y can support tutorial creation and augment tutorial playback for blind audio producers. I discussed how we can rethink technology’s role as a means to amplify, rather than replace, the knowledge of disabled experts.
-<br/>
+<br/> -->
 
 <!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Observation study, in-depth interviews, usability testing**
 <br/>
 <br/> -->
-**Observation study, in-depth interviews, usability testing**
+<!-- **Observation study, in-depth interviews, usability testing**
 {:.note title="Methods Used"}
-<br/>
+<br/> -->
 
 <!-- **DESIGNING FOR ACCESSIBILITY IN AUDIO PRODUCTION AMONG BLIND AND LOW VISION PEOPLE**  
 *Dissertation Committee: [Anne Marie Piper (chair)](https://www.ics.uci.edu/~ampiper/){:target="_blank"}, Darren Gergle, Marcelo Worsley, and Shaun Kane* 
@@ -106,7 +106,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
 
-<h3 class="h2">Peer-reviewed Conference Papers</h3>
+<!-- <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
 * **Yuanhang Zhang**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://hang0610.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
 
@@ -124,13 +124,13 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 * Moushumi Sharmin, Monsur Hossain, **Yuanhang Zhang**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://hang0610.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
   
 
-* **Yuanhang Zhang** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
+* **Yuanhang Zhang** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]    -->
   
   
-<h3 class="h2">Journal Article</h3>
+<!-- <h3 class="h2">Journal Article</h3> -->
 
 <!-- * Tahsin Reasat, **Yuanhang Zhang**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
-<ul><li><p>Tahsin Reasat, <strong>Yuanhang Zhang</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
+<!-- <ul><li><p>Tahsin Reasat, <strong>Yuanhang Zhang</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
 
 
 <h3 class="h2">Short Papers</h3>
@@ -146,7 +146,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 * Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Yuanhang Zhang**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]   
   
   
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Yuanhang Zhang**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]  
+* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Yuanhang Zhang**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]   -->
   
 
 ---
