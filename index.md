@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, PhD Candidate in Technology and Social Behavior at Northwestern University.
+  Personal Website of Yuanhang Zhang, PhD Candidate in Technology and Social Behavior at Northwestern University.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -23,7 +23,7 @@ hide_description: true
 	}
 </style>
 
-<!-- ##  Download my [UX Research Portfolio](https://abirsh.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
+<!-- ##  Download my [UX Research Portfolio](https://hang0610.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
 
 --- -->
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
@@ -40,10 +40,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Abir Saha's LinkedIn profile</span></a></li>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> -->
+    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Yuanhang Zhang's LinkedIn profile</span></a></li>
+    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Yuanhang Zhang's Google Scholar page</span></a></li>
+    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Yuanhang Zhang's Twitter profile</span></a></li>
+    <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Yuanhang Zhang's Instagram profile</span></a></li> -->
   </ul>
 </div>
 
@@ -108,45 +108,45 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 
 <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
-* **Abir Saha**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
+* **Yuanhang Zhang**, Darren Gergle, and Anne Marie Piper. [Understanding Peer-to-Peer Instructional Support in an Online Community for Blind Audio Producers](https://hang0610.github.io/publications/BVI-audio-ASSETS2023-preprint.pdf){:target="_blank"}. In *Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)*, October 2023, New York, NY, USA.  
 
 
-* **Abir Saha**, Thomas B. McHugh, and Anne Marie Piper. [Tutoria11y: Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers](https://abirsh.github.io/publications/BVI-audio-CHI2023-preprint.pdf){:target="_blank"}. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.  
+* **Yuanhang Zhang**, Thomas B. McHugh, and Anne Marie Piper. [Tutoria11y: Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers](https://hang0610.github.io/publications/BVI-audio-CHI2023-preprint.pdf){:target="_blank"}. In *2023 CHI Conference on Human Factors in Computing Systems (CHI 2023)*, April 2023, Hamburg, Germany.  
 
 
-* **Abir Saha** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://abirsh.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
+* **Yuanhang Zhang** and Anne Marie Piper. [Understanding Audio Production Practices of People with Vision Impairments](https://hang0610.github.io/publications/BVI-audio-ASSETS2020-preprint.pdf){:target="_blank"}. In *Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2020)*, Virtual Event, Greece, October 2020.   
 <span class="icon-award" aria-hidden="true"></span> **Best Paper Nominee**   
   
 
-* Lin Li, **Abir Saha**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
+* Lin Li, **Yuanhang Zhang**, Seeta Ram Pandey, Yaobin Chen, Stanley Chien, and Rini Sherony. Infrared Reflectance Requirements of Metal Guardrail Surrogates for the Evaluation of Vehicle Road Departure Mitigation Systems. In *2019 IEEE Intelligent Transportation Systems Conference (ITSC)*, Auckland, New Zealand, October 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8917344){:target="_blank"}]   
   
 
-* Moushumi Sharmin, Monsur Hossain, **Abir Saha**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://abirsh.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
+* Moushumi Sharmin, Monsur Hossain, **Yuanhang Zhang**, Maitraye Das, Margot Maxwell, and Shameem Ahmed. [From Research to Practice: Informing the Design of Autism Support Smart Technology](https://hang0610.github.io/publications/Autism_CHI18.pdf){:target="_blank"}. In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2018)*, Montreal, Canada, April 2018. [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3173574.3173676){:target="_blank"}]   
   
 
-* **Abir Saha** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
+* **Yuanhang Zhang** and Maitraye Das. Impact of Social Networking on Post-Partum Depression in Women: An Analysis in the Context of Bangladesh. In *Proceedings of the 20th IEEE International Conference on Computer and Information Technology (ICCIT)*, Dhaka, Bangladesh, December 2017. [[IEEE Xplore](https://doi.org/10.1109/ICCITECHN.2017.8281831){:target="_blank"}]   
   
   
 <h3 class="h2">Journal Article</h3>
 
-<!-- * Tahsin Reasat, **Abir Saha**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
-<ul><li><p>Tahsin Reasat, <strong>Abir Saha</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
+<!-- * Tahsin Reasat, **Yuanhang Zhang**, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In *International Journal of Communication Systems (IJCS)*, March 2017. [[Wiley](http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract){:target="_blank"}]   -->  
+<ul><li><p>Tahsin Reasat, <strong>Yuanhang Zhang</strong>, and Md. Forkan Uddin. Cognitive Radio Network with Coordinated Multipoint Joint Transmission. In <em>International Journal of Communication Systems (IJCS)</em>, March 2017. [<a href="http://onlinelibrary.wiley.com/doi/10.1002/dac.3310/abstract" target="_blank">Wiley</a>]</p></li></ul>
 
 
 <h3 class="h2">Short Papers</h3>
 
-<ul><li><p><strong>Abir Saha</strong>. 2022. <a href="https://abirsh.github.io/publications/BVI-audio-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA. [Doctoral Consortium]</p></li></ul>
+<ul><li><p><strong>Yuanhang Zhang</strong>. 2022. <a href="https://hang0610.github.io/publications/BVI-audio-CHI2022-DC.pdf" target="_blank">Understanding and Designing for Accessibility in Audio Production among People with Vision Impairments</a>. In <em>Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI 2022)</em>, April 25 – May 05, 2022, New Orleans, LA, USA. [Doctoral Consortium]</p></li></ul>
 
 
-<ul><li><p>Thomas B. McHugh, <strong>Abir Saha</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://abirsh.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference. [Late-Breaking Work]</p></li></ul>
+<ul><li><p>Thomas B. McHugh, <strong>Yuanhang Zhang</strong>, David Bar-El, Marcelo Worsley, and Anne Marie Piper. 2020. <a href="https://hang0610.github.io/publications/DHOH-audio-CHI2021-preprint.pdf" target="_blank">Towards Inclusive Streaming: Building Multimodal Music Experiences for the Deaf and Hard of Hearing</a>. In <em>Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021)</em>, May 08–13, 2021, Online Virtual Conference. [Late-Breaking Work]</p></li></ul>
   
   
 <h3 class="h2">Patents</h3>
 
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]   
+* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Yuanhang Zhang**, Yaobin Chen, and Chi-Chih Chen. Surrogate for concrete divider. *US Patent 10597835*, March 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10597835.PN.){:target="_blank"}]   
   
   
-* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Abir Saha**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]  
+* Rini Sherony, Stanley Yung-Ping Chien, Qiang Yi, Jun Lin, **Yuanhang Zhang**, Yaobin Chen, and Chi-Chih Chen. Surrogate for metal guardrail. *US Patent 10689818*, June 2020. [[USPTO](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10689818.PN.){:target="_blank"}]  
   
 
 ---
