@@ -24,24 +24,24 @@ title:                 Yuanhang Zhang
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Yuanhang Zhang -  User Researcher and PhD Candidate in Technology & Social Behavior at Northwestern University.
-
-# A shorter description for the sidebar.
-tagline: |
-  User Researcher
-
-# A list of keywords for your blog
-keywords:              [Yuanhang, Saha, Accessibility, HCI, UX, User Experience, Research, Northwestern]
+  Personal Website of Yuanhang Zhang -  INTJ and PhD Candidate in Technology & Social Behavior at Northwestern University.
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/hang.png
+logo:                  /assets/images/hang.jpg
+
+# A shorter description for the sidebar.
+tagline: |
+  Nobody
+
+# A list of keywords for your blog
+keywords:              [Yuanhang, Saha, Accessibility, HCI, UX, User Experience, Research, Northwestern]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Yuanhang Zhang
-  email:               <abirsaha056@gmail.com>
+  email:               <harveyzhang0610@163.com>
   # Used by `jekyll-seo-tag`:
   twitter:             abirsaha_
 
@@ -85,8 +85,8 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-# accent_image:          /assets/img/sidebar-bg.jpg
-accent_image:          /assets/img/scen.jpeg
+# accent_image:          /assets/images/sidebar-bg.jpg
+accent_image:          /assets/images/scen.jpeg
 accent_color:          rgb(0, 87, 156)
 
 # This is used for the `theme-color` meta tag,

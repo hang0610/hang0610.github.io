@@ -26,7 +26,7 @@ hide_description: true
 <!-- ##  Download my [UX Research Portfolio](https://hang0610.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
 
 --- -->
-<h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="about">Biography </h2>
 Hi! I'm Yuanhang Zhang.
 <!-- Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper.  -->
 
@@ -104,6 +104,9 @@ In this project sponsored by [Toyota Collaborative Safety Research Center](https
 Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-tasi-toyota-autonomous-vehicles.html){:target="_blank"}]
  -->
 ---
+
+<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Competitions </h2>
+
 <h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
 
 <!-- <h3 class="h2">Peer-reviewed Conference Papers</h3>
@@ -212,4 +215,5 @@ Evanston, IL 60208, USA -->
   .note-sm:before, .note:before {
     font-size: 1rem;
     color: rgb(1,92,171);
+  }
 </style>
