@@ -205,12 +205,14 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.8.4)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.19.0)
-    nokogiri (1.15.4-x86_64-linux)
+    nokogiri (1.15.4)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
@@ -250,16 +252,26 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  x86_64-linux
+  ruby
 
 DEPENDENCIES
   github-pages (~> 228)
-  http_parser.rb (~> 0.6.0)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
-  tzinfo (>= 1, < 3)
+  jekyll
+  jekyll-avatar
+  jekyll-default-layout
+  jekyll-feed
+  jekyll-gist
+  jekyll-include-cache
+  jekyll-optional-front-matter
+  jekyll-paginate
+  jekyll-readme-index
+  jekyll-redirect-from
+  jekyll-relative-links
+  jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
+  jekyll-titles-from-headings
   tzinfo-data
-  wdm (~> 0.1.1)
   webrick (~> 1.8)
 
 BUNDLED WITH
