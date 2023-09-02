@@ -56,7 +56,7 @@ menu:
   - title:             CONTACT
     url:               /#contact-me
   - title:             RESUME
-    url:               /assets/files/Resume-Saha-Abir.pdf
+    url:               /assets/files/resume-EN.pdf
   # - title:             PORTFOLIO
     # url:               /assets/files/Portfolio-Saha-Abir.pdf
 #   - title:             Blog
@@ -179,7 +179,7 @@ hydejack:
   no_drawer:           false
 
   # Set to `true` to prevent usage of `hy-img` (lazy-loading images).
-  no_img:              false
+  no_img:              true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -203,7 +203,7 @@ hydejack:
 
   # Set to `true` when building with the `--lsi` option
   # This will increase site build speed!
-  use_lsi:             false
+  use_lsi:             true
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.

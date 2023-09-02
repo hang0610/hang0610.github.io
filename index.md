@@ -27,7 +27,7 @@ hide_description: true
 
 --- -->
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">Biography </h2>
-Hi! I'm Yuanhang Zhang.
+Hi! I'm Yuanhang Zhang.hahaha
 <!-- Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper.  -->
 
 <!-- My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.   -->
@@ -155,11 +155,6 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
 
-<!-- Northwestern University  
-Frances Searle Building #2-430  
-2240 Campus Drive  
-Evanston, IL 60208, USA -->
-<p class="home-element"><strong>abi<!-- ghuiknh -->r [a<!-- jngingbhir -->t] u [dot] nor<!-- hdfuhfbrhd -->thweste<!-- hfugu -->rn [dot] edu</strong></p>
 
 <style type="text/css">
   .body-social > ul {

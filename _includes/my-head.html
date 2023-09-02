@@ -1,8 +1,8 @@
 {% comment %}<!--
 Use this add elements to the <head/> of the document.
 -->{% endcomment %}
-<link rel="shortcut icon" type="image/png" href="/assets/icons/favicon.ico">
-<link rel="stylesheet" href="/assets/icomoon/style.css">
+<link rel="shortcut icon" href="{{ site.favicon          | default:'/assets/icons/favicon.ico'       | relative_url }}">
+<link rel="stylesheet" href="{{ site.apple_touch_icon | default:'/assets/icons/icon-192x192.png'  | relative_url }}">
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 <!-- <script src="https://cdn.jsdelivr.net/gh/cferdinandi/gumshoe@4/dist/gumshoe.polyfills.min.js"></script> -->
 <meta name="google-site-verification" content="Kghnw3GY5eb5r6k7i6m8b1AUutptytsD-h4NDSjY7rA" />

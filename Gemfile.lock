@@ -256,7 +256,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 228)
-  jekyll
   jekyll-avatar
   jekyll-default-layout
   jekyll-feed
