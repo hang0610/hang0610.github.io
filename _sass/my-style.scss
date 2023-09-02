@@ -5,7 +5,25 @@
 // .nav-btn {
 //     display : none;
 // }
+/* font th in table */
+th {
+// font-family: "Roboto Thin";
+// font-weight: bold;
+// font-size: 1.5rem;
+float: left;
+width:auto;
+// vertical-align: top;
+}
 
+/* font td in table */
+td {
+font-family: "sans";
+text-align: right;
+width:auto;
+font-size: 1.1rem;
+// vertical-align: top;
+}
+  
 //darken the menu drawer icon
 .icon-menu:before {
     color: rgb(150,150,150);
@@ -26,8 +44,8 @@
 
 // main text font size
 p {
-    font-size: 1.05rem;
-    line-height: 2.1rem;
+    font-size: 1.35rem;
+    line-height: 2.25rem;
 }
 
 //lead text font size

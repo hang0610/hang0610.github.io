@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Yuanhang Zhang, PhD Candidate in Technology and Social Behavior at Northwestern University.
+  Personal Website of Yuanhang Zhang.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -26,10 +26,13 @@ hide_description: true
 <!-- ##  Download my [UX Research Portfolio](https://hang0610.github.io/assets/files/Portfolio-Saha-Abir.pdf){:target="_blank"}!
 
 --- -->
-<h2 class="h1" style="color: rgb(1,92,171)" id="about">Biography </h2>
-Hi! I'm Yuanhang Zhang.hahaha
-<!-- Hi! I'm Abir. I am a PhD Candidate in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper.  -->
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold;" id="biography">Biography </h2>
 
+Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MSC/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate project was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
+
+During my undergraduate career, I was the leader of programming group in [SJTU VEX](https://sjtu-vex.github.io/). My main role was to design planning and control algorithms for our custom robots. I also led teams of over 10 undergraduates to implement and fine-tune the self-designed algorithms in order to enable our robots to execute predefined tasks faster and more robustly than any other robots in the VEX-U competition.
+
+During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺.
 <!-- My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.   -->
 
 <!-- Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
@@ -47,8 +50,32 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </ul>
 </div> -->
 
+
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 40px; font-weight: bold;" id="">Education </h3>
+<table class="stretch-table">
+  <tr>
+    <th>
+      <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.5rem;">Shanghai Jiao Tong University</span>
+      <br>
+      <span style="font-family: 'sans'; font-size: 1.2rem; font-weight: normal; float: left;">B.Eng. in Automation</span>
+    </th>
+    <th><img src="/assets/images/sjtu.png" style="float: left;" alt="" width="80" height="80"></th>
+    <td>
+      <div style="text-align: right; vertical-align: top;">
+        <span style="font-family: 'sans';">Shanghai, China</span>
+        <br>
+        <span style="font-family: 'sans';">2019.09-2023.06</span>
+      </div>
+    </td>
+  </tr>
+</table>
+{:.stretch-table}
+
+
+
+
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold;" id="research">Research </h2>
 
 <!-- <h3 class="h2">Understanding Accessibility in Audio Production</h3>
 The advent of digital audio workstations and other digital audio tools has brought a critical shift in the audio industry by empowering amateur and professional audio content creators with the necessary means to produce high quality audio content. Yet, we know little about the accessibility of widely used audio production tools for blind and low vision people. Through interviews with 18 blind and low vision audio professionals and hobbyists, I found that accessible audio production involves: piecing together accessible and efficient workflows through a combination of mainstream and custom tools; achieving professional competency through a steep learning curve in which domain knowledge and accessibility are inseparable; and facilitating learning and creating access by engaging in online communities of blind audio enthusiasts. I reflected on the deep entanglement between accessibility and professional competency and conclude with design considerations to inform future development of accessible audio production tools.
@@ -69,9 +96,9 @@ Exchange of peer-to-peer support in online Q&A communities plays an instrumental
 <!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Online content analysis**
 <br/> 
 <br/> -->
-<!-- **Online content analysis**
+**Online content analysis**
 {:.note title="Methods Used"}
-<br/> -->
+<br/>
 
 
 <!-- <h3 class="h2">Enhancing Accessible Interactive Tutorial Creation by Blind Audio Producers</h3>
@@ -105,9 +132,12 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
  -->
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Competitions </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold;" id="competitions">Competitions </h2>
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="publications">Publications </h2>
+---
+
+
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold;" id="awards">Awards </h2>
 
 <!-- <h3 class="h2">Peer-reviewed Conference Papers</h3>
 
@@ -153,7 +183,7 @@ Press release: [[IUPUI](https://news.iu.edu/stories/2017/06/iupui/releases/20-ta
   
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="contact-me">Contact Me </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold;" id="contact-me">Contact Me </h2>
 
 
 <style type="text/css">
