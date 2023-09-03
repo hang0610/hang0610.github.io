@@ -51,7 +51,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </div> -->
 
 
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 40px; font-weight: bold;" id="">Education </h3>
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 35px; font-weight: bold;" id="">Education </h3>
 <table class="stretch-table">
   <tr>
     <th>

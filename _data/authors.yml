@@ -22,12 +22,12 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         abirsaha_
+    # twitter:         abirsaha_
     # instagram:       abiroutdoors
-    googlescholar:       40lh_7kAAAAJ
-    # github:          abirsh
+    # googlescholar:       40lh_7kAAAAJ
+    github:          hang0610
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           <yuanhang0610@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        abirsaha-
+    # linkedin:        abirsaha-
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
