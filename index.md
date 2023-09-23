@@ -156,8 +156,12 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </tbody>
 </table>
 {:.stretch-table}
-<img src="assets/competition/uav5.jpeg" alt="Image 2" width="286" height="250" /> <img src="assets/competition/uav3.jpeg" alt="Image 3" width="286" height="250" />
-<img src="assets/competition/uav2.jpeg" alt="Image 1" width="286" height="250" />
+
+<div class="image-container3">
+  <img src="assets/competition/uav5.jpeg" alt="Image 2" class="onethird-width" />
+  <img src="assets/competition/uav3.jpeg" alt="Image 3" class="onethird-width" />
+  <img src="assets/competition/uav2.jpeg" alt="Image 3" class="onethird-width" />
+</div>
 
 
 - <font size=3 face="微软雅黑" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
@@ -197,7 +201,11 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<img src="assets/competition/iot1.png" alt="Image 2" width="430" height="300" /> <img src="assets/competition/iot2.png" alt="Image 3" width="430" height="250" />
+<div class="image-container2">
+  <img src="assets/competition/iot1.png" alt="Image 2" class="half-width" />
+  <img src="assets/competition/iot2.png" alt="Image 3" class="half-width" />
+</div>
+
 
 - <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
 
@@ -231,7 +239,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </tbody>
 </table>
 {:.stretch-table}
-<img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" /> 
+
+
+<img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
 
 <!-- <iframe width="900" height="600" 
   src="https://www.youtube.com/embed/VAeKPYEZg5o" frameborder="0" 
@@ -343,8 +353,13 @@ During my leisure time, I also enjoy playing basketball, working out, traveling,
 
 Here are some cute animals I photographed when travelling in my hometown:
 
-<img src="assets/interests/cat.jpeg" alt="Image 1" width="286" height="auto" /> <img src="assets/interests/dog.jpeg" alt="Image 2" width="286" height="auto" /> 
-<img src="assets/interests/squirrel.jpeg" alt="Image 1" width="286" height="auto" />
+<div class="image-container3">
+  <img src="assets/interests/cat.jpeg" alt="Image 2" class="onethird-width" />
+  <img src="assets/interests/dog.jpeg" alt="Image 3" class="onethird-width" />
+  <img src="assets/interests/squirrel.jpeg" alt="Image 3" class="onethird-width" />
+</div>
+
+
 <style>
         /* table {
             width: 100%;

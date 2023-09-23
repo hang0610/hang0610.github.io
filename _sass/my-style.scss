@@ -23,7 +23,25 @@
 // font-size: 1.1rem;
 // // vertical-align: top;
 // }
-  
+.image-container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.half-width {
+width: 50%;
+height: auto;
+}
+
+.image-container3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.onethird-width {
+width: 33%;
+height: auto;
+}
 //darken the menu drawer icon
 .icon-menu:before {
     color: rgb(150,150,150);
