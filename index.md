@@ -125,8 +125,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
-  1. <font size=4 face="黑体" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  2. <font size=4 face="黑体" color=DimGray>Enabled the quadrotor to flight purely based on visual information without localization.</font>
+  1. <font size=3 face="黑体" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
+  2. <font size=3 face="黑体" color=DimGray>Enabled the quadrotor to flight purely based on visual information without localization.</font>
   <!-- {:toc} -->
   
   
@@ -176,7 +176,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <img src="assets/competition/uav2.jpeg" alt="Image 1" width="291" height="250" />
 
 
-- <font size=4 face="黑体" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
+- <font size=3 face="黑体" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
 
 ---
 
@@ -215,7 +215,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <img src="assets/competition/iot1.png" alt="Image 2" width="430" height="300" /> <img src="assets/competition/iot2.png" alt="Image 3" width="430" height="250" />
 
-- <font size=4 face="黑体" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
+- <font size=3 face="黑体" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
 
 ---
 
@@ -254,7 +254,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-- <font size=4 face="黑体" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for target detection and controlling model deployment. Finally, I implemented the algorithm in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
+- <font size=3 face="黑体" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for target detection and controlling model deployment. Finally, I implemented the algorithm in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
 
 <!-- --- -->
 
@@ -332,12 +332,12 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </table>
 {:.stretch-table}
 
-- <font size=4 face="黑体" color=black>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
+- <font size=3 face="黑体" color=black>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
 highest program level among Chinese universities as well as winning lots of national champions(VEX-U track).</font>
 
 <!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
 
-- <font size=4 face="黑体" color=black>Led the development of SJTU VEX’s AI automation system, including global localization, visual recognition, and
+- <font size=3 face="黑体" color=black>Led the development of SJTU VEX’s AI automation system, including global localization, visual recognition, and
 communication modules and presented results to universities and IFI Chinese representatives.</font>
 
 <!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
@@ -346,11 +346,11 @@ communication modules and presented results to universities and IFI Chinese repr
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="skills">Skills </h2>
 
-- <font size=5 face="黑体" color=black>Programming Languages<br></font>
-  <font size=4 face="黑体" color=gray>Python, C++, Matlab, JAVA</font>
+- <font size=4 face="黑体" color=black>Programming Languages<br></font>
+  <font size=3 face="黑体" color=gray>Python, C++, Matlab, JAVA</font>
 
-- <font size=5 face="黑体" color=black>Tools & Pakages<br></font>
-  <font size=4 face="黑体" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
+- <font size=4 face="黑体" color=black>Tools & Pakages<br></font>
+  <font size=3 face="黑体" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
 
 ---
 
