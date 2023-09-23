@@ -24,7 +24,7 @@ hide_description: true
 </style>
 
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="biography">Biography </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
 
 Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MSC/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate project was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
 
@@ -50,22 +50,6 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 35px; font-weight: bold;" id="">Education </h3>
-<!-- <table class="stretch-table">
-  <tr>
-    <th style="float: left; width:500px;">
-      <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.5rem;">Shanghai Jiao Tong University</span>
-      <br>
-      <span style="font-family: 'sans'; font-size: 1.2rem; font-weight: normal; float: left;">B.Eng. in Automation</span>
-    </th>
-    <th style="float: center; width:auto;"><img src="/assets/images/sjtu.png" style="float: center;" alt="" width="80" height="80"></th>
-    <td style="font-family: sans; text-align: right;width:auto;font-size: 1.1rem;">
-      <span style="font-family: 'sans';">Shanghai, China</span>
-      <br>
-      <span style="font-family: 'sans';">2019.09-2023.06</span>
-    </td>
-  </tr>
-</table>
-{:.stretch-table} -->
 <table class="stretch-table">
   <tbody>
       <tr>
@@ -97,7 +81,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="research">Research </h2>
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Conflict-Based Search for Multiagent Target Sequencing Path Finding with Task Duration</h3>
 
@@ -125,8 +109,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
-  1. <font size=3 face="黑体" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  2. <font size=3 face="黑体" color=DimGray>Enabled the quadrotor to flight purely based on visual information without localization.</font>
+  1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
+  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight purely based on visual information without localization.</font>
   <!-- {:toc} -->
   
   
@@ -142,7 +126,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="competitions">Competitions </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="competitions">Competitions </h2>
 
 <table class="stretch-table">
   <tbody>
@@ -172,11 +156,11 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </tbody>
 </table>
 {:.stretch-table}
-<img src="assets/competition/uav5.jpeg" alt="Image 2" width="291" height="250" /> <img src="assets/competition/uav3.jpeg" alt="Image 3" width="291" height="250" />
-<img src="assets/competition/uav2.jpeg" alt="Image 1" width="291" height="250" />
+<img src="assets/competition/uav5.jpeg" alt="Image 2" width="286" height="250" /> <img src="assets/competition/uav3.jpeg" alt="Image 3" width="286" height="250" />
+<img src="assets/competition/uav2.jpeg" alt="Image 1" width="286" height="250" />
 
 
-- <font size=3 face="黑体" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
 
 ---
 
@@ -215,7 +199,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <img src="assets/competition/iot1.png" alt="Image 2" width="430" height="300" /> <img src="assets/competition/iot2.png" alt="Image 3" width="430" height="250" />
 
-- <font size=3 face="黑体" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
 
 ---
 
@@ -254,7 +238,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-- <font size=3 face="黑体" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for target detection and controlling model deployment. Finally, I implemented the algorithm in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for target detection and controlling model deployment. Finally, I implemented the algorithm in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
 
 <!-- --- -->
 
@@ -288,7 +272,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 ---
 
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="awards">Awards </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="awards">Awards </h2>
   <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate(top 5%)** 
 
   <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Student(top 3%)** 
@@ -301,7 +285,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="leadership">Leadership </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="leadership">Leadership </h2>
 
 <table class="stretch-table">
   <tbody>
@@ -332,35 +316,35 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </table>
 {:.stretch-table}
 
-- <font size=3 face="黑体" color=black>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
+- <font size=3 face="微软雅黑" color=black>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
 highest program level among Chinese universities as well as winning lots of national champions(VEX-U track).</font>
 
 <!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
 
-- <font size=3 face="黑体" color=black>Led the development of SJTU VEX’s AI automation system, including global localization, visual recognition, and
+- <font size=3 face="微软雅黑" color=black>Led the development of SJTU VEX’s AI automation system, including global localization, visual recognition, and
 communication modules and presented results to universities and IFI Chinese representatives.</font>
 
 <!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="skills">Skills </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="skills">Skills </h2>
 
-- <font size=4 face="黑体" color=black>Programming Languages<br></font>
-  <font size=3 face="黑体" color=gray>Python, C++, Matlab, JAVA</font>
+- <font size=4 face="微软雅黑" color=black>Programming Languages<br></font>
+  <font size=3 face="微软雅黑" color=gray>Python, C++, Matlab, JAVA</font>
 
-- <font size=4 face="黑体" color=black>Tools & Pakages<br></font>
-  <font size=3 face="黑体" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
+- <font size=4 face="微软雅黑" color=black>Tools & Pakages<br></font>
+  <font size=3 face="微软雅黑" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:55px" id="interests">Interests </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="interests">Interests </h2>
 During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺.
 
 Here are some cute animals I photographed when travelling in my hometown:
 
-<img src="assets/interests/cat.jpeg" alt="Image 1" width="291" height="auto" /> <img src="assets/interests/dog.jpeg" alt="Image 2" width="291" height="auto" /> 
-<img src="assets/interests/squirrel.jpeg" alt="Image 1" width="291" height="auto" />
+<img src="assets/interests/cat.jpeg" alt="Image 1" width="286" height="auto" /> <img src="assets/interests/dog.jpeg" alt="Image 2" width="286" height="auto" /> 
+<img src="assets/interests/squirrel.jpeg" alt="Image 1" width="286" height="auto" />
 <style>
         /* table {
             width: 100%;
