@@ -24,7 +24,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.icon-competition:before {
+  content: "\e903";
+}
 .icon-award:before {
   content: "\e903";
 }
