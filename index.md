@@ -26,7 +26,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
 
-Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MSC/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate project was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
+Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MSc/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate research was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
 
 During my undergraduate career, I was the leader of programming group in [SJTU VEX](https://sjtu-vex.github.io/). My main role was to design planning and controlling algorithms for our custom robots. I also led a team of over 10 undergraduates to implement and fine-tune our self-designed algorithms in order to enable our robots to execute predefined tasks faster and more robustly than any other robots in the VEX-U competition.
 
@@ -102,27 +102,17 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Project(A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
 
-  <iframe width="900" height="600" 
-  src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
   1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight purely based on visual information without localization.</font>
-  <!-- {:toc} -->
-  
-  
-    
+  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font>
 
-  <!-- <span class="icon-wrench" aria-hidden="true"></span> **Methods: Contextual inquiry, in-depth interviews** 
-  <br/> 
-  <br/> -->
+  <img src="assets/images/frame.png" alt="Image 0" width="auto"/>
 
-  <!-- **Contextual inquiry, in-depth interviews**
-  {:.note title="Methods Used"}
-  <br/> -->
+  <iframe width="100%" height="600" 
+  src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -157,14 +147,18 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </table>
 {:.stretch-table}
 
-<div class="image-container3">
-  <img src="assets/competition/uav5.jpeg" alt="Image 2" class="onethird-width" />
-  <img src="assets/competition/uav3.jpeg" alt="Image 3" class="onethird-width" />
-  <img src="assets/competition/uav2.jpeg" alt="Image 3" class="onethird-width" />
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
+
+<div class="image-container2">
+  <img src="assets/competition/dronerace1.gif" alt="Image 0" class="half-width" />
+  <img src="assets/competition/dronerace2.gif" alt="Image 1" class="half-width" />
 </div>
 
+<div class="image-container2">
+  <img src="assets/competition/uav3.jpeg" alt="Image 0" class="half-width" />
+  <img src="assets/competition/uav2.jpeg" alt="Image 1" class="half-width" />
+</div>
 
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</font>
 
 ---
 
@@ -196,18 +190,16 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </tbody>
 </table>
 {:.stretch-table}
-<!-- <iframe width="900" height="600" 
-  src="https://www.youtube.com/embed/VAeKPYEZg5o" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design 'HarClass', an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
+
 
 <div class="image-container2">
   <img src="assets/competition/iot1.png" alt="Image 2" class="half-width" />
   <img src="assets/competition/iot2.png" alt="Image 3" class="half-width" />
 </div>
 
-
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design the 'HarClass', an app designed for modern smart classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
 
 ---
 
@@ -241,14 +233,17 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 {:.stretch-table}
 
 
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
+
+
 <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
 
+
+<img src="assets/competition/ict3.gif" alt="Image 1" width="100%"/>
 <!-- <iframe width="900" height="600" 
   src="https://www.youtube.com/embed/VAeKPYEZg5o" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for target detection and controlling model deployment. Finally, I implemented the algorithm in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
 
 <!-- --- -->
 
@@ -326,22 +321,29 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </table>
 {:.stretch-table}
 
-- <font size=3 face="微软雅黑" color=black>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
+- <font size=3 face="微软雅黑" color=DimGray>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
 highest program level among Chinese universities as well as winning lots of national champions(VEX-U track).</font>
 
-<!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
+<div class="image-container3">
+  <img src="assets/competition/vex3.jpeg" alt="Image 0" class="onethird-width" />
+  <img src="assets/competition/vex1.jpeg" alt="Image 1" class="onethird-width" />
+  <img src="assets/competition/vex2.jpeg" alt="Image 2" class="onethird-width" />
+</div>
 
-- <font size=3 face="微软雅黑" color=black>Led the development of SJTU VEX’s AI automation system, including global localization, visual recognition, and
+- <font size=3 face="微软雅黑" color=DimGray>Led the development of SJTU VEX's AI automation system, including global localization, visual recognition, and
 communication modules and presented results to universities and IFI Chinese representatives.</font>
 
-<!-- <img src="assets/competition/ict1.png" alt="Image 1" width="900" height="300" /> <img src="assets/competition/ict2.png" alt="Image 2" width="900" height="300" />  -->
+<div class="image-container2">
+  <img src="assets/competition/vexai1.gif" alt="Image 0" class="half-width" />
+  <img src="assets/competition/vexai2.gif" alt="Image 1" class="half-width" />
+</div>
 
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="skills">Skills </h2>
 
 - <font size=4 face="微软雅黑" color=black>Programming Languages<br></font>
-  <font size=3 face="微软雅黑" color=gray>Python, C++, Matlab, JAVA</font>
+  <font size=3 face="微软雅黑" color=gray>Python, C++, Matlab, Java</font>
 
 - <font size=4 face="微软雅黑" color=black>Tools & Pakages<br></font>
   <font size=3 face="微软雅黑" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
