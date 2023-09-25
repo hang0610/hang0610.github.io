@@ -26,6 +26,7 @@
 .image-container2 {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 30px;
 }
 
 .half-width {
@@ -36,11 +37,12 @@ height: auto;
 .image-container3 {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 .onethird-width {
-width: 33%;
-height: auto;
+    width: 33%;
+    height: auto;
 }
 //darken the menu drawer icon
 .icon-menu:before {

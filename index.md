@@ -192,7 +192,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 {:.stretch-table}
 
 
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design 'HarClass', an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
 
 
 <div class="image-container2">
@@ -233,7 +233,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 {:.stretch-table}
 
 
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection for edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
 
 
 <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
