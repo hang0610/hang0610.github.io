@@ -1,16 +1,17 @@
 ---
-layout: page
+layout: about
 name: index
-title: Personal Website
+cover: true #!! Add this
+title: Homepage
 description: >
-  Personal Website of Yuanhang Zhang.
+  Homepage of Yuanhang Zhang.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script> -->
 
-<style type="text/css">
+<!-- <style type="text/css">
 	.page-title {
 		position: absolute;
 		width: 1px;
@@ -21,7 +22,7 @@ hide_description: true
   		clip: rect(0 0 0 0);
   		overflow: hidden;
 	}
-</style>
+</style> -->
 
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
