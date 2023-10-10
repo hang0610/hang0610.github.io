@@ -84,7 +84,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="research">Research </h2>
 
-- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Conflict-Based Search for Multiagent Target Sequencing Path Finding with Task Duration</h3>
+- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Multiagent Target Sequencing Path Finding with Heterogeneous Task Duration</h3>
 
   <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Intern in 2023, Advisor: <a href="https://wonderren.github.io/">Dr. Zhongqiang Ren</a></h4>
 
