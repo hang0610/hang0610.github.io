@@ -24,7 +24,7 @@ title:                 Yuanhang Zhang
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Yuanhang Zhang -  INTJ and PhD Candidate in Technology & Social Behavior at Northwestern University.
+  Homepage of Yuanhang Zhang -  INTJ and Applying for 2024fall.
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -36,7 +36,7 @@ tagline: |
   Nobody
 
 # A list of keywords for your blog
-keywords:              [Yuanhang, Saha, Accessibility, HCI, UX, User Experience, Research, Northwestern]
+keywords:              [Yuanhang, Competition Experiences, Research, SJTU]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
