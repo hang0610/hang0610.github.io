@@ -84,24 +84,30 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="research">Research </h2>
 
-- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Multiagent Target Sequencing Path Finding with Heterogeneous Task Duration</h3>
+- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration</h3>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.8—2023.12</h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Dr. Zhongqiang Ren</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Paper: <a href="https://arxiv.org/abs/2311.15330">https://arxiv.org/abs/2311.15330</a>, submitted to IEEE Transactions on Automation Science and Engineering (<font size=4 face="微软雅黑" color=black weight=bold><strong>T-ASE</strong></font>, under review)</h4>
 
-  <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Intern in 2023, Advisor: <a href="https://wonderren.github.io/">Dr. Zhongqiang Ren</a></h4>
+  <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
-  <!-- <iframe width="900" height="600" 
-  src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
+  1. <font size=3 face="微软雅黑" color=DimGray>Proposed two conflict-based search methods—CBSS-TPG and CBSS-D to solve the multiagent combinatorial path finding problem with target duration (MCPF-D, an unexplored multiagent path finding problem).</font>
+  2. <font size=3 face="微软雅黑" color=DimGray>In CBSS-TPG, designed a post-process to generate a conflict-free path execution schedule with task duration.</font>
+  3. <font size=3 face="微软雅黑" color=DimGray>In CBSS-D, refined CBSS to guarantee solution optimality through taking task duration into sequence planning and improved searching efficiency by adopting new splitting rule while resolving conflicts.</font>
+
+  <img src="assets/images/post2.jpeg" alt="Image 0" width="auto"/>
+
+  <iframe width="895" height="600" 
+  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-    <!-- 1. **Incorporated quadrotor dynamics and visual feature dynamics into NMPC.** -->
-    <!-- 2. **Enabled the quadrotor to flight purely based on visual information without localization.** -->
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
   {:.note title="Undergoing"}
 
 ---
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
-
-  <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Project(A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Project(A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
