@@ -27,7 +27,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
 
-Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MSc/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate research was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
+Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MS/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate research was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
 
 During my undergraduate career, I was the leader of programming group in [SJTU VEX](https://sjtu-vex.github.io/). My main role was to design planning and controlling algorithms for our custom robots. I also led a team of over 10 undergraduates to implement and fine-tune our self-designed algorithms in order to enable our robots to execute predefined tasks faster and more robustly than any other robots in the VEX-U competition.
 
@@ -357,7 +357,7 @@ communication modules and presented results to universities and IFI Chinese repr
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="interests">Interests </h2>
+<!-- <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="interests">Interests </h2>
 During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺.
 
 Here are some cute animals I photographed when travelling in my hometown:
@@ -366,7 +366,7 @@ Here are some cute animals I photographed when travelling in my hometown:
   <img src="assets/interests/cat.jpeg" alt="Image 2" class="onethird-width" />
   <img src="assets/interests/dog.jpeg" alt="Image 3" class="onethird-width" />
   <img src="assets/interests/squirrel.jpeg" alt="Image 3" class="onethird-width" />
-</div>
+</div> -->
 
 
 <style>

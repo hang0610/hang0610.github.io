@@ -59,8 +59,8 @@ menu:
     url:               /#leadership
   - title:             SKILLS
     url:               /#skills
-  - title:             INTERESTS
-    url:               /#interests
+  # - title:             INTERESTS
+  #   url:               /#interests
   - title:             RESUME
     url:               /assets/files/CV_Resume.pdf
   # - title:             PORTFOLIO
