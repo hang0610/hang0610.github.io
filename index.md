@@ -95,9 +95,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   <!-- 2. <font size=3 face="微软雅黑" color=DimGray>In CBSS-TPG, designed a post-process to generate a conflict-free path execution schedule with task duration.</font>
   3. <font size=3 face="微软雅黑" color=DimGray>In CBSS-D, refined CBSS to guarantee solution optimality through taking task duration into sequence planning and improved searching efficiency by adopting new splitting rule while resolving conflicts.</font> -->
 
-  <img src="assets/images/post2.jpeg" alt="Image 0" width="auto"/>
+  <img src="assets/images/post2.jpeg" alt="Image 0" width="100%"/>
 
-  <iframe width="100%" height="600" 
+  <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe>
