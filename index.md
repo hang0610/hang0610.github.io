@@ -91,13 +91,13 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
-  1. <font size=3 face="微软雅黑" color=DimGray>Proposed two conflict-based search methods—CBSS-TPG and CBSS-D to solve the multiagent combinatorial path finding problem with target duration (MCPF-D, an unexplored multiagent path finding problem).</font>
-  2. <font size=3 face="微软雅黑" color=DimGray>In CBSS-TPG, designed a post-process to generate a conflict-free path execution schedule with task duration.</font>
-  3. <font size=3 face="微软雅黑" color=DimGray>In CBSS-D, refined CBSS to guarantee solution optimality through taking task duration into sequence planning and improved searching efficiency by adopting new splitting rule while resolving conflicts.</font>
+  <font size=3 face="微软雅黑" color=DimGray>Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multiagent combinatorial path finding problem with target duration (MCPF-D, an </font> <font size=3 face="微软雅黑" color=black weight=bold><strong>unexplored</strong></font> <font size=3 face="微软雅黑" color=DimGray>multiagent path finding problem).</font>
+  <!-- 2. <font size=3 face="微软雅黑" color=DimGray>In CBSS-TPG, designed a post-process to generate a conflict-free path execution schedule with task duration.</font>
+  3. <font size=3 face="微软雅黑" color=DimGray>In CBSS-D, refined CBSS to guarantee solution optimality through taking task duration into sequence planning and improved searching efficiency by adopting new splitting rule while resolving conflicts.</font> -->
 
   <img src="assets/images/post2.jpeg" alt="Image 0" width="auto"/>
 
-  <iframe width="895" height="600" 
+  <iframe width="100%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -110,9 +110,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Project(A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
-
-  1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font>
+  <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization</strong>.</font>
+  <!-- 1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
+  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
   <img src="assets/images/frame.png" alt="Image 0" width="auto"/>
 
