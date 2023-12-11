@@ -27,7 +27,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
 
-Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MS/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate research was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
+Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MS/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate thesis was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I was also fortuned to be advised by [Prof. Zhongqiang Ren](https://wonderren.github.io/) as a summer research intern and had a wonderful research collaboration. I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
 
 During my undergraduate career, I was the leader of programming group in [SJTU VEX](https://sjtu-vex.github.io/). My main role was to design planning and controlling algorithms for our custom robots. I also led a team of over 10 undergraduates to implement and fine-tune our self-designed algorithms in order to enable our robots to execute predefined tasks faster and more robustly than any other robots in the VEX-U competition.
 
@@ -246,7 +246,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
 
 
-<img src="assets/competition/ict3.gif" alt="Image 1" width="100%"/>
+<!-- <img src="assets/competition/ict3.gif" alt="Image 1" width="100%"/> -->
 <!-- <iframe width="900" height="600" 
   src="https://www.youtube.com/embed/VAeKPYEZg5o" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
