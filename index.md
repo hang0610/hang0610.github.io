@@ -117,7 +117,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   <img src="assets/images/frame.png" alt="Image 0" width="auto"/>
 
   <iframe width="100%" height="600" 
-  src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
+  src="https://www.youtube.com/embed/3kP_b1RegkI" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe>
 
