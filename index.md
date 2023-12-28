@@ -27,9 +27,13 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
 
-Hi! I'm Yuanhang Zhang(张远航). **I'm applying for a MS/PhD program in Robotics in 2024 fall**. Previously, I received my B.Eng. in Automation from **S**hanghai **J**iao **T**ong **U**niversity(SJTU, Shanghai China) in 2023 and my undergraduate thesis was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). I was also fortuned to be advised by [Prof. Zhongqiang Ren](https://wonderren.github.io/) as a summer research intern and had a wonderful research collaboration. I have a profound interest in Robotics which drives me to explore the field of Robotics through conducting researches and participating various types of competitions related to Unmanned-vehicles and Quadrotors.
+**I will join [Shanghai Qi Zhi Institude](https://sqz.ac.cn/) as a graduate researcher starting from January 2024, advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for the upcoming Fall 2024**. 
 
-During my undergraduate career, I was the leader of programming group in [SJTU VEX](https://sjtu-vex.github.io/). My main role was to design planning and controlling algorithms for our custom robots. I also led a team of over 10 undergraduates to implement and fine-tune our self-designed algorithms in order to enable our robots to execute predefined tasks faster and more robustly than any other robots in the VEX-U competition.
+I received my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Zhongqiang Ren](https://wonderren.github.io/) (Postdoc from [Carnegie Mellon University, RI](https://www.ri.cmu.edu/)).
+
+I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation.
+
+During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
 <!-- During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺. -->
 <!-- My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.   -->
@@ -85,9 +89,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="research">Research </h2>
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration</h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.8—2023.12</h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Dr. Zhongqiang Ren</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Paper: <a href="https://arxiv.org/abs/2311.15330">https://arxiv.org/abs/2311.15330</a>, submitted to IEEE Transactions on Automation Science and Engineering (<font size=4 face="微软雅黑" color=black weight=bold><strong>T-ASE</strong></font>, under review)</h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Prof. Zhongqiang Ren</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">IEEE Transactions on Automation Science and Engineering (<font size=4 face="微软雅黑" color=black weight=bold><strong>T-ASE 2024</strong></font>, under review)</h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/hang0610/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
 
@@ -97,17 +101,18 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <img src="assets/images/post2.jpeg" alt="Image 0" width="100%"/>
 
-  <iframe width="103.6%" height="600" 
+  <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"}
+  {:.note title="Undergoing"} -->
 
 ---
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Project(A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
+  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Links: <a href="https://www.youtube.com/embed/AGlzNG7ZrcM">[Video]</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
   <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization</strong>.</font>
@@ -116,10 +121,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <img src="assets/images/frame.png" alt="Image 0" width="auto"/>
 
-  <iframe width="100%" height="600" 
+  <!-- <iframe width="100%" height="600" 
   src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
+  gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ---
 
@@ -199,7 +204,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 {:.stretch-table}
 
 
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">Here</a> is an introduction to 'HarClass'(in Chinese).</font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></font>
 
 
 <div class="image-container2">
@@ -240,7 +245,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 {:.stretch-table}
 
 
-- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle and its self-driving process can be found <a href="https://youtu.be/QgceA6COu9s">here.</a></font>
+- <font size=3 face="微软雅黑" color=DimGray>As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle. <a href="https://youtu.be/QgceA6COu9s">[Video]</a></font>
 
 
 <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
@@ -328,8 +333,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </table>
 {:.stretch-table}
 
-- <font size=3 face="微软雅黑" color=DimGray>Managed a team of 10+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
-highest program level among Chinese universities as well as winning lots of national champions(VEX-U track).</font>
+- <font size=3 face="微软雅黑" color=DimGray>Managed a team of 20+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the
+highest program level among Chinese universities as well as winning lots of national/international champions.</font>
 
 <div class="image-container3">
   <img src="assets/competition/vex3.jpeg" alt="Image 0" class="onethird-width" />
