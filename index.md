@@ -29,7 +29,7 @@ hide_description: true
 
 **I will join [Shanghai Qi Zhi Institude](https://sqz.ac.cn/) as a graduate researcher starting from January 2024, advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for the upcoming Fall 2024**. 
 
-I received my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Zhongqiang Ren](https://wonderren.github.io/) (Postdoc from [Carnegie Mellon University, RI](https://www.ri.cmu.edu/)).
+I received my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/)).
 
 I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation.
 
@@ -121,8 +121,13 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <img src="assets/images/frame.png" alt="Image 0" width="auto"/>
 
+<<<<<<< HEAD
   <!-- <iframe width="100%" height="600" 
   src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
+=======
+  <iframe width="100%" height="600" 
+  src="https://www.youtube.com/embed/3kP_b1RegkI" frameborder="0" 
+>>>>>>> 294bd78a0cd0b08a907f10f30b28fe214ae25d45
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
