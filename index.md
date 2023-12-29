@@ -210,7 +210,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 </div>
 
 <div class="image-container2">
-  <img src="assets/competition/uav3.jpeg" alt="Image 0" class="half-width" />
+  <img src="assets/competition/uav3_small.jpeg" alt="Image 0" class="half-width" />
   <img src="assets/competition/uav2.jpeg" alt="Image 1" class="half-width" />
 </div>
 
