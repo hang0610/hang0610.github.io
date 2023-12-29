@@ -25,22 +25,79 @@ hide_description: true
 </style> -->
 
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="biography">Biography </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="biography">Biography </h2>
 
-**I will join [Shanghai Qi Zhi Institude](https://sqz.ac.cn/) as a graduate researcher starting from January 2024, advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for the upcoming Fall 2024**. 
+**I will join [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en) as a full-time RA starting from January 2024, advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for the upcoming Fall 2024**. 
 
-I received my B.Eng. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/)).
+I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU).
 
 I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation.
 
 During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
-<!-- During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺. -->
-<!-- My research interest falls in the intersection of Human-Computer Interaction, User-Centered Design, and Accessibility. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.   -->
-
-<!-- Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
-
-I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. -->
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 35px; font-weight: bold;" id="">Experience </h3>
+<div>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/images/qizhi.png" style="border-square: 50%;" width="100%">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 23px;">Full-time Research Assistant</b>
+                <span style="font-size: 20px; float: right">Jan. 2024 - </span>
+            </span><br>
+            <span style="font-size: 20px;"><a href="https://sqz.ac.cn/en" target="_blank">Shanghai Qi Zhi Institude</a></span><br>
+            <span style="font-size: 20px;">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span><br>
+            <span style="font-size: 20px;">Topic: </span><span style="font-size: 20px; font-weight: bold">Mobile Manipulation</span>
+        </div>
+    </div>
+    <br>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/images/cmu.png" style="border-square: 50%;">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 23px;">Research Intern (Remote)</b>
+                <span style="font-size: 20px; float: right">Summer 2023</span>
+            </span><br>
+            <span style="font-size: 20px;"><a href="http://biorobotics.ri.cmu.edu/index.php" target="_blank">Biorobotics Lab at Carnegie Mellon University</a></span><br>
+            <span style="font-size: 20px;">Advisor: <a href="https://wonderren.github.io/" target="_blank">Prof. Richard Ren</a></span><br>
+            <span style="font-size: 20px;">Topic: </span><span style="font-size: 20px; font-weight: bold">Multi-Agent Path Finding</span>
+        </div>
+    </div>
+    <br>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/images/irmv.png" style="border-square: 50%;" width="100%">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 23px;">Undergraduate Research Assistant</b>
+                <span style="font-size: 20px; float: right">Jan. 2023 - Jun. 2023</span>
+            </span><br>
+            <span style="font-size: 20px;"><a href="https://irmv.sjtu.edu.cn/" target="_blank">Intelligent Robotics and Machine Vision Lab at SJTU</a></span><br>
+            <span style="font-size: 20px;">Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng" target="_blank">Prof. Hesheng Wang</a></span><br>
+            <span style="font-size: 20px;">Topic: </span><span style="font-size: 20px; font-weight: bold">Image-Based Visual Servo for Quadrotor</span>
+        </div>
+    </div>
+    <br>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/images/nls.svg" style="border-square: 50%;" width="90%">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 23px;">Undergraduate Research Assistant</b>
+                <span style="font-size: 20px; float: right">Sep. 2022 - Feb. 2023</span>
+            </span><br>
+            <span style="font-size: 20px;"><a href="https://isn.sjtu.edu.cn/web/index" target="_blank">Institute for Sensing and Navigation at SJTU</a></span><br>
+            <span style="font-size: 20px;">Advisor: <a href="https://drone.sjtu.edu.cn/dpzou/" target="_blank">Prof. Danping Zou</a></span><br>
+            <span style="font-size: 20px;">Topic: </span><span style="font-size: 20px; font-weight: bold">Autonomous Drone Racing</span>
+        </div>
+    </div>
+    <br>
+</div>
 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
@@ -55,41 +112,26 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 35px; font-weight: bold;" id="">Education </h3>
-<table class="stretch-table">
-  <tbody>
-      <tr>
-        <td style="width:380px; height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.2rem;font-weight: bold; width: auto;height:auto;">Shanghai Jiao Tong University</span>
-            <br>
-            <span style="font-family: 'sans'; font-weight:normal; font-size:1.1rem">B.Eng. in Automation</span>
-            <!-- <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
-          </div>
-        </td>
-        <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/images/sjtu.png" style="float: left;" height="100" width="100">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
-            <br>
-            <span style="font-family: 'sans';">2019.09-2023.06</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table>
-{:.stretch-table}
-
-
+<div style="display: flex; align-items: center;">
+    <div style="width: 15%; display: inline-block;">
+        <img src="assets/images/sjtu.png" style="border-radius: 50%;">
+    </div>
+    <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
+        <span>
+            <b style="font-size: 23px;">Shanghai Jiao Tong University</b>
+            <span style="font-size: 20px; float: right">Sep. 2019 - Jun. 2023</span>
+        </span><br>
+        <span style="font-size: 20px;">Undergraduate Student</span><br>
+        <span style="font-size: 20px;">Major:</span> <span style="font-size: 20px; font-weight: bold;">Automation</span><br>
+    </div>
+</div>
+<br>
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="research">Research </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="research">Research</h2>
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration</h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Prof. Zhongqiang Ren</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Prof. Richard Ren</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">IEEE Transactions on Automation Science and Engineering (<font size=4 face="微软雅黑" color=black weight=bold><strong>T-ASE 2024</strong></font>, under review)</h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/hang0610/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
 
@@ -111,7 +153,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.47rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduation Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Links: <a href="https://www.youtube.com/embed/AGlzNG7ZrcM">[Video]</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.6rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em ">Innovation</h5>
@@ -126,10 +168,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<br>
 
 ---
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="competitions">Competitions </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="competitions">Competitions </h2>
 
 <table class="stretch-table">
   <tbody>
@@ -139,7 +181,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
             <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">UAV Intelligent Perception Technology Competition</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Third Prize(10%)</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Third Prize (10%)</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
@@ -174,7 +216,6 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 ---
-
 <table class="stretch-table">
   <tbody>
       <tr>
@@ -183,7 +224,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
             <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">National University IOT Design Competition</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National First Prize & Harmony Innovation Award(1%)</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National First Prize & Harmony Innovation Award (1%)</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
@@ -224,7 +265,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
             <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">National University ICT Competition (Innovation)</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Second Prize(5%)</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Second Prize (5%)</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
@@ -285,12 +326,11 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   </tbody>
 </table> -->
 <!-- {:.stretch-table} -->
-
+<br>
 
 ---
 
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="awards">Awards </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="awards">Awards </h2>
   <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 5%)** 
 
   <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Student (top 3%)** 
@@ -299,11 +339,11 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
   <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Scholarship** 
   <br/> 
-
+<br>
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="leadership">Leadership </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="leadership">Leadership </h2>
 
 <table class="stretch-table">
   <tbody>
@@ -350,20 +390,21 @@ communication modules and presented results to universities and IFI Chinese repr
   <img src="assets/competition/vexai1.gif" alt="Image 0" class="half-width" />
   <img src="assets/competition/vexai2.gif" alt="Image 1" class="half-width" />
 </div>
+<br>
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="skills">Skills </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="skills">Skills </h2>
 
 - <font size=4 face="微软雅黑" color=black>Programming Languages<br></font>
   <font size=3 face="微软雅黑" color=gray>Python, C++, Matlab, Java</font>
 
 - <font size=4 face="微软雅黑" color=black>Tools & Pakages<br></font>
-  <font size=3 face="微软雅黑" color=gray>ROS, Gazebo, Airsim, Tensorflow, Pytorch, OpenCV, Numpy.</font>
+  <font size=3 face="微软雅黑" color=gray>ROS, Pytorch, Tensorflow, OpenCV, Gazebo, Airsim.</font>
 
 ---
 
-<!-- <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="interests">Interests </h2>
+<!-- <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:40px" id="interests">Interests </h2>
 During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺.
 
 Here are some cute animals I photographed when travelling in my hometown:
