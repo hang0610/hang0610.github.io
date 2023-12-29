@@ -31,7 +31,7 @@ hide_description: true
 
 I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU).
 
-I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation.
+I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation via **Reinforcement Learning**.
 
 During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
