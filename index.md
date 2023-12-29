@@ -291,9 +291,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:45px" id="awards">Awards </h2>
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate(top 5%)** 
+  <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 5%)** 
 
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Student(top 3%)** 
+  <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Student (top 3%)** 
 
   <span class="icon-award" aria-hidden="true"></span> **SJTU Academic Progress Scholarship** 
 
