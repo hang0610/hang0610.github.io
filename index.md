@@ -34,6 +34,21 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'
 
 During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
+<div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
+    <div style="width: 15%; display: inline-block;">
+        <img src="assets/images/sjtu.png" style="border-radius: 50%;">
+    </div>
+    <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
+        <span>
+            <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
+            <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
+        </span><br>
+        <span style="font-size: 15px;">Undergraduate Student</span><br>
+        <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>
+    </div>
+</div>
+
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
 <div>
     <div style="display: flex; align-items: center;">
@@ -108,23 +123,6 @@ During my undergraduate career, I was the leader of the programming group at [SJ
     <!-- <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-instagram"></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Yuanhang Zhang's Instagram profile</span></a></li> 
   </ul>
 </div> -->
-
-
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
-<div style="display: flex; align-items: center;">
-    <div style="width: 15%; display: inline-block;">
-        <img src="assets/images/sjtu.png" style="border-radius: 50%;">
-    </div>
-    <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
-        <span>
-            <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
-            <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
-        </span><br>
-        <span style="font-size: 15px;">Undergraduate Student</span><br>
-        <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>
-    </div>
-</div>
-<br>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>

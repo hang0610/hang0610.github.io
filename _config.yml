@@ -33,7 +33,7 @@ logo:                  /assets/images/hang.jpeg
 
 # A shorter description for the sidebar.
 tagline: |
-  Nobody
+  Homepage
 
 # A list of keywords for your blog
 keywords:              [Yuanhang, Competition Experiences, Research, SJTU]
@@ -43,7 +43,7 @@ author:
   name:                Yuanhang Zhang
   email:               <harveyzhang0610@163.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  twitter:             Yuanhang
 
 # Add links to the sidebar.
 menu:
