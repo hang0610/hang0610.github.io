@@ -23,10 +23,15 @@
 // font-size: 1.1rem;
 // // vertical-align: top;
 // }
+.table-span-spacing {
+margin-top: 1px; /* 调整上方间距 */
+margin-bottom: 1px; /* 调整下方间距 */
+}
+
 .image-container2 {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .half-width {
@@ -37,7 +42,7 @@ height: auto;
 .image-container3 {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .onethird-width {
@@ -64,18 +69,21 @@ height: auto;
 
 // main text font size
 p {
-    font-size: 1.25rem;
-    line-height: 2.25rem;
+    font-size: 0.98rem;
+    line-height: 1.5rem;
 }
 
 //lead text font size
 p.lead {
+    margin-top: 0; 
     font-size: 1.25rem;
 }
 
 //homepage header font size
 .homeheader {
+    margin-top: 0; 
     font-size: 2rem;
+    overflow: hidden;
 }
 
 // sidebar menu font size
@@ -89,6 +97,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 600;
 }
 
+h2, .h2 {
+    margin-bottom: 10px; // 调整下方间距
+}
+h3, .h3 {
+    margin-bottom: 5px; // 调整下方间距
+}
+// h4, .h4 {
+//     margin-top: -10px; // 调整下方间距
+// }
 // change color of h3 - h6 to pitch black
 h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
     color: black;
