@@ -26,11 +26,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I will join [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en) as a full-time RA starting from January 2024, advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for Fall 2024**. 
+**I am doing robotic research at [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en), advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for Fall 2024**. 
 
 I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU).
 
-I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. I'm now doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation via **Reinforcement Learning**.
+I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation** for simultaneous locomotion and manipulation via **Reinforcement Learning**.
 
 During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
@@ -158,7 +158,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
       <span style="font-size: 15px; color: Black; font-weight: bold">purely based on visual information without localization.</span>
   </div>
   <!-- 1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  2. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
+  1. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
   <img src="assets/images/frame.png" alt="Image 0" width="85%"/>
 
