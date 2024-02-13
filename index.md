@@ -150,7 +150,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.1rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://gitee.com/Hang_SJTU/ibvs_nmpc_px4_ws.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; ">Innovation</h5>
   <div style="width: 85%; display: inline-block;">
