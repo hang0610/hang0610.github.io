@@ -150,7 +150,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.1rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://www.youtube.com/embed/AGlzNG7ZrcM">[Video]</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
 
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; ">Innovation</h5>
   <div style="width: 85%; display: inline-block;">
@@ -160,7 +160,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
   <!-- 1. <font size=3 face="微软雅黑" color=DimGray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
   1. <font size=3 face="微软雅黑" color=DimGray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
-  <img src="assets/images/frame.png" alt="Image 0" width="85%"/>
+  <img src="assets/images/undergraduate_thesis.png" alt="Image 0" width="85%"/>
 
 
   <!-- <iframe width="100%" height="600" 
@@ -172,7 +172,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="competitions">Competitions </h2>
 
-<table class="stretch-table" style="margin: -0.2em 0em 0.5em 0em;  width: 50%">
+<table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em;  width: 50%">
   <tbody>
       <tr>
         <td style=" height:auto;">
@@ -216,7 +216,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 
 
 ---
-<table class="stretch-table" style="margin: 0.5em 0em 0.5em 0em; ">
+<table class="stretch-table" style="margin: 0.5em 0em 0.5em -0.5em; ">
   <tbody>
       <tr>
         <td style="width:auto; height:auto;">
@@ -257,7 +257,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 
 ---
 
-<table class="stretch-table" style="margin: 0.5em 0em 0.5em 0em; width: 90%">
+<table class="stretch-table" style="margin: 0.5em 0em 0.5em -0.5em; width: 90%">
   <tbody>
       <tr>
         <td style="width:auto; height:auto;">
@@ -345,7 +345,7 @@ During my undergraduate career, I was the leader of the programming group at [SJ
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="leadership">Leadership </h2>
 
-<table class="stretch-table" style="margin: -0.2em 0em 0.5em 0em; ">
+<table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em; ">
   <tbody>
       <tr>
         <td style="width:300px; height:auto;">
