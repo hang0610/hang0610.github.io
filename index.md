@@ -32,7 +32,7 @@ I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu
 
 I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation** based on **Reinforecement Learning**.
 
-During my undergraduate career, I was the leader of the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). I led over 20 undergraduates to implement and fine-tune our custom planning and controlling algorithms in order to enable our robots to execute predefined tasks efficiently and compete with other universities. I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
+During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/), where I spent three years with my teamates automating our custom robots and winning lots of national/international champions in the [VEX Robotics Competition](https://www.vexrobotics.com/competition?___store=vexroboticsap&___from_store=vexrobotics). In addition, I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
