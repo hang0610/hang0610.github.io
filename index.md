@@ -26,7 +26,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I am doing robotic research at [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en), advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/). Meanwhile, I'm applying for MS/PhD programs in Robotics for Fall 2024**. 
+**I'm an incoming MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am doing robotic research at [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en), advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).**. 
 
 I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU).
 
