@@ -40,8 +40,8 @@ keywords:              [Yuanhang, Competition Experiences, Research, SJTU]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Yuanhang Zhang
-  email:               <harveyzhang0610@163.com>
+  name:                Yuanhang Zhang 
+  email:               <yuanhang0610@gmail.com>
   # Used by `jekyll-seo-tag`:
   twitter:             Yuanhang
 
@@ -77,7 +77,7 @@ legal:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023 Yuanhang Zhang. All rights reserved.
+copyright:             © 2024 Yuanhang Zhang. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

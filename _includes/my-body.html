@@ -53,7 +53,7 @@ Use this add elements to the <body/> of the document.
 <!-- reduce font size of tagline-->
 <!-- incorporate typewriter.js -->
 <script type="text/javascript">
-  document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>INTJ</span><span id='mytag' aria-hidden='true'></span>";
+  document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>张远航</span><span id='mytag' aria-hidden='true'></span>";
   document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "1.5rem";
   var typewriter = new Typewriter(mytag, {
     loop: false,
@@ -61,7 +61,7 @@ Use this add elements to the <body/> of the document.
     deleteSpeed: 1
   });
   typewriter.pauseFor(2000)
-  .typeString('INTJ')
+  .typeString('张远航')
   .pauseFor(6000)
   .start();
 </script>
