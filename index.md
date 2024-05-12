@@ -401,7 +401,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <font size=3 face="微软雅黑" color=gray>Python, C++, Matlab, Java</font>
 
 - <font size=4 face="微软雅黑" color=black>Tools & Pakages<br></font>
-  <font size=3 face="微软雅黑" color=gray>ROS, Pytorch, Tensorflow, OpenCV, Gazebo, Airsim.</font>
+  <font size=3 face="微软雅黑" color=gray>ROS, Mujoco, IsaacGym, Pytorch, Tensorflow, OpenCV, Gazebo, Airsim.</font>
 
 ---
 
