@@ -28,7 +28,7 @@ hide_description: true
 
 **I'm an incoming MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/).** 
 
-I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (PhD from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU from 2024).
+I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (PhD from CMU RI, now leads [RAP Lab at SJTU](https://rap-lab.github.io/) from 2024).
 
 I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation**.
 
