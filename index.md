@@ -26,11 +26,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm an incoming MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am doing robotic research at [Shanghai Qi Zhi Institude](https://sqz.ac.cn/en), advised by [Prof. Huazhe Xu](http://hxu.rocks/) from [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).** 
+**I'm an incoming MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/).** 
 
-I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (Postdoc from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU).
+I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (PhD from [RI, Carnegie Mellon University](https://www.ri.cmu.edu/), now at SJTU from 2024).
 
-I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation** based on **Reinforecement Learning**.
+I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation**.
 
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/), where I spent three years with my teamates automating our custom robots and winning lots of national/international champions in the [VEX Robotics Competition](https://www.vexrobotics.com/competition?___store=vexroboticsap&___from_store=vexrobotics). In addition, I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
@@ -53,14 +53,14 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <div>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/qizhi.png" style="border-square: 50%;" width="100%">
+            <img src="assets/images/tea.jpg" style="border-square: 50%;" width="100%">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
                 <b style="font-size: 18px;">Full-time Research Assistant</b>
                 <span style="font-size: 15px; float: right">Jan. 2024 - </span>
             </span><br>
-            <span style="font-size: 15px;"><a href="https://sqz.ac.cn/en" target="_blank">Shanghai Qi Zhi Institude</a></span><br>
+            <span style="font-size: 15px;"><a href="http://hxu.rocks/index.html" target="_blank">Tsinghua Embodied AI Lab (TEA Lab)</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span><br>
             <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Mobile Manipulation</span>
         </div>
@@ -68,14 +68,14 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
     <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/cmu.png" style="border-square: 50%;">
+            <img src="assets/images/rap.png" style="border-square: 50%;">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
                 <b style="font-size: 18px;">Research Intern (Remote)</b>
                 <span style="font-size: 15px; float: right">Summer 2023</span>
             </span><br>
-            <span style="font-size: 15px;"><a href="http://biorobotics.ri.cmu.edu/index.php" target="_blank">Biorobotics Lab at Carnegie Mellon University</a></span><br>
+            <span style="font-size: 15px;"><a href="https://rap-lab.github.io/" target="_blank">Robotics Autonomy and Planning Lab at SJTU</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="https://wonderren.github.io/" target="_blank">Prof. Richard Ren</a></span><br>
             <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Multi-Agent Path Finding</span>
         </div>
@@ -129,6 +129,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.1rem; background-color: rgb(255 255 255);">Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration</h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Prof. Richard Ren</a></h4>
+  - Under Review.
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a> Accepted by International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS 2024</strong></font>)</h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
 
