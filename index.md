@@ -76,7 +76,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
                 <span style="font-size: 15px; float: right">Summer 2023</span>
             </span><br>
             <span style="font-size: 15px;"><a href="https://rap-lab.github.io/" target="_blank">Robotics Autonomy and Planning Lab at SJTU</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://wonderren.github.io/" target="_blank">Prof. Richard Ren</a></span><br>
+            <span style="font-size: 15px;">Advisor: <a href="https://wonderren.github.io/" target="_blank">Prof. Zhongqiang Ren</a></span><br>
             <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Multi-Agent Path Finding</span>
         </div>
     </div>
@@ -127,9 +127,12 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
 
-- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.1rem; background-color: rgb(255 255 255);">Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration</h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Summer Research Intern, Advisor: <a href="https://wonderren.github.io/">Prof. Richard Ren</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Under Review</h4>
+- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.1rem; background-color: rgb(255 255 255);">
+  Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration
+  <br>
+  <span style="font-family: 微软雅黑; font-size:3; font-weight: 550;">Yuanhang Zhang, </span> 
+  <span style="font-family: 微软雅黑; font-size:3; font-weight: normal;"><a href="https://irmv.sjtu.edu.cn/wanghesheng">Hesheng Wang</a>, <a href="https://wonderren.github.io/">Zhongqiang Ren</a></span>
+  </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a> Accepted by International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS 2024</strong></font>)</h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
 

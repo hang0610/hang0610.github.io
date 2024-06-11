@@ -94,7 +94,7 @@ p.lead {
 // reduce top margin and weight of headings
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     margin-top: 0; 
-    font-weight: 600;
+    // font-weight: 600;
 }
 
 h2, .h2 {
@@ -150,4 +150,8 @@ html {
 #my-awesome-nav li.active a {
     border-bottom-color: white;
     text-decoration-color: white;
+}
+
+.authors {
+    margin-top: 0px; /* Adjust this value as needed */
 }
