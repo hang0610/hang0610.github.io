@@ -135,7 +135,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; ">Innovation</h5>
   <div style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: DimGray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multiagent combinatorial path finding problem with target duration </span>
+      <span style="font-size: 15px; color: DimGray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration </span>
       <span style="font-size: 15px; color: Black; font-weight: bold">(MCPF-D, an unexplored multiagent path finding problem).</span>
   </div>
   <img src="assets/images/post2.jpeg" alt="Image 0" width="85%"/>
