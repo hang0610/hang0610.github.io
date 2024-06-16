@@ -95,7 +95,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
             <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Image-Based Visual Servo for Quadrotor</span>
         </div>
     </div>
-    <br>
+    <!-- <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
             <img src="assets/images/nls.svg" style="border-square: 50%;" width="90%">
@@ -109,7 +109,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
             <span style="font-size: 15px;">Advisor: <a href="https://drone.sjtu.edu.cn/dpzou/" target="_blank">Prof. Danping Zou</a></span><br>
             <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Autonomous Drone Racing</span>
         </div>
-    </div>
+    </div> -->
     <br>
 </div>
 
