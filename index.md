@@ -411,8 +411,6 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
 <!-- <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="interests">Interests </h2>
 During my leisure time, I also enjoy playing basketball, working out, traveling, and photography. These are all indispensable elements that heal my soul☺.
 
@@ -424,6 +422,7 @@ Here are some cute animals I photographed when travelling in my hometown:
   <img src="assets/interests/squirrel.jpeg" alt="Image 3" class="onethird-width" />
 </div> -->
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 <style>
         /* table {
