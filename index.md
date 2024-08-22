@@ -26,7 +26,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm an incoming MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/).** 
+**I'm an MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/).** 
 
 I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (PhD from CMU RI, now leads [RAP Lab at SJTU](https://rap-lab.github.io/) from 2024).
 
@@ -35,18 +35,34 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/), where I spent three years with my teamates automating our custom robots and winning lots of national/international champions in the [VEX Robotics Competition](https://www.vexrobotics.com/competition?___store=vexroboticsap&___from_store=vexrobotics). In addition, I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
-<div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
-    <div style="width: 15%; display: inline-block;">
-        <img src="assets/images/sjtu.png" style="border-radius: 50%;">
-    </div>
-    <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
-        <span>
-            <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
-            <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
-        </span><br>
-        <span style="font-size: 15px;">Undergraduate Student</span><br>
-        <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>
-    </div>
+<div>
+  <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
+      <div style="width: 15%; display: inline-block;">
+          <img src="assets/images/cmu.jpg" style="border-radius: 50%;">
+      </div>
+      <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
+          <span>
+              <b style="font-size: 18px;">Carnegie Mellon University</b>
+              <span style="font-size: 15px; float: right">Aug. 2024 - Present</span>
+          </span><br>
+          <span style="font-size: 15px;">Master Student</span><br>
+          <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Robotic Systems Development</span><br>
+      </div>
+  </div>
+  <br>
+  <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
+      <div style="width: 15%; display: inline-block;">
+          <img src="assets/images/sjtu.png" style="border-radius: 50%;">
+      </div>
+      <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
+          <span>
+              <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
+              <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
+          </span><br>
+          <span style="font-size: 15px;">Undergraduate Student</span><br>
+          <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>
+      </div>
+  </div>
 </div>
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
@@ -58,7 +74,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
                 <b style="font-size: 18px;">Full-time Research Assistant</b>
-                <span style="font-size: 15px; float: right">Jan. 2024 - </span>
+                <span style="font-size: 15px; float: right">Jan. 2024 - Jul. 2024</span>
             </span><br>
             <span style="font-size: 15px;"><a href="http://hxu.rocks/index.html" target="_blank">Tsinghua Embodied AI Lab (TEA Lab)</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span><br>
