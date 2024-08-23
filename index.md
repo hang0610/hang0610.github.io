@@ -49,7 +49,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
           <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Robotic Systems Development</span><br>
       </div>
   </div>
-  <br>
+  <!-- <br> -->
   <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
           <img src="assets/images/sjtu.png" style="border-radius: 50%;">
