@@ -26,13 +26,13 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm an MS student at [CMU RI](https://www.ri.cmu.edu/). Currently, I am a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Huazhe Xu](http://hxu.rocks/).** 
+**I'm an MS student at [CMU RI](https://www.ri.cmu.edu/).** 
 
-I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2023, where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). In the summer of 2023, I worked remotely with [Prof. Richard Ren](https://wonderren.github.io/) (PhD from CMU RI, now leads [RAP Lab at SJTU](https://rap-lab.github.io/) from 2024).
+Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). After that, I worked with [Prof. Richard Ren](https://wonderren.github.io/) remotely during a summer research. Subsequently, I worked with [Prof. Huazhe Xu](http://hxu.rocks/) as a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
+
+During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). Additionally, I have participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
 I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation**.
-
-During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/), where I spent three years with my teamates automating our custom robots and winning lots of national/international champions in the [VEX Robotics Competition](https://www.vexrobotics.com/competition?___store=vexroboticsap&___from_store=vexrobotics). In addition, I have also participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
