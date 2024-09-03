@@ -158,7 +158,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
       <span style="font-size: 15px; color: DimGray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration </span>
       <span style="font-size: 15px; color: Black; font-weight: bold">(MCPF-D, an unexplored multiagent path finding problem).</span>
   </div>
-  <img src="assets/images/post2.jpeg" alt="Image 0" width="85%"/>
+  <img src="assets/images/gr.png" alt="Image 0" width="85%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
