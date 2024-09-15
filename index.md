@@ -143,7 +143,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
 
-- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.1rem; background-color: rgb(255 255 255);">
+- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.2rem; background-color: rgb(255 255 255);">
   Catch It! Learning to Catch in Flight with Mobile Dexterous Hands
   <br>
   <span style="font-family: 微软雅黑; font-size:3; font-weight: 600;">Yuanhang Zhang, </span>
@@ -168,7 +168,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   {:.note title="Undergoing"} -->
 
 
-- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.1rem; background-color: rgb(255 255 255);">
+- <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.2rem; background-color: rgb(255 255 255);">
   Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration
   <br>
   <span style="font-family: 微软雅黑; font-size:3; font-weight: 600;">Yuanhang Zhang, </span>
