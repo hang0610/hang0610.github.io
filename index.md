@@ -178,6 +178,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   gyroscope; picture-in-picture" allowfullscreen></iframe>
   {:.note title="Undergoing"} -->
 
+---
 
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.2rem; background-color: rgb(255 255 255);">
   Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration
