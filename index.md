@@ -204,7 +204,6 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   {:.note title="Undergoing"} -->
 
 ---
-
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-weight: bold; font-size: 1.2rem; background-color: rgb(255 255 255);">Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight</h3>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
@@ -501,24 +500,30 @@ hr:nth-of-type(2) {
   border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(3) {
-  border-width: 3px 0 0 0 !important;
+  border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(4) {
-  border-width: 0.5px 0 0 0 !important;
+  border-width: 3px 0 0 0 !important;
 }
 hr:nth-of-type(5) {
   border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(6) {
-  border-width: 3px 0 0 0 !important;
+  border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(7) {
-  border-width: 3px 0 0 0 !important;
+  border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(8) {
   border-width: 3px 0 0 0 !important;
 }
 hr:nth-of-type(9) {
+  border-width: 3px 0 0 0 !important;
+}
+hr:nth-of-type(10) {
+  border-width: 3px 0 0 0 !important;
+}
+hr:nth-of-type(11) {
   border-width: 3px 0 0 0 !important;
 }
 </style>
