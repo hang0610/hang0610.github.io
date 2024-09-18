@@ -411,7 +411,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
             <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.2rem;font-weight: bold; width: auto;height:auto;"><a href="https://sjtu-vex.github.io/">SJTU-VEX</a></span>
             <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #051d21; font-weight:bold; font-size:1.1rem">Program Team Leader</span>
+            <span style="font-family: 'Comic Sans MS'; color: #051d21; font-weight:bold; font-size:1.1rem">Programming Team Leader</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
