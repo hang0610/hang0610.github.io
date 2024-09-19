@@ -34,6 +34,64 @@ hide_description: true
   }
 </style>
 
+<style type="text/css">
+  .body-social > ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 0;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .body-social > ul > li {
+    float: left;
+    
+    /* padding-left: 5px; */
+    padding-right: 10px;
+    
+    /* display: inline-block; */
+  }
+
+
+  .body-social > ul > li > a {
+    display: inline;
+    text-align: center;
+    font-size: 0.95rem;
+    font-weight: 600;
+    /*width: 3rem;*/
+    /*height: 4rem;*/
+    padding: 4px;
+    
+    /* line-height: 3rem; */
+    
+    text-decoration: none;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
+    
+    /* border-bottom: none; */
+  }
+
+  .body-social > ul > li > a:not(.btn):not(.no-hover) {
+    border-color: var(--accent-color);
+  }
+
+  .body-social > ul > li > a:hover {
+    color: white;
+    background-color: var(--accent-color);
+    border-radius: 5px;
+    padding: 4px;
+    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
+  }
+
+  .note-sm:before, .note:before {
+    font-size: 1.3rem;
+    color: rgb(1,92,171);
+    line-height: 0.5em;
+    /* padding: 1px; */
+  }
+</style>
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
@@ -474,7 +532,7 @@ Here are some cute animals I photographed when travelling in my hometown:
   <img src="assets/interests/squirrel.jpeg" alt="Image 3" class="onethird-width" />
 </div> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 <style>
         /* table {
@@ -526,63 +584,4 @@ hr:nth-of-type(10) {
 hr:nth-of-type(11) {
   border-width: 3px 0 0 0 !important;
 }
-</style>
-
-<style type="text/css">
-  .body-social > ul {
-    display: inline-block;
-    list-style-type: none;
-    margin-bottom: 0;
-    overflow: hidden;
-    padding: 0;
-  }
-
-  .body-social > ul > li {
-    float: left;
-    
-    /* padding-left: 5px; */
-    padding-right: 10px;
-    
-    /* display: inline-block; */
-  }
-
-
-  .body-social > ul > li > a {
-    display: inline;
-    text-align: center;
-    font-size: 0.95rem;
-    font-weight: 600;
-    /*width: 3rem;*/
-    /*height: 4rem;*/
-    padding: 4px;
-    
-    /* line-height: 3rem; */
-    
-    text-decoration: none;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 5px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-    
-    /* border-bottom: none; */
-  }
-
-  .body-social > ul > li > a:not(.btn):not(.no-hover) {
-    border-color: var(--accent-color);
-  }
-
-  .body-social > ul > li > a:hover {
-    color: white;
-    background-color: var(--accent-color);
-    border-radius: 5px;
-    padding: 4px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-  }
-
-  .note-sm:before, .note:before {
-    font-size: 1.3rem;
-    color: rgb(1,92,171);
-    line-height: 0.5em;
-    /* padding: 1px; */
-  }
 </style>
