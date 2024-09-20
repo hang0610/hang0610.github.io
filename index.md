@@ -228,7 +228,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   <div style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: DimGray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
   </div>
-  <img src="assets/images/dcmm.png" alt="Image 0" width="85%"/>
+  <img src="assets/images/catch_motion_updated.png" alt="Image 0" width="36%"/>
+  <img src="assets/images/dcmm.gif" alt="Image 0" width="49%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -253,7 +254,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   <div style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: DimGray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
   </div>
-  <img src="assets/images/gr.png" alt="Image 0" width="85%"/>
+  <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
+  <img src="assets/images/mcpfd.gif" alt="Image 0" width="85%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -320,8 +322,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
 - <span style="font-size: 15px; color: DimGray; " class="table-span-spacing" >As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</span>
 <div style="padding-left: 20px; width: auto">
   <div class="image-container2">
-    <img src="assets/competition/dronerace1.gif" alt="Image 0" class="half-width" />
-    <img src="assets/competition/dronerace2.gif" alt="Image 1" class="half-width" />
+    <img src="assets/competition/dronerace1_updated.gif" alt="Image 0" class="half-width" />
+    <img src="assets/competition/dronerace2_updated.gif" alt="Image 1" class="half-width" />
   </div>
 
   <div class="image-container2">
@@ -503,8 +505,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
 
 <div style="padding-left: 20px;">
   <div class="image-container2">
-    <img src="assets/competition/vexai1.gif" alt="Image 0" class="half-width" />
-    <img src="assets/competition/vexai2.gif" alt="Image 1" class="half-width" />
+    <img src="assets/competition/vexai1_updated.gif" alt="Image 0" class="half-width" />
+    <img src="assets/competition/vexai2_updated.gif" alt="Image 1" class="half-width" />
   </div>
 </div>
 <br>
