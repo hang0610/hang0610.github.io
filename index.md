@@ -215,8 +215,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
 - <h3 class="h2" style="font-family: sans;color: rgb(0 0 0); font-size: 1.2rem; background-color: rgb(255 255 255);">
   Catch It! Learning to Catch in Flight with Mobile Dexterous Hands
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgb(235 235 235)">Yuanhang Zhang</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://tinhal.github.io/">Tianhai Liang</a>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgb(235 235 235)">Yuanhang Zhang<sup>&dagger;</sup></span>,
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://tinhal.github.io/">Tianhai Liang<sup>&dagger;</sup></a>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://yanjieze.com/">Yanjie Ze</a>, <a href="http://hxu.rocks/index.html">Huazhe Xu</a></span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Under Review.</h4>
