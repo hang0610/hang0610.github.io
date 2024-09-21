@@ -228,7 +228,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Cu
   <div style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: DimGray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
   </div>
-  <img src="assets/images/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/images/dcmm.gif" alt="Image 0" width="49%"/>
+  <img src="assets/images/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/images/dcmm.gif" alt="Image 0" width="49.25%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
