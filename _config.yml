@@ -24,7 +24,7 @@ title:                 Yuanhang Zhang
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Homepage of Yuanhang Zhang -  INTJ and Applying for 2024fall.
+  Homepage of Yuanhang Zhang -  Roboticist.
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,7 +43,7 @@ author:
   name:                Yuanhang Zhang 
   email:               <yuanhang0610@gmail.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             Yuanhang
+  twitter:             Yuanhang__Zhang
 
 # Add links to the sidebar.
 menu:
@@ -57,8 +57,10 @@ menu:
     url:               /#awards
   - title:             LEADERSHIP
     url:               /#leadership
-  - title:             SKILLS
-    url:               /#skills
+  - title:             SERVICE
+    url:               /#service
+  # - title:             SKILLS
+  #   url:               /#skills
   # - title:             INTERESTS
   #   url:               /#interests
   - title:             RESUME
