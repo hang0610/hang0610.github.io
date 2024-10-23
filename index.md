@@ -101,7 +101,7 @@ Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](htt
 
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/). Additionally, I have participated other types of <a href="#competitions">competitions</a> related to Unmanned Vehicles (UV) and Unmanned Aerial Vehicle (UAV).
 
-I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm doing research on **Mobile Manipulation**.
+I'm interested in **Robotics**, **Machine Learning** and **Computer Vision**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**.
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
