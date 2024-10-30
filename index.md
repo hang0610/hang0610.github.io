@@ -593,24 +593,24 @@ Here are some cute animals I photographed when travelling in my hometown:
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=380&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
-<!-- <script>
-// JavaScript to toggle specific content by ID
-function toggleSummary(id) {
-  var content = document.getElementById(id);
-  var title = content.previousElementSibling;
-  
-  if (content.style.display === "none") {
-    content.style.display = "block";
-    title.textContent = "▼ TL;DR";
-  } else {
-    content.style.display = "none";
-    title.textContent = "▶ TL;DR";
+<script>
+  // JavaScript to toggle specific content by ID
+  function toggleSummary(id) {
+    var content = document.getElementById(id);
+    var title = content.previousElementSibling;
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      title.textContent = "▼ TL;DR";
+    } else {
+      content.style.display = "none";
+      title.textContent = "▶ TL;DR";
+    }
   }
-}
 
-// Initialize display for collapsible content
-document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-</script> -->
+  // Initialize display for collapsible content
+  document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+</script>
 
 <style>
     /* table {
