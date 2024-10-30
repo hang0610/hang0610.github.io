@@ -73,3 +73,22 @@
 //   border-bottom-right-radius: 7px;
 //   padding: .5rem 1rem;
 // }
+/* Summary title style */
+.summary-title {
+  font-family: sans;
+  font-size: 1.1rem;
+  color: rgb(1,92,171);
+  line-height: 1.8em;
+  font-weight: bold;
+  margin: 0.0em 0em;
+  cursor: pointer;
+}
+
+/* Collapsible content styling */
+.collapsible-content {
+  display: none; /* Hide by default */
+  width: 85%;
+  font-size: 15px;
+  color: DimGray;
+  margin-top: 0.5em;
+}
