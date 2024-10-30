@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2024-10-30T10:53:23-04:00',
+    INDEX_KEY: 'index--2024-10-30T10:57:00-04:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -155,7 +155,26 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
     s.parentNode.insertBefore(hm, s);
   })();
 </script>
+
+<script>
+  // JavaScript to toggle specific content by ID
+  function toggleSummary(id) {
+    var content = document.getElementById(id);
+    var title = content.previousElementSibling;
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      title.textContent = "▼ TL;DR:";
+    } else {
+      content.style.display = "none";
+      title.textContent = "▶ TL;DR:";
+    }
+  }
   
+  // Initialize display for collapsible content
+  document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+</script>
+
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 <link rel="stylesheet" href="/assets/icons/icon-192x192.png">
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>

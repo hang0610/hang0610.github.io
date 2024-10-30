@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2024-10-30T10:53:23-04:00',
+    INDEX_KEY: 'index--2024-10-30T10:57:00-04:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -155,7 +155,26 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
     s.parentNode.insertBefore(hm, s);
   })();
 </script>
+
+<script>
+  // JavaScript to toggle specific content by ID
+  function toggleSummary(id) {
+    var content = document.getElementById(id);
+    var title = content.previousElementSibling;
+    
+    if (content.style.display === "none") {
+      content.style.display = "block";
+      title.textContent = "▼ TL;DR:";
+    } else {
+      content.style.display = "none";
+      title.textContent = "▶ TL;DR:";
+    }
+  }
   
+  // Initialize display for collapsible content
+  document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+</script>
+
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 <link rel="stylesheet" href="/assets/icons/icon-192x192.png">
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
@@ -1085,7 +1104,7 @@ Here are some cute animals I photographed when travelling in my hometown:
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&amp;w=380&amp;t=tt&amp;d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&amp;co=2d78ad&amp;cmo=3acc3a&amp;cmn=ff5353&amp;ct=ffffff"></script>
 
-<script>
+<!-- <script>
 // JavaScript to toggle specific content by ID
 function toggleSummary(id) {
   var content = document.getElementById(id);
@@ -1102,21 +1121,21 @@ function toggleSummary(id) {
 
 // Initialize display for collapsible content
 document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-</script>
+</script> -->
 
 <style>
-        /* table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-         */
-        th, td {
-            /* max-width: 150px;
-            padding: 8px;
-            border: 1px solid #ccc;
-            text-align: left; */
-            word-wrap: break-word;/* 允许文字自动换行 */
-        }
+    /* table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+      */
+    th, td {
+        /* max-width: 150px;
+        padding: 8px;
+        border: 1px solid #ccc;
+        text-align: left; */
+        word-wrap: break-word;/* 允许文字自动换行 */
+    }
 </style>
 
 <style>

@@ -593,7 +593,7 @@ Here are some cute animals I photographed when travelling in my hometown:
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=380&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
-<script>
+<!-- <script>
 // JavaScript to toggle specific content by ID
 function toggleSummary(id) {
   var content = document.getElementById(id);
@@ -610,21 +610,21 @@ function toggleSummary(id) {
 
 // Initialize display for collapsible content
 document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-</script>
+</script> -->
 
 <style>
-        /* table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-         */
-        th, td {
-            /* max-width: 150px;
-            padding: 8px;
-            border: 1px solid #ccc;
-            text-align: left; */
-            word-wrap: break-word;/* 允许文字自动换行 */
-        }
+    /* table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+      */
+    th, td {
+        /* max-width: 150px;
+        padding: 8px;
+        border: 1px solid #ccc;
+        text-align: left; */
+        word-wrap: break-word;/* 允许文字自动换行 */
+    }
 </style>
 
 
