@@ -244,10 +244,11 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission for ICRA 2025</h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" onclick="toggleSummary('TL;DR1')">▶ TL;DR:</h5>
-  <div id="TL;DR1" class="collapsible-content">
-      We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans.
+  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
+  <div style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: DimGray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
   </div>
+
   <img src="assets/images/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/images/dcmm.gif" alt="Image 0" width="49.25%"/>
 
   <!-- <iframe width="103.6%" height="600" 
@@ -268,9 +269,9 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">In Submission for ICRA 2025</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" onclick="toggleSummary('TL;DR2')">▶ TL;DR:</h5>
-  <div id='TL;DR2' class="collapsible-content">
-      Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration.
+  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
+  <div style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: DimGray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
   </div>
   <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
   <img src="assets/images/mcpfd.gif" alt="Image 0" width="85.25%"/>
@@ -299,9 +300,9 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Under Review, 2024</h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" onclick="toggleSummary('TL;DR3')">▶ TL;DR:</h5>
-  <div id='TL;DR3' class="collapsible-content">
-      Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation.
+  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
+  <div style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: DimGray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
   </div>
   <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
   <img src="assets/images/vitas.png" alt="Image 0" width="85.5%"/>
@@ -317,8 +318,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://github.com/hang0610/ibvs_nmpc_px4.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
-  <h5 class="summary-title" onclick="toggleSummary('TL;DR4')">▶ TL;DR:</h5>
-  <div id='TL;DR4' class="collapsible-content">
+  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
+  <div style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: DimGray">Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight </span>
       <span style="font-size: 15px; color: Black; font-weight: bold">purely based on visual information without localization.</span>
   </div>
