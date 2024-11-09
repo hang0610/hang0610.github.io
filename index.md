@@ -242,7 +242,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://yanjieze.com/">Yanjie Ze</a>, <a href="http://hxu.rocks/index.html">Huazhe Xu</a></span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission for ICRA 2025</h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">CoRL 2024 Workshop LFDM <span style="color: red;">(Outstanding Paper Nominations Award)</span></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM </a><span style="color: red;">(Best Paper Nominations)</span></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
