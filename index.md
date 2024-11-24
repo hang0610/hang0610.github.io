@@ -500,13 +500,15 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="awards">Awards </h2>
+  <span class="icon-award" aria-hidden="true"></span> **Outstanding Paper Nomination in LFDM Workshop at CoRL 2024**
+
   <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 5%)** 
 
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Student (top 3%)** 
+  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Student (top 3%)
 
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Academic Progress Scholarship** 
+  <span class="icon-award" aria-hidden="true"></span> SJTU Academic Progress Scholarship
 
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Merit Scholarship** 
+  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Scholarship
   <br/> 
 <br>
 
