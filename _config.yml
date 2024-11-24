@@ -103,12 +103,16 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
 # This will fetch the `v9` branch of the public Hydejack repository on GitHub.
-# remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack
+# theme: jekyll-theme-hydejack
+# remote_theme: qwtel/hydejack@v8.5.1
+# remote_theme: hydecorp/hydejack@v9.0.4
+# remote_theme: hydecorp/hydejack@v9.2.1
 
 # Customizaton
 # ========================================================================================
@@ -194,7 +198,7 @@ defaults:
   - scope:
       path:            licenses/
     values:
-      layout:          plain
+      layouts:          plain
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
@@ -267,7 +271,7 @@ hydejack:
 
   # Code blocks and tables "break" the layout by spanning the full available width.
   # Set this to true if you want them to be the same width as other content.
-  no_break_layout:     true
+  no_break_layouts:     true
 
   # Set to `true` to disable the dynamic Table of Contents on large screens.
   no_toc:              false
@@ -449,21 +453,21 @@ sass:
 # jekyll_compose:
 #   default_front_matter:
 #     drafts:
-#       layout: post
+#       layouts: post
 #       description: > 
 #         A short ~160 character description of your post for search engines,
 #         social media previews, etc.
 #       image:
 #         path: /assets/img/sidebar-bg.jpg
 #     posts:
-#       layout: post
+#       layouts: post
 #       description: > 
 #         A short ~160 character description of your post for search engines,
 #         social media previews, etc.
 #       image:
 #         path: /assets/img/sidebar-bg.jpg
 #     projects:
-#       layout: project
+#       layouts: project
 #       description: > 
 #         A short ~160 character description of your post for search engines,
 #         social media previews, etc.

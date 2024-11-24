@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Basics
 description: >
   This chapter covers the basics of content creation with Hydejack.
@@ -99,7 +99,7 @@ Posts in Jekyll can belong to one or more categories, as well as one or more tag
 
 ~~~yml
 ---
-layout:     post
+layouts:     post
 title:      Welcome to Jekyll
 categories: [jekyll, update]
 tags:       [jekyll, update]
@@ -152,7 +152,7 @@ The meta data of a category or tag is set in the files front matter, e.g.
 ~~~yml
 # file: `_featured_categories/hyde.md`
 ---
-layout: list
+layouts: list
 title:  Hyde
 slug:   hyde
 description: >
@@ -188,7 +188,7 @@ For more on authors, see [Adding an author](config.md#adding-an-author).
 ~~~md
 <!-- file: `about.md` -->
 ---
-layout: about
+layouts: about
 title:  About
 ---
 
@@ -206,7 +206,7 @@ Hydejack 8 introduces cover pages, i.e. pages witht he sidebar opened, so that i
 ~~~yml
 # file: `index.md`
 ---
-layout: welcome
+layouts: welcome
 title:  Welcome
 cover:  true #!! Add this
 ---
@@ -218,7 +218,7 @@ You can choose which posts will appear in the "Related Posts" section below a po
 ~~~yml
 # file: `category/_posts/2020-02-01-some-post.md`
 ---
-layout: post
+layouts: post
 related_posts:
   # Specify via the path in the file system
   - category/_posts/2020-01-01-other-post.md
@@ -265,7 +265,7 @@ You can create a welcome page by creating a new markdown file and setting the la
 ~~~yml
 # file: `index.md`
 ---
-layout: welcome
+layouts: welcome
 title:  Welcome
 cover:  true
 ---
@@ -342,7 +342,7 @@ with the name of the collection as a value, e.g.:
 ~~~yml
 # file: `projects.md`
 ---
-layout:          projects
+layouts:          projects
 title:           Projects*
 show_collection: projects
 featured:        true
@@ -376,7 +376,7 @@ A project's front matter should look like:
 ~~~yml
 # file: `_projects/hyde-v2.md`
 ---
-layout:      project
+layouts:      project
 title:       Hyde v2*
 date:        2 Jan 2014
 image:
@@ -451,7 +451,7 @@ This is enough to render the project pages. To render them all on a single page,
 ```yaml
 # file: "other-collection.md"
 ---
-layout: projects
+layouts: projects
 title: Other Projects*
 show_collection: other_projects #!!
 ---
@@ -477,7 +477,7 @@ To render a resume page, create a new markdown file and set the layout to `resum
 ~~~yml
 # file: `resume.md`
 ---
-layout: resume
+layouts: resume
 title:  Resume
 description: >
   A short description of the page for search engines (~150 characters long).
@@ -494,7 +494,7 @@ You can customize the layout of the resume by rearranging the entries in the `le
 ~~~yml
 # file: `resume.md`
 ---
-layout: resume
+layouts: resume
 left_column:
   - work
   - volunteer
@@ -536,7 +536,7 @@ E.g.:
 ~~~yml
 # file: `resume.md`
 ---
-layout: resume
+layouts: resume
 title:  Resume
 description: >
   A short description of the page for search engines (~150 characters long).

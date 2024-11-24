@@ -1,5 +1,5 @@
 ---
-layout: about
+layouts: about
 name: index
 cover: true #!! Add this
 title: ""

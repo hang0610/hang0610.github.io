@@ -1,5 +1,5 @@
 ---
-layout: plain
+layouts: plain
 sitemap: false
 ---
 

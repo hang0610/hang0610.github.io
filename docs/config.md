@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Config
 description: >
   This chapter covers the many configuration options of Hydejack, allowing you to tailor it to your needs.
@@ -144,7 +144,7 @@ In order to use the `list` or `grid` layout add the following front-matter to a 
 
 ~~~yml
 ---
-layout: list # or `grid`
+layouts: list # or `grid`
 title:  Home
 ---
 ~~~
@@ -177,7 +177,7 @@ To match the `paginate_path` above, put a `index.html` with the following front 
 ~~~yml
 # file: `index.html`
 ---
-layout: blog
+layouts: blog
 title: Blog
 ---
 ~~~
@@ -199,7 +199,7 @@ You can use the same `index.html` as before and place it in the subdirectory.
 ~~~yml
 # file: `my-blog/index.html`
 ---
-layout: blog
+layouts: blog
 title: Blog
 ---
 ~~~
@@ -360,7 +360,7 @@ Now comments can be enabled by adding `comments: true` to the front matter.
 
 ~~~yml
 ---
-layout:   post
+layouts:   post
 title:    Hello World
 comments: true
 ---

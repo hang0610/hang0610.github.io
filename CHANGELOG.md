@@ -1,5 +1,5 @@
 ---
-layout: plain
+layouts: plain
 sitemap: false
 ---
 
@@ -158,7 +158,7 @@ Version 9.1 provides minor design changes, new features, and closes multiple iss
 
     Disable with `hydejack.no_breadcrumbs`.
 
-*   Added "Last modified at" to post layout:
+*   Added "Last modified at" to post layouts:
 
     ![Last modified at](/assets/img/blog/9.1.0-1.png){:.border.lead width="1254" height="218" loading="lazy"}
 
@@ -318,7 +318,7 @@ July 3 2020
     Adding a table of contents is part of kramdown and can be done in all versions of Hydejack. 
     However, v9 adds a dynamic version that will stick to the 3rd column on large screens and highlight the current section. 
    
-    Note that this will reduce the amount of space freed up by the `no_break_layout: false` setting (otherwise the ToC would overlap with code blocks, math blocks, etc).
+    Note that this will reduce the amount of space freed up by the `no_break_layouts: false` setting (otherwise the ToC would overlap with code blocks, math blocks, etc).
 
 *   Added a scroll-linked navbar that disappears when scrolling down and re-appears when scrolling up.
 
@@ -362,7 +362,7 @@ July 3 2020
 * hy-drawer and hy-push-state have been rewritten in TypeScript and LitHTML, fixing many bugs in the process.
 * Updated to Jekyll 4.1
 * Hydejack now has a dedicated offline page that will be shown when the client is offline and tries to open a page that hasn't been cached. 
-  The content of the page can be customized by creating `offline.md` file in the root with `layout: offline`, similar to `404.md`.
+  The content of the page can be customized by creating `offline.md` file in the root with `layouts: offline`, similar to `404.md`.
 * The code font can now be customized in the config file via the `font_code` key.
 
 ### Design
@@ -947,7 +947,7 @@ That being said, you should be aware of these (small) breaking changes:
 
   ~~~md
   ---
-  layout: welcome
+  layouts: welcome
   content_separator: <!--more-->
   ---
 
@@ -1067,7 +1067,7 @@ That being said, you should be aware of these (small) breaking changes:
 
   ```yml
   hydejack:
-    no_break_layout: true
+    no_break_layouts: true
   ```
 
 * Margin below code blocks, math blocks and tables increased from `1rem` to `2rem`.

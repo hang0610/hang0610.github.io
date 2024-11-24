@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Writing
 description: >
   Hydejack offers a few additional features to markup your content.
@@ -58,7 +58,7 @@ To show the table of contents only on large displays (> 1665px) use the followin
 {:toc .large-only}
 ~~~
 
-A sticky table of contents will reduce the amount of space freed up by the `no_break_layout: false` setting.  
+A sticky table of contents will reduce the amount of space freed up by the `no_break_layouts: false` setting.  
 This is necessary to ensure large code blocks or tables don't overlap with the ToC.
 {:.note}
 

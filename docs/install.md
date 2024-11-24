@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Install
 description: >
   How you install Hydejack depends on whether you start a new site,

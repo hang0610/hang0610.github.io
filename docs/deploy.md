@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Deploy
 description: >
   On how to deploy Hydejack to a variety of popular hosting providers.

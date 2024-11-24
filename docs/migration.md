@@ -1,5 +1,5 @@
 ---
-layout: page
+layouts: page
 title: Migration
 description: >
   This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner.
@@ -86,7 +86,7 @@ When making changes to `_config.yml`, it is necessary to restart the Jekyll proc
 
     ~~~yml
     ---
-    layout: list
+    layouts: list
     name: Hyde
     description: >
       Hyde is a brazen two-column Jekyll theme...
@@ -97,7 +97,7 @@ When making changes to `_config.yml`, it is necessary to restart the Jekyll proc
 
     Be aware that `image` has been renamed to `accent_image` and `color` has been renamed to `accent_color`.
 
-5. Add `layout: list` to the front matter.
+5. Add `layouts: list` to the front matter.
 6. Once you've copied all tags into their own files, delete `_data/tags.yml`.
 
 ### Restoring the sidebar entries
