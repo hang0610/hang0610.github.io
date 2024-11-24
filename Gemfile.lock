@@ -96,7 +96,7 @@ GEM
     webrick (1.9.0)
 
 PLATFORMS
-  arm64-darwin-23
+  universal-darwin-23
 
 DEPENDENCIES
   duktape
@@ -119,4 +119,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.22
+   2.2.3
