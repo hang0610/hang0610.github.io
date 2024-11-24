@@ -2,14 +2,14 @@
 layouts: about
 name: index
 cover: true #!! Add this
-title: ""
+title: "Homepage"
 description: >
   Homepage of Yuanhang Zhang.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
-</script> -->
+</script>  -->
 
 <!-- <style type="text/css">
 	.page-title {
