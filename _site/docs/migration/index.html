@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en"><!--
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+
+Powered by Hydejack v9.2.1 <https://hydejack.com/>
+-->
+
+
+
+
+
+
+
+<head>
+  
+
+
+
+
+  <meta name="robots" content="noindex">
+
+
+
+  
+    
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Migration | Yuanhang Zhang</title>
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Migration" />
+<meta name="author" content="Yuanhang Zhang" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner." />
+<meta property="og:description" content="This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner." />
+<link rel="canonical" href="http://localhost:4000/docs/migration/" />
+<meta property="og:url" content="http://localhost:4000/docs/migration/" />
+<meta property="og:site_name" content="Yuanhang Zhang" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Migration" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Yuanhang Zhang"},"dateModified":"2024-09-14T01:07:20-04:00","description":"This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner.","headline":"Migration","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/hang.jpeg"},"name":"Yuanhang Zhang"},"url":"http://localhost:4000/docs/migration/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  
+    <meta name="keywords" content="Yuanhang,Robotics,Research,CMU,SJTU">
+  
+
+
+
+  <meta name="color-scheme" content="dark light">
+
+
+
+  <meta name="theme-color" content="rgb(0, 87, 156)">
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Yuanhang Zhang">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+<meta name="application-name" content="Yuanhang Zhang">
+
+<meta name="generator" content="Hydejack v9.2.1" />
+
+
+<link rel="alternate" href="http://localhost:4000/docs/migration/" hreflang="en">
+
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Yuanhang Zhang" />
+
+
+<link rel="shortcut icon"    href="/assets/icons/favicon.ico">
+<link rel="apple-touch-icon" href="/assets/icons/icon-192x192.png">
+
+<link rel="manifest" href="/assets/site.webmanifest">
+
+<link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
+
+
+
+<link rel="preload" href="/assets/img/swipe.svg" as="image" id="_hrefSwipeSVG">
+
+
+  
+  <link rel="dns-prefetch" href="/assets/bower_components/katex/dist/katex.min.css" id="_katexPreload">
+  <noscript><link rel="stylesheet" href="/assets/bower_components/katex/dist/katex.min.css"></noscript>
+
+
+
+
+
+<script>((r,a)=>{function d(e,t,n,o){e.addEventListener?e.addEventListener(t,n,o):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n}r.loadJS=function(e,t){var n=a.createElement("script"),e=(n.src=e,t&&d(n,"load",t,{once:!0}),a.scripts[0]);return e.parentNode.insertBefore(n,e),n},r._loaded=!1,r.loadJSDeferred=function(e,t){var n=a.createElement("script");function o(){r._loaded=!0,t&&d(n,"load",t,{once:!0});var e=a.scripts[0];e.parentNode.insertBefore(n,e)}return n.src=e,r._loaded?o():d(r,"load",o,{once:!0}),n},r.setRel=r.setRelStylesheet=function(e){d(a.getElementById(e),"load",function(){this.rel="stylesheet"},{once:!0})}})(window,document);
+!function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+!function(w) {
+  w._baseURL = '/';
+  w._publicPath = '/assets/js/';
+  w._noPushState = false;
+  w._noDrawer = false;
+  w._noNavbar = false;
+  w._noToc = false;
+  w._noSearch = false;
+  w._search = {
+    DATA_URL: '/assets/sitedata.json?no-cache',
+    STORAGE_KEY: 'mini-search/',
+    INDEX_KEY: 'index--2024-11-24T06:29:39-05:00',
+  };
+  w._clapButton = true;
+}(window);</script>
+
+
+
+<!--[if gt IE 8]><!---->
+
+  
+
+
+
+
+<link rel="stylesheet" href="/assets/css/hydejack-9.2.1.css" id="_stylePreload">
+<link rel="stylesheet" href="/assets/icomoon/style.css" id="_iconsPreload">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:600%7CNunito+Sans:400,400i,700,700i&display=swap" id="_fontsPreload">
+
+
+
+  <style id="_pageStyle">
+
+html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5);--accent-color-highlight: rgba(0, 87, 156, 0.1);--accent-color-darkened: #004276;--theme-color: rgb(0, 87, 156);--dark-mode-body-bg: hsl(206.5384615385, 12.5%, 17.5%);--dark-mode-border-color: hsl(206.5384615385, 12.5%, 22.5%)}
+</style>
+
+
+<!--<![endif]-->
+
+
+
+  <meta name="google-site-verification" content="daSVNloNdINqLcFuzQCU04GxTqTFUg6_yqOBpIg7RT8" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PXRKJ8EWKB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-PXRKJ8EWKB');
+  </script>
+  
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?f2822031460460a995b70694c9da7229";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+  
+  <script>
+    // JavaScript to toggle specific content by ID
+    function toggleSummary(id) {
+      var content = document.getElementById(id);
+      var title = content.previousElementSibling;
+      
+      if (content.style.display === "none") {
+        content.style.display = "block";
+        title.textContent = "▼ TL;DR:";
+      } else {
+        content.style.display = "none";
+        title.textContent = "▶ TL;DR:";
+      }
+    }
+    
+    // Initialize display for collapsible content
+    document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+  </script>
+  
+  <link rel="shortcut icon" href="/assets/icons/favicon.ico">
+  <link rel="stylesheet" href="/assets/icons/icon-192x192.png">
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/cferdinandi/gumshoe@4/dist/gumshoe.polyfills.min.js"></script> -->
+  <!-- <meta name="google-site-verification" content="Kghnw3GY5eb5r6k7i6m8b1AUutptytsD-h4NDSjY7rA" /> -->
+
+</head>
+
+<body class="no-break-layout">
+  
+<script>
+  window._sunrise = 6;
+  window._sunset =  18;
+  ((e,s)=>{var d="light-mode",a="dark-mode",o=(new Date).getHours();"matchMedia"in e&&e.matchMedia("(prefers-color-scheme)")||(e=(o=o<=e._sunrise||o>=e._sunset?a:d)==a?d:a,s.body.classList.add(o),s.body.classList.remove(e))})(window,document);
+
+</script>
+
+
+
+<hy-push-state
+  id="_pushState"
+  replace-selector="#_main"
+  link-selector="a[href]:not([href^='/assets/']):not(.external):not(.no-push-state)"
+  script-selector="script"
+  duration="500"
+  hashchange
+>
+  
+  
+  <div id="_navbar" class="navbar fixed-top">
+  <div class="content">
+    <span class="sr-only">Jump to:</span>
+    <div class="nav-btn-bar">
+      <a id="_menu" class="nav-btn no-hover" href="#_drawer--opened">
+        <span class="sr-only">Navigation</span>
+        <span class="icon-menu"></span>
+      </a>
+      <div class="nav-span"></div>
+    </div>
+  </div>
+</div>
+<hr class="sr-only" hidden />
+
+  <main
+  id="_main"
+  class="content layout-page"
+  role="main"
+>
+  <nav id="breadcrumbs" class="screen-only"><ul>
+  
+  
+    <li><a href="/">home</a></li>
+    
+      <li>
+        
+          <span>/</span>
+          
+          
+          <a href="/docs/">docs</a>
+        
+      </li>
+    
+      <li>
+        
+          <span>/</span>
+          <span>migration</span>
+        
+      </li>
+    
+  
+</ul></nav>
+  <article class="page mb6" role="article">
+  <header>
+    <h1 class="page-title">Migration</h1>
+    
+
+
+
+  
+    <div class="hr pb0"></div>
+  
+
+
+  </header>
+
+  <p>This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner.</p>
+
+<p>Unfortunately, upgrading form v5 and earlier is not straightforward. A lot of patterns and names have changed, motivated by a variety of reasons, including better integration with the rest of the Jekyll ecosystem and simplified workflows enabled by Jekyll Collections.</p>
+
+<ol id="markdown-toc">
+  <li><a href="#from-v5" id="markdown-toc-from-v5">From v5</a>    <ol>
+      <li><a href="#updating-the-folder-structure" id="markdown-toc-updating-the-folder-structure">Updating the folder structure</a></li>
+      <li><a href="#updating-the-configuration" id="markdown-toc-updating-the-configuration">Updating the configuration</a></li>
+      <li><a href="#restoring-the-tags" id="markdown-toc-restoring-the-tags">Restoring the tags</a></li>
+      <li><a href="#restoring-the-sidebar-entries" id="markdown-toc-restoring-the-sidebar-entries">Restoring the sidebar entries</a></li>
+      <li><a href="#restoring-the-rss-feed" id="markdown-toc-restoring-the-rss-feed">Restoring the RSS feed</a></li>
+      <li><a href="#restoring-the-comments" id="markdown-toc-restoring-the-comments">Restoring the comments</a></li>
+      <li><a href="#restoring-the-about-page" id="markdown-toc-restoring-the-about-page">Restoring the about page</a></li>
+    </ol>
+  </li>
+</ol>
+
+<h2 id="from-v5">From v5</h2>
+<h3 id="updating-the-folder-structure">Updating the folder structure</h3>
+<p>Copy the following folders and files from Hydejack v6 into your existing repository. Make sure you merge the folder contents.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_data/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_includes/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_sass/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">assets/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">index.html</code> (<code class="language-plaintext highlighter-rouge">index.md</code>*)</li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile.lock</code></li>
+</ul>
+
+<p>Note that the <code class="language-plaintext highlighter-rouge">public</code> folder has been renamed to <code class="language-plaintext highlighter-rouge">assets</code>.
+You’ll want to move your static assets there.</p>
+
+<h3 id="updating-the-configuration">Updating the configuration</h3>
+<p><code class="language-plaintext highlighter-rouge">_config.yml</code> has changed considerably. Open it and make the following changes.</p>
+
+<ol>
+  <li>
+    <p>Rename the following keys</p>
+
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">font_accent</code> =&gt; <code class="language-plaintext highlighter-rouge">font_heading</code></li>
+      <li><code class="language-plaintext highlighter-rouge">load_google_fonts</code> =&gt; <code class="language-plaintext highlighter-rouge">google_fonts</code></li>
+      <li><code class="language-plaintext highlighter-rouge">google_analytics_id</code> =&gt; <code class="language-plaintext highlighter-rouge">google_analytics</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>Enable Jekyll Collections for categories and tags by adding</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">collections</span><span class="pi">:</span>
+  <span class="na">featured_categories</span><span class="pi">:</span>
+    <span class="na">permalink</span><span class="pi">:</span> <span class="s">/category/:name/</span>
+    <span class="na">output</span><span class="pi">:</span>    <span class="no">true</span>
+  <span class="na">featured_tags</span><span class="pi">:</span>
+    <span class="na">permalink</span><span class="pi">:</span> <span class="s">/tag/:name/</span>
+    <span class="na">output</span><span class="pi">:</span>    <span class="no">true</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Delete <code class="language-plaintext highlighter-rouge">photo</code> and <code class="language-plaintext highlighter-rouge">photo2x</code> form the author key and add a <code class="language-plaintext highlighter-rouge">picture</code> hash instead that looks like</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">picture</span><span class="pi">:</span>
+  <span class="na">path</span><span class="pi">:</span> <span class="s">&lt;photo&gt;</span>
+  <span class="na">srcset</span><span class="pi">:</span>
+    <span class="na">1x</span><span class="pi">:</span> <span class="s">&lt;photo&gt;</span>
+    <span class="na">2x</span><span class="pi">:</span> <span class="s">&lt;photo2x&gt;</span>
+</code></pre></div>    </div>
+
+    <p>If you have only one photo, you can just provide the URL directly, e.g. <code class="language-plaintext highlighter-rouge">picture: &lt;url&gt;</code>.</p>
+
+    <p>For more information, see <a href="/docs/config/#adding-an-author">Adding an author</a>.</p>
+  </li>
+  <li>
+    <p>Rename <code class="language-plaintext highlighter-rouge">gems</code> to <code class="language-plaintext highlighter-rouge">plugins</code> and make sure the list contains <code class="language-plaintext highlighter-rouge">jekyll-seo-tag</code>.</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">plugins</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jekyll-seo-tag</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p class="note">When making changes to <code class="language-plaintext highlighter-rouge">_config.yml</code>, it is necessary to restart the Jekyll process for the changes to take effect.</p>
+
+<h3 id="restoring-the-tags">Restoring the tags</h3>
+<ol>
+  <li>Delete the <code class="language-plaintext highlighter-rouge">tag</code> folder.</li>
+  <li>Create a top-level folder called <code class="language-plaintext highlighter-rouge">_featured_tags</code>.</li>
+  <li>For each entry in <code class="language-plaintext highlighter-rouge">_data/tags.yml</code>, create a markdown file in <code class="language-plaintext highlighter-rouge">_features_tags</code> with the name of the tag as filename,
+e.g. <code class="language-plaintext highlighter-rouge">hyde.md</code> for tag “hyde”.</li>
+  <li>
+    <p>For each tag, copy its contents from <code class="language-plaintext highlighter-rouge">_data/tags.yml</code> into the new file’s front matter, e.g.</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">list</span>
+<span class="na">name</span><span class="pi">:</span> <span class="s">Hyde</span>
+<span class="na">description</span><span class="pi">:</span> <span class="pi">&gt;</span>
+  <span class="s">Hyde is a brazen two-column Jekyll theme...</span>
+<span class="na">accent_image</span><span class="pi">:</span> <span class="s">/hydejack/public/img/hyde.jpg</span>
+<span class="na">accent_color</span><span class="pi">:</span> <span class="s1">'</span><span class="s">#949667'</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+
+    <p>Be aware that <code class="language-plaintext highlighter-rouge">image</code> has been renamed to <code class="language-plaintext highlighter-rouge">accent_image</code> and <code class="language-plaintext highlighter-rouge">color</code> has been renamed to <code class="language-plaintext highlighter-rouge">accent_color</code>.</p>
+  </li>
+  <li>Add <code class="language-plaintext highlighter-rouge">layout: list</code> to the front matter.</li>
+  <li>Once you’ve copied all tags into their own files, delete <code class="language-plaintext highlighter-rouge">_data/tags.yml</code>.</li>
+</ol>
+
+<h3 id="restoring-the-sidebar-entries">Restoring the sidebar entries</h3>
+<p>Hydejack can now link to any kind of page in the sidebar.</p>
+
+<ol>
+  <li>Delete <code class="language-plaintext highlighter-rouge">sidebar_tags</code> in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Open a file who’s page you would like to add to the sidebar. If you want to add a tag, open <code class="language-plaintext highlighter-rouge">_featured_tags/&lt;tagname&gt;.md</code>.</li>
+  <li>Add <code class="language-plaintext highlighter-rouge">menu: true</code> to its front matter.</li>
+  <li>(Optional) Set <code class="language-plaintext highlighter-rouge">order: &lt;number&gt;</code>, where <code class="language-plaintext highlighter-rouge">&lt;number&gt;</code> is the number at which you would like the link to appear.</li>
+</ol>
+
+<h3 id="restoring-the-rss-feed">Restoring the RSS feed</h3>
+<p>The feed is now provided by the <code class="language-plaintext highlighter-rouge">jekyll-feed</code> plugin instead of a custom solution.</p>
+
+<ol>
+  <li>Delete <code class="language-plaintext highlighter-rouge">atom.xml</code></li>
+  <li>
+    <p>Add <code class="language-plaintext highlighter-rouge">- jekyll-feed</code> to <code class="language-plaintext highlighter-rouge">gems</code> in <code class="language-plaintext highlighter-rouge">_config.yml</code>, e.g.</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">gems</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">jekyll-seo-tag</span>
+  <span class="pi">-</span> <span class="s">jekyll-feed</span>
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>(Optional) Add the following to <code class="language-plaintext highlighter-rouge">_config.yml</code> to make the feed appear at the same URL as the old <code class="language-plaintext highlighter-rouge">atom.xml</code>.</p>
+
+    <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">feed</span><span class="pi">:</span>
+  <span class="na">path</span><span class="pi">:</span> <span class="s">atom.xml</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h3 id="restoring-the-comments">Restoring the comments</h3>
+<p>The way comments are enabled has changed slightly.
+You now have to enable them per page by adding <code class="language-plaintext highlighter-rouge">comments: true</code> to the front matter
+(this is what the <a href="https://disqus.com/admin/install/platforms/jekyll/">Disqus integration guide</a> suggests).
+To enable them for all posts, add to the config file</p>
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">defaults</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">scope</span><span class="pi">:</span>
+      <span class="na">type</span><span class="pi">:</span> <span class="s">posts</span>
+    <span class="na">values</span><span class="pi">:</span>
+      <span class="na">comments</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<h3 id="restoring-the-about-page">Restoring the about page</h3>
+<p>Hydejack now has a dedicated layout for about pages.
+To use it, open <code class="language-plaintext highlighter-rouge">about.md</code> and change the <code class="language-plaintext highlighter-rouge">layout</code> in the front matter to <code class="language-plaintext highlighter-rouge">about</code>
+and delete <code class="language-plaintext highlighter-rouge">{% include about-short.html author=site.author %}</code>.</p>
+
+</article>
+
+
+  <hr class="dingbat related mb6" />
+
+
+
+
+
+  
+<footer class="content" role="contentinfo">
+  <hr/>
+  
+    <p><small class="copyright">© 2024. All rights reserved.
+</small></p>
+  
+  
+    <nav class="legal"><small>
+    
+      
+      <a class="heading flip-title" href="/LICENSE/">LICENSE</a>
+      |
+    
+      
+      <a class="heading flip-title" href="/NOTICE/">NOTICE</a>
+      |
+    
+      
+      <a class="heading flip-title" href="/CHANGELOG/">CHANGELOG</a>
+      
+    
+    </small></nav>
+  
+    <p><small>Powered by <a class="external" href="https://hydejack.com/">Hydejack</a> v<span id="_version">9.2.1</span></small></p>
+  <hr class="sr-only"/>
+</footer>
+
+
+</main>
+
+  <hy-drawer
+  id="_drawer"
+  class=""
+  side="left"
+  threshold="10"
+  noscroll
+  
+>
+  <header id="_sidebar" class="sidebar" role="banner">
+    
+
+
+
+
+<div class="sidebar-bg sidebar-overlay" style="background-color:rgb(0, 87, 156);background-image:url(/assets/images/output.jpeg)"></div>
+
+    <div class="sidebar-sticky">
+  <div class="sidebar-about">
+    
+      <a class="no-hover" href="/" tabindex="-1">
+        <img src="/assets/images/hang.jpeg" class="avatar" alt="Yuanhang Zhang" width="120" height="120" loading="lazy" />
+      </a>
+    
+    <a class="sidebar-title" href="/"><h2 class="h1">Yuanhang Zhang</h2></a>
+    
+    
+      <p class="">
+        Homepage
+
+      </p>
+    
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    <span class="sr-only">Navigation:</span>
+<ul>
+  
+    
+      
+      <li>
+        <a
+          id="_drawer--opened"
+          href="/#biography"
+          class="sidebar-nav-item "
+          
+        >
+          BIOGRAPHY
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/#research"
+          class="sidebar-nav-item "
+          
+        >
+          RESEARCH
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/#competitions"
+          class="sidebar-nav-item "
+          
+        >
+          COMPETITIONS
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/#awards"
+          class="sidebar-nav-item "
+          
+        >
+          AWARDS
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/#leadership"
+          class="sidebar-nav-item "
+          
+        >
+          LEADERSHIP
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/#service"
+          class="sidebar-nav-item "
+          
+        >
+          SERVICE
+        </a>
+      </li>
+    
+      
+      <li>
+        <a
+          
+          href="/assets/files/CV_EN.pdf"
+          class="sidebar-nav-item "
+          
+        >
+          RESUME
+        </a>
+      </li>
+    
+  
+</ul>
+
+  </nav>
+
+  
+  <div class="sidebar-social">
+    <span class="sr-only">Social:</span>
+<ul>
+  
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://github.com/hang0610" title="GitHub" class="no-mark-external">
+      <span class="icon-github"></span>
+      <span class="sr-only">GitHub</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://x.com/Yuanhang__Zhang" title="X / Twitter" class="no-mark-external">
+      <span class="icon-twitter"></span>
+      <span class="sr-only">X / Twitter</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="https://www.linkedin.com/in/yuanhang-zhang-7969372a2" title="LinkedIn" class="no-mark-external">
+      <span class="icon-linkedin2"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  </li>
+
+
+    
+      
+
+
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  <li>
+    <a href="mailto:<yuanhang0610@gmail.com>" title="Email" class="no-mark-external">
+      <span class="icon-mail"></span>
+      <span class="sr-only">Email</span>
+    </a>
+  </li>
+
+
+    
+  
+</ul>
+
+  </div>
+</div>
+  </header>
+</hy-drawer>
+<hr class="sr-only" hidden />
+
+</hy-push-state>
+
+
+  <!--[if gt IE 10]><!---->
+  <script nomodule>(()=>{var t,n=document.createElement("script");!("noModule"in n)&&"onbeforeload"in n&&(t=!1,document.addEventListener("beforeload",function(e){if(e.target===n)t=!0;else if(!e.target.hasAttribute("nomodule")||!t)return;e.preventDefault()},!0),n.type="module",n.src=".",document.head.appendChild(n),n.remove())})();
+</script>
+  <script src="/assets/js/hydejack-9.2.1.js" type="module"></script>
+  <script src="/assets/js/LEGACY-hydejack-9.2.1.js" nomodule defer></script>
+  
+
+  
+
+<!--<![endif]-->
+  
+  <!-- <script>addBackToTop({
+    diameter: 56,
+    backgroundColor: 'rgb(40, 40, 40)',
+    textColor: '#fff'
+  })</script> -->
+  
+  <!-- implementing scroll to top -->
+  <!-- <script type="text/javascript">
+    document.getElementsByTagName("body")[0].setAttribute("id","top");
+    document.getElementById("_drawer--opened").onclick = function(){
+      var position =
+          document.body.scrollTop || document.documentElement.scrollTop;
+      if (position) {
+          window.scrollBy(0, -Math.max(1, Math.floor(position / 10)));
+          scrollAnimation = setTimeout("scrollToTop()", 30);
+      } else clearTimeout(scrollAnimation);
+  }
+  </script> -->
+  
+  <!-- socials and footer Hydejack link open in new tabs -->
+  <script type="text/javascript">
+    var len =  document.getElementsByClassName("no-mark-external").length;
+    for (var i = 0 ; i < len; i++) {
+      document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
+    }
+  </script>
+  
+  <script defer type="text/javascript">
+    // var spy;
+    // var isHome = false;
+    document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
+      document.getElementsByClassName("external")[0].setAttribute("target", "_blank");
+      // if (document.getElementsByClassName("home-element").length == 1){
+      //   document.getElementById("_drawer--opened").closest("ul").setAttribute("id","my-awesome-nav");
+      //   spy = new Gumshoe('#my-awesome-nav a');
+      //   isHome = true;
+      // }
+    });
+  </script>
+  
+  <!-- <script defer type="text/javascript">
+    document.getElementById('_pushState').addEventListener('hy-push-state-ready', function() {
+      if (isHome == true){
+        spy.destroy();
+        isHome = false;
+      }
+    });
+  </script> -->
+  
+  <!-- reduce font size of tagline-->
+  <!-- incorporate typewriter.js -->
+  <script type="text/javascript">
+    document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'>张远航</span><span id='mytag' aria-hidden='true'></span>";
+    document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "1.5rem";
+    var typewriter = new Typewriter(mytag, {
+      loop: false,
+      delay: 55,
+      deleteSpeed: 1
+    });
+    typewriter.pauseFor(2000)
+    .typeString('张远航')
+    .pauseFor(6000)
+    .start();
+  </script>
+  
+  <script>
+    // JavaScript to toggle specific content by ID
+    function toggleSummary(id) {
+      var content = document.getElementById(id);
+      var title = content.previousElementSibling;
+      
+      if (content.style.display === "none") {
+        content.style.display = "block";
+        title.textContent = "▼ TL;DR:";
+      } else {
+        content.style.display = "none";
+        title.textContent = "▶ TL;DR:";
+      }
+    }
+    
+    // Initialize display for collapsible content
+    document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+  </script>
+
+
+<div hidden>
+  
+  <h2 class="sr-only">Templates (for web app):</h2>
+
+  <template id="_animation-template">
+  <div class="animation-main fixed-top">
+    <nav id="breadcrumbs" class="screen-only"><ul>
+  
+  
+</ul></nav>
+    <div class="content">
+      <div class="page"></div>
+    </div>
+  </div>
+</template>
+
+  <template id="_loading-template">
+  <div class="loading nav-btn fr">
+    <span class="sr-only">Loading…</span>
+    <span class="icon-cog"></span>
+  </div>
+</template>
+
+  <template id="_error-template">
+  <div class="page">
+    <h1 class="page-title">Error</h1>
+    
+    
+    <p class="lead">
+      Sorry, an error occurred while loading <a class="this-link" href=""></a>.
+
+    </p>
+  </div>
+</template>
+
+  <template id="_permalink-template">
+  <a href="#" class="permalink">
+    <span class="sr-only">Permalink</span>
+    <span class="content-hash"></span>
+  </a>
+</template>
+
+  
+    <template id="_dark-mode-template">
+  <button id="_dark-mode" class="nav-btn no-hover" >
+    <span class="sr-only">Dark Mode</span>
+    <span class="icon-brightness-contrast"></span>
+  </button>
+</template>
+
+  
+</div>
+
+
+</body>
+</html>
