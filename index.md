@@ -129,7 +129,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 <div>
   <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
-          <img src="assets/images/cmu.jpg" style="border-radius: 50%;">
+          <img src="assets/images/cmu-seal-r.png" style="border-radius: 50%;">
       </div>
       <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
           <span>
