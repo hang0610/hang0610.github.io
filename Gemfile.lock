@@ -100,6 +100,7 @@ GEM
     webrick (1.9.0)
 
 PLATFORMS
+  arm64-darwin-24
   universal-darwin-23
 
 DEPENDENCIES
