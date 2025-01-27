@@ -1,6 +1,6 @@
 ---
-layouts: about
-name: index
+layout: home
+# name: index
 cover: true #!! Add this
 title: "Homepage"
 description: >
@@ -241,8 +241,8 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://tinhal.github.io/">Tianhai Liang<sup>&dagger;</sup></a>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://yanjieze.com/">Yanjie Ze</a>, <a href="http://hxu.rocks/index.html">Huazhe Xu</a></span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission for ICRA 2025</h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM</a> <span style="color: red;">(Best Paper Nominations)</span></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">IEEE International Conference on Robotics and Automation (ICRA) 2025</h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM</a> <span style="color: red;">(Best Paper Nomination)</span></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
@@ -266,7 +266,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang</span>,
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Xuemian Wu</span>, 
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://irmv.sjtu.edu.cn/wanghesheng">Hesheng Wang</a>, <a href="https://wonderren.github.io/">Zhongqiang Ren</a></span>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">In Submission for ICRA 2025</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">arXiv 2024</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
@@ -297,7 +297,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://gemcollector.github.io/">Zhecheng Yuan</a>, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="http://hxu.rocks/index.html">Huazhe Xu</a> </span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Under Review, 2024</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">arXiv 2024</h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
   <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
@@ -339,6 +339,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 <br>
 
 ---
+
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="competitions">Competitions </h2>
 
 <table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em;  width: 50%">
@@ -597,6 +598,8 @@ Here are some cute animals I photographed when travelling in my hometown:
 </div> -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=380&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+<!--posts-->
 
 <style>
     /* table {
