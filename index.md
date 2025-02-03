@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: about
 # name: index
 cover: true #!! Add this
-title: "Homepage"
+title: ""
 description: >
   Homepage of Yuanhang Zhang.
 hide_description: true
