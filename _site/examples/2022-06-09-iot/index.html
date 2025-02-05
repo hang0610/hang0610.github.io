@@ -120,7 +120,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-02-05T11:00:16-05:00',
+    INDEX_KEY: 'index--2025-02-05T11:13:56-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -747,8 +747,26 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
 </script>
   <script src="/assets/js/hydejack-9.2.1.js" type="module"></script>
   <script src="/assets/js/LEGACY-hydejack-9.2.1.js" nomodule defer></script>
-  
-
+  <script>
+    // JavaScript to toggle specific content by ID
+    window.toggleSummary = function (id) {
+      var content = document.getElementById(id);
+      var title = content.previousElementSibling;
+      
+      if (content.style.display === "none") {
+        content.style.display = "block";
+        title.textContent = "▼ TL;DR:";
+      } else {
+        content.style.display = "none";
+        title.textContent = "▶ TL;DR:";
+      }
+    }
+    
+    // Initialize display for collapsible content
+    window.onload = function () {
+      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    };
+</script>
   
 
 <!--<![endif]-->
@@ -816,27 +834,6 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
     .typeString('张远航')
     .pauseFor(6000)
     .start();
-  </script>
-  
-  <script type="text/javascript">
-    // JavaScript to toggle specific content by ID
-    window.toggleSummary = function (id) {
-      var content = document.getElementById(id);
-      var title = content.previousElementSibling;
-      
-      if (content.style.display === "none") {
-        content.style.display = "block";
-        title.textContent = "▼ TL;DR:";
-      } else {
-        content.style.display = "none";
-        title.textContent = "▶ TL;DR:";
-      }
-    }
-    
-    // Initialize display for collapsible content
-    window.onload = function () {
-      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-    };
   </script>
 
 
