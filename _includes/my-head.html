@@ -5,27 +5,6 @@
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PXRKJ8EWKB"></script>
   <script>
-    console.log("Hello, my-head!");
-    // JavaScript to toggle specific content by ID
-    function toggleSummary(id) {
-      var content = document.getElementById(id);
-      var title = content.previousElementSibling;
-  
-      if (content.style.display === "none") {
-        content.style.display = "block";
-        title.textContent = "▼ TL;DR:";
-      } else {
-        content.style.display = "none";
-        title.textContent = "▶ TL;DR:";
-      }
-    }
-  
-    // Initialize display for collapsible content
-    document.addEventListener('DOMContentLoaded', function () {
-      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-    });
-  </script>
-  <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());

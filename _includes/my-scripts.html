@@ -1,6 +1,5 @@
 <script>
     console.log("Hello, my-scripts!");
-    // JavaScript to toggle specific content by ID
     function toggleSummary(id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
@@ -13,8 +12,6 @@
         title.textContent = "▶ TL;DR:";
       }
     }
-  
-    // Initialize display for collapsible content
     document.addEventListener('DOMContentLoaded', function () {
       document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
     });
