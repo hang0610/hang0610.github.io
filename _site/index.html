@@ -44,7 +44,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Yuanhang Zhang" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Yuanhang Zhang"},"dateModified":"2025-02-03T16:03:18-05:00","description":"Homepage of Yuanhang Zhang.","headline":"Yuanhang Zhang","name":"Yuanhang Zhang","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/hang.jpeg"},"name":"Yuanhang Zhang"},"url":"http://localhost:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Yuanhang Zhang"},"dateModified":"2025-02-05T10:39:45-05:00","description":"Homepage of Yuanhang Zhang.","headline":"Yuanhang Zhang","name":"Yuanhang Zhang","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/hang.jpeg"},"name":"Yuanhang Zhang"},"url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -117,7 +117,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-02-05T10:39:11-05:00',
+    INDEX_KEY: 'index--2025-02-05T10:55:47-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -168,24 +168,6 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
     })();
   </script>
   
-  <script>
-    // JavaScript to toggle specific content by ID
-    function toggleSummary(id) {
-      var content = document.getElementById(id);
-      var title = content.previousElementSibling;
-      
-      if (content.style.display === "none") {
-        content.style.display = "block";
-        title.textContent = "▼ TL;DR:";
-      } else {
-        content.style.display = "none";
-        title.textContent = "▶ TL;DR:";
-      }
-    }
-    
-    // Initialize display for collapsible content
-    document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-  </script>
   
   <link rel="shortcut icon" href="/assets/icons/favicon.ico">
   <link rel="stylesheet" href="/assets/icons/icon-192x192.png">
@@ -741,7 +723,7 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
       </li>
     </ul>
     <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary1')">▶ TL;DR</h5>
-    <div id="summary1" style="width: 85%; display: inline-block;" class="collapsible-content">
+    <div class="collapsible-content" id="summary1" style="width: 85%; display: inline-block;">
     <span style="font-size: 15px; color: gray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
 </div>
 
@@ -1189,25 +1171,6 @@ hr:nth-of-type(11) {
 }
 </style>
 
-<script>
-  // JavaScript to toggle specific content by ID
-  function toggleSummary(id) {
-    var content = document.getElementById(id);
-    var title = content.previousElementSibling;
-    
-    if (content.style.display === "none") {
-      content.style.display = "block";
-      title.textContent = "▼ TL;DR";
-    } else {
-      content.style.display = "none";
-      title.textContent = "▶ TL;DR";
-    }
-  }
-
-  // Initialize display for collapsible content
-  document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-</script>
-
 
 </article>
 
@@ -1326,7 +1289,7 @@ hr:nth-of-type(11) {
   
   <script>
     // JavaScript to toggle specific content by ID
-    function toggleSummary(id) {
+    window.toggleSummary = function (id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
       

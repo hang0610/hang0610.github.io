@@ -68,7 +68,7 @@
   
   <script>
     // JavaScript to toggle specific content by ID
-    function toggleSummary(id) {
+    window.toggleSummary = function (id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
       
