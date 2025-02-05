@@ -169,7 +169,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
                 <b style="font-size: 18px;">Graduate Research Assistant</b>
-                <span style="font-size: 15px; float: right">Oct. 2024 - Now</span>
+                <span style="font-size: 15px; float: right">Oct. 2024 - Present</span>
             </span><br>
             <span style="font-size: 15px;"><a href="https://lecar-lab.github.io/" target="_blank">Learning and Control for Agile Robotics Lab (LeCAR Lab)</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
