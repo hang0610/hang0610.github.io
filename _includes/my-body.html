@@ -66,7 +66,7 @@
     .start();
   </script>
   
-  <script>
+  <script type="text/javascript">
     // JavaScript to toggle specific content by ID
     window.toggleSummary = function (id) {
       var content = document.getElementById(id);
@@ -82,5 +82,7 @@
     }
     
     // Initialize display for collapsible content
-    document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    window.onload = function () {
+      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    };
   </script>

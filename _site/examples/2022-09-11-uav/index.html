@@ -122,7 +122,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-02-05T10:55:47-05:00',
+    INDEX_KEY: 'index--2025-02-05T11:00:16-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -857,7 +857,7 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
     .start();
   </script>
   
-  <script>
+  <script type="text/javascript">
     // JavaScript to toggle specific content by ID
     window.toggleSummary = function (id) {
       var content = document.getElementById(id);
@@ -873,7 +873,9 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
     }
     
     // Initialize display for collapsible content
-    document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    window.onload = function () {
+      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    };
   </script>
 
 
