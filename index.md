@@ -578,7 +578,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           <div style="text-align: right; vertical-align: top;">
             <span style="font-family: 'sans';">Shanghai, China</span>
             <br>
-            <span style="font-family: 'sans';">2020.03-2023.01</span>
+            <span style="font-family: 'sans';">2020.03-2022.07</span>
           </div>
         </td>
       </tr>
