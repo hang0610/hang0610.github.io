@@ -1,5 +1,6 @@
 <script>
     console.log("Hello, my-scripts!");
+
     function toggleSummary(id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
@@ -12,6 +13,7 @@
         title.textContent = "▶ TL;DR:";
       }
     }
+    
     document.addEventListener('DOMContentLoaded', function () {
       document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
     });

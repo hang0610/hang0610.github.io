@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: home
 # name: index
 cover: true #!! Add this
-title: ""
+title: "Homepage"
 description: >
   Homepage of Yuanhang Zhang.
 hide_description: true
@@ -22,7 +22,11 @@ hide_description: true
     clip: rect(0 0 0 0);
 	}
 </style> -->
-
+<style>
+  h1 {
+    color:rgb(1,92,171); /* 更改为你想要的颜色 */
+  }
+</style>
 <style>
   h3 {
     font-family: sans;
@@ -123,7 +127,7 @@ Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](htt
 
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
-I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**.
+<!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
@@ -158,6 +162,21 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
 <div>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/images/lecar.png" style="border-square: 50%;" width="100%">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 18px;">Graduate Research Assistant</b>
+                <span style="font-size: 15px; float: right">Oct. 2024 - Now</span>
+            </span><br>
+            <span style="font-size: 15px;"><a href="https://lecar-lab.github.io/" target="_blank">Learning and Control for Agile Robotics Lab (LeCAR Lab)</a></span><br>
+            <span style="font-size: 15px;">Advisor: <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
+            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Humanoid & Aerial Manipulation</span>
+        </div>
+    </div>
+    <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
             <img src="assets/images/tea.jpg" style="border-square: 50%;" width="100%">
@@ -233,17 +252,45 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
+<span style="font-size: 1.2rem;">
+  （<sup style="font-weight: bold;">&dagger;</sup> denotes equal contribution）
+</span>
+- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
+  <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
+  <br>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He<sup>&dagger;</sup>, Jiawei Gao<sup>&dagger;</sup>, Wenli Xiao<sup>&dagger;</sup>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang<sup>&dagger;</sup></span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, Guanya Shi</span>
+  </h3>
+
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2502.01143">[arXiv]</a><a href="https://agile.human2humanoid.com/">[Website]</a><a href="https://github.com/LeCAR-Lab/ASAP">[Code]</a><a href="https://x.com/TairanHe99/status/1886725175413981524">[Twitter]</a></h4>
+  <!-- HTML for the collapsible summary -->
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary0')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: gray">ASAP learns agile whole-body humanoid motions via learning a residual action model from the real world to align sim-to-real physics and achieve athletic motions. </span>
+  </div>
+
+
+  <img src="assets/images/ASAP.gif" alt="Image 0" width="85.25%%"/>
+
+  <!-- <iframe width="103.6%" height="600" 
+  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {:.note title="Undergoing"} -->
+
+---
 
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> Catch It! Learning to Catch in Flight with Mobile Dexterous Hands </span>
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang<sup>&dagger;</sup></span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://tinhal.github.io/">Tianhai Liang<sup>&dagger;</sup></a>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://yanjieze.com/">Yanjie Ze</a>, <a href="http://hxu.rocks/index.html">Huazhe Xu</a></span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang<sup>&dagger;</sup>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yanjie Ze, Huazhe Xu</span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM</a> <span style="color: red;">(Best Paper Nomination)</span></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary1')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary1" style="width: 85%; display: inline-block;">
@@ -266,12 +313,12 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   </h3>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang</span>,
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Xuemian Wu</span>, 
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://irmv.sjtu.edu.cn/wanghesheng">Hesheng Wang</a>, <a href="https://wonderren.github.io/">Zhongqiang Ren</a></span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Hesheng Wang, Zhongqiang Ren</span>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><a href="https://socs24.search-conference.org/">International Symposium on Combinatorial Search (SoCS) 2024</a></h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
-  <div style="width: 85%; display: inline-block;">
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary2')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary2" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
   </div>
   <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
@@ -290,19 +337,19 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yufeng Tian<sup>&dagger;</sup>, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Shuiqi Cheng<sup>&dagger;</sup>, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://www.stillwtm.site/">Tianming Wei</a>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianming Wei, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianxing Zhou, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://storeblank.github.io/">Zixian Liu</a>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zixian Liu, </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="https://gemcollector.github.io/">Zhecheng Yuan</a>, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;"><a href="http://hxu.rocks/index.html">Huazhe Xu</a> </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zhecheng Yuan, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Huazhe Xu </span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">arXiv 2024</h4> 
-  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Links: <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
+  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
-  <div style="width: 85%; display: inline-block;">
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary3')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary3" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
   </div>
   <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
@@ -320,16 +367,16 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   </h3>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">Links: <a href="https://github.com/hang0610/ibvs_nmpc_px4.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
-  <h5 class="h4" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; "> TL;DR</h5>
-  <div style="width: 85%; display: inline-block;">
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://github.com/hang0610/ibvs_nmpc_px4.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary4')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary4" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight </span>
       <span style="font-size: 15px; font-weight: 900">purely based on visual information without localization.</span>
   </div>
   <!-- 1. <font size=3 face="微软雅黑" color=gray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
   1. <font size=3 face="微软雅黑" color=gray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
-  <img src="assets/images/undergraduate_thesis.png" alt="Image 0" width="85%"/>
+  <img src="assets/images/ibvs_nmpc.jpg" alt="Image 0" width="85%"/>
   <!-- <img src="assets/images/drone.jpg" alt="Image 1" width="20%"/> -->
 
 
@@ -372,17 +419,16 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 </table>
 {:.stretch-table}
 
-- <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</span>
-<div style="padding-left: 20px; width: auto">
+<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</span> -->
+<div style="padding-left: 20px; width: auto;">
   <div class="image-container2">
     <img src="assets/competition/dronerace1_updated.gif" alt="Image 0" class="half-width" />
     <img src="assets/competition/dronerace2_updated.gif" alt="Image 1" class="half-width" />
   </div>
-
-  <div class="image-container2">
+  <!-- <div class="image-container2">
     <img src="assets/competition/uav3_small.jpeg" alt="Image 0" class="half-width" />
     <img src="assets/competition/uav2.jpeg" alt="Image 1" class="half-width" />
-  </div>
+  </div> -->
 </div>
 
 ---
@@ -416,7 +462,9 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 </table>
 {:.stretch-table}
 
-- <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></span>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></h4>
+<span></span>
+<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></span> -->
 
 <div style="padding-left: 20px;">
   <div class="image-container2">
@@ -457,12 +505,18 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 </table>
 {:.stretch-table}
 
-- <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle. <a href="https://youtu.be/QgceA6COu9s">[Video]</a></span>
+<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle. <a href="https://youtu.be/QgceA6COu9s">[Video]</a></span> -->
+
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/QgceA6COu9s">[Video]</a></h4>
+<span></span>
+
+<!-- <div style="padding-left: 20px;">
+  <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
+</div> -->
 
 <div style="padding-left: 20px;">
-  <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
+  <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
 </div>
-
 
 <!-- <img src="assets/competition/ict3.gif" alt="Image 1" width="100%"/> -->
 <!-- <iframe width="900" height="600" 
@@ -501,21 +555,6 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="awards">Awards </h2>
-  <span class="icon-award" aria-hidden="true"></span> **Outstanding Paper Nomination in LFDM Workshop at CoRL 2024**
-
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 5%)** 
-
-  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Student (top 3%)
-
-  <span class="icon-award" aria-hidden="true"></span> SJTU Academic Progress Scholarship
-
-  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Scholarship
-  <br/> 
-<br>
-
----
-
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="leadership">Leadership </h2>
 
 <table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em; ">
@@ -547,7 +586,12 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
 </table>
 {:.stretch-table}
 
-- <span style="font-size: 15px; color: gray; " class="table-span-spacing" >Managed a team of 20+ undergraduates to develop algorithms for custom vehicle applications, achieving one of the highest program level among Chinese universities as well as winning lots of national/international champions.</span>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">
+  2021 National VEX Robotics Competition: Tournament Champions & Skills Champion <span style="color: red;">(World Record)</span>
+  </h4>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">2021 VEX Robotics Competition Asian Open: Tournament Champions VEXU; Excellence Award </h4>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">2021 VEX Robotics Competition China Final: Tournament Champions VEXU; Excellence Award </h4>
+
 <div style="padding-left: 20px;">
   <div class="image-container3">
     <img src="assets/competition/vex3.jpeg" alt="Image 0" class="onethird-width" />
@@ -556,7 +600,7 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
   </div>
 </div>
 
-- <span style="font-size: 15px; color: gray; " class="table-span-spacing" >Led the development of SJTU VEX's AI automation system, including global localization, visual recognition, and communication modules and presented results to universities and IFI Chinese representatives.</span>
+<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >Led the development of SJTU VEX's AI automation system, including global localization, visual recognition, and communication modules and presented results to universities and IFI Chinese representatives.</span>
 
 <div style="padding-left: 20px;">
   <div class="image-container2">
@@ -564,7 +608,19 @@ I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Cu
     <img src="assets/competition/vexai2_updated.gif" alt="Image 1" class="half-width" />
   </div>
 </div>
+<br> -->
 <br>
+
+---
+
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="awards">Awards </h2>
+  <span class="icon-award" aria-hidden="true"></span> **Outstanding Paper Nomination in LFDM Workshop at CoRL 2024**
+
+  <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 3%)** 
+
+  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Student (top 3%)
+
+  <span class="icon-award" aria-hidden="true"></span> SJTU Academic Progress Scholarship
 
 ---
 
@@ -634,17 +690,17 @@ hr:nth-of-type(4) {
 }
 /* competition */
 hr:nth-of-type(5) {
-  border-width: 3px 0 0 0 !important;
+  border-width: 0.5px 0 0 0 !important;
 }
 hr:nth-of-type(6) {
-  border-width: 0.5px 0 0 0 !important;
+  border-width: 3px 0 0 0 !important;
 }
 hr:nth-of-type(7) {
   border-width: 0.5px 0 0 0 !important;
 }
 /* awards */
 hr:nth-of-type(8) {
-  border-width: 3px 0 0 0 !important;
+  border-width: 0.5px 0 0 0 !important;
 }
 /* Leadership */
 hr:nth-of-type(9) {
@@ -655,6 +711,9 @@ hr:nth-of-type(10) {
   border-width: 3px 0 0 0 !important;
 }
 hr:nth-of-type(11) {
+  border-width: 3px 0 0 0 !important;
+}
+hr:nth-of-type(12) {
   border-width: 3px 0 0 0 !important;
 }
 </style>

@@ -109,7 +109,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 !function(w) {
   w._baseURL = '/';
   w._publicPath = '/assets/js/';
-  w._noPushState = false;
+  w._noPushState = true;
   w._noDrawer = false;
   w._noNavbar = false;
   w._noToc = false;
@@ -117,7 +117,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-02-05T11:13:56-05:00',
+    INDEX_KEY: 'index--2025-02-05T13:02:30-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -542,11 +542,12 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
   <script src="/assets/js/hydejack-9.2.1.js" type="module"></script>
   <script src="/assets/js/LEGACY-hydejack-9.2.1.js" nomodule defer></script>
   <script>
-    // JavaScript to toggle specific content by ID
-    window.toggleSummary = function (id) {
+    console.log("Hello, my-scripts!");
+
+    function toggleSummary(id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
-      
+  
       if (content.style.display === "none") {
         content.style.display = "block";
         title.textContent = "▼ TL;DR:";
@@ -556,10 +557,9 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
       }
     }
     
-    // Initialize display for collapsible content
-    window.onload = function () {
+    document.addEventListener('DOMContentLoaded', function () {
       document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-    };
+    });
 </script>
   
 
@@ -591,7 +591,6 @@ html{--accent-color: rgb(0, 87, 156);--accent-color-faded: rgba(0, 87, 156, 0.5)
       document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
     }
   </script>
-  
   <script defer type="text/javascript">
     // var spy;
     // var isHome = false;
