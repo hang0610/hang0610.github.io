@@ -253,7 +253,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
 <span style="font-size: 1.2rem;">
-  （<sup style="font-weight: bold;">&dagger;</sup> denotes equal contribution）
+  (<sup style="font-weight: bold;">&dagger;</sup> denotes equal contribution)
 </span>
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
@@ -265,7 +265,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2502.01143">[arXiv]</a><a href="https://agile.human2humanoid.com/">[Website]</a><a href="https://github.com/LeCAR-Lab/ASAP">[Code]</a><a href="https://x.com/TairanHe99/status/1886725175413981524">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary0')">▶ TL;DR</h5>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">ASAP learns agile whole-body humanoid motions via learning a residual action model from the real world to align sim-to-real physics and achieve athletic motions. </span>
   </div>
@@ -292,7 +292,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM</a> <span style="color: red;">(Best Paper Nomination)</span></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary1')">▶ TL;DR</h5>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary1')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary1" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
   </div>
@@ -317,7 +317,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><a href="https://socs24.search-conference.org/">International Symposium on Combinatorial Search (SoCS) 2024</a></h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary2')">▶ TL;DR</h5>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary2')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary2" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
   </div>
@@ -348,7 +348,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">arXiv 2024</h4> 
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary3')">▶ TL;DR</h5>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary3')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary3" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
   </div>
@@ -368,7 +368,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://github.com/hang0610/ibvs_nmpc_px4.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; " onclick="toggleSummary('summary4')">▶ TL;DR</h5>
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary4')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary4" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight </span>
       <span style="font-size: 15px; font-weight: 900">purely based on visual information without localization.</span>
@@ -462,7 +462,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 </table>
 {:.stretch-table}
 
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></h4>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></h4>
 <span></span>
 <!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></span> -->
 
@@ -507,7 +507,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
 <!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle. <a href="https://youtu.be/QgceA6COu9s">[Video]</a></span> -->
 
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/QgceA6COu9s">[Video]</a></h4>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/QgceA6COu9s">[Video]</a></h4>
 <span></span>
 
 <!-- <div style="padding-left: 20px;">
@@ -586,6 +586,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 </table>
 {:.stretch-table}
 
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://www.youtube.com/watch?v=_HBTQAAVvzM">[SJTU VEX Change Up Season Reveal 2021]</a></h4>
 - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">
   2021 National VEX Robotics Competition: Tournament Champions & Skills Champion <span style="color: red;">(World Record)</span>
   </h4>
