@@ -1,9 +1,10 @@
 <script>
+    console.log("Hello, my-scripts!");
     // JavaScript to toggle specific content by ID
-    window.toggleSummary = function (id) {
+    function toggleSummary(id) {
       var content = document.getElementById(id);
       var title = content.previousElementSibling;
-      
+  
       if (content.style.display === "none") {
         content.style.display = "block";
         title.textContent = "▼ TL;DR:";
@@ -12,9 +13,9 @@
         title.textContent = "▶ TL;DR:";
       }
     }
-    
+  
     // Initialize display for collapsible content
-    window.onload = function () {
+    document.addEventListener('DOMContentLoaded', function () {
       document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
-    };
+    });
 </script>

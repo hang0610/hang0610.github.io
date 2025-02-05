@@ -27,7 +27,27 @@
       document.getElementsByClassName("no-mark-external")[i].setAttribute("target","_blank");
     }
   </script>
+  <script>
+    console.log("Hello, my-body!");
+    // JavaScript to toggle specific content by ID
+    function toggleSummary(id) {
+      var content = document.getElementById(id);
+      var title = content.previousElementSibling;
   
+      if (content.style.display === "none") {
+        content.style.display = "block";
+        title.textContent = "▼ TL;DR:";
+      } else {
+        content.style.display = "none";
+        title.textContent = "▶ TL;DR:";
+      }
+    }
+  
+    // Initialize display for collapsible content
+    document.addEventListener('DOMContentLoaded', function () {
+      document.querySelectorAll('.collapsible-content').forEach(div => div.style.display = 'none');
+    });
+  </script>
   <script defer type="text/javascript">
     // var spy;
     // var isHome = false;
