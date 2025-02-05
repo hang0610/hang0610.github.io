@@ -61,10 +61,10 @@ menu:
     url:               /#research
   - title:             COMPETITIONS
     url:               /#competitions
-  - title:             AWARDS
-    url:               /#awards
   - title:             LEADERSHIP
     url:               /#leadership
+  - title:             AWARDS
+    url:               /#awards
   - title:             SERVICE
     url:               /#service
   # - title:             SKILLS
