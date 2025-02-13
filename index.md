@@ -253,14 +253,14 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 ---
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
 <span style="font-size: 1.2rem;">
-  (<sup style="font-weight: bold;">&dagger;</sup> denotes equal contribution)
+  (<sup style="font-weight: bold;">&dagger;</sup> denotes equal contributions)
 </span>
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He<sup>&dagger;</sup>, Jiawei Gao<sup>&dagger;</sup>, Wenli Xiao<sup>&dagger;</sup>, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang<sup>&dagger;</sup></span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, Guanya Shi</span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya Shi</span>
   </h3>
 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2502.01143">[arXiv]</a><a href="https://agile.human2humanoid.com/">[Website]</a><a href="https://github.com/LeCAR-Lab/ASAP">[Code]</a><a href="https://x.com/TairanHe99/status/1886725175413981524">[Twitter]</a></h4>
@@ -285,7 +285,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <span> Catch It! Learning to Catch in Flight with Mobile Dexterous Hands </span>
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; background-color: rgba(200, 200, 200, 0.4)">Yuanhang Zhang<sup>&dagger;</sup></span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang<sup>&dagger;</sup>, <a href="https://chenzheny.github.io/">Zhenyang Chen</a>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang<sup>&dagger;</sup>, Zhenyang Chen, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yanjie Ze, Huazhe Xu</span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a></h4>
