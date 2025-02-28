@@ -353,7 +353,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
       <span style="font-size: 15px; color: gray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
   </div>
   <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
-  <img src="assets/images/vitas.png" alt="Image 0" width="85.5%"/>
+  <img src="assets/images/ViTaS.png" alt="Image 0" width="85.5%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
