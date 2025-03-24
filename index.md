@@ -628,7 +628,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="service">Service </h2>
 
 - <font size=4 face="微软雅黑" >Reviewer: </font>
-  <font size=3 face="微软雅黑" color=gray>ICRA 2025</font>
+  <font size=3 face="微软雅黑" color=gray>ICRA 2025, IROS 2025</font>
 
 ---
 
