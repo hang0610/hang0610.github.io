@@ -121,13 +121,17 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm an MS student at [CMU RI](https://www.ri.cmu.edu/), working at [LeCAR Lab](https://lecar-lab.github.io/) advised by [Prof. Guanya Shi](https://www.gshi.me/).** 
+**I'm a first-year MS student at [CMU RI](https://www.ri.cmu.edu/), working at [LeCAR Lab](https://lecar-lab.github.io/) advised by [Prof. Guanya Shi](https://www.gshi.me/).**
 
 Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). After that, I worked with [Prof. Richard Ren](https://wonderren.github.io/) remotely during a summer research. Subsequently, I worked with [Prof. Huazhe Xu](http://hxu.rocks/) as a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
 
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
+
+- **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer.
+- **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted by **ICRA 2025**.
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
