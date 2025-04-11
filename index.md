@@ -130,8 +130,9 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
 
+- **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted by <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
 - **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer.
-- **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted by **ICRA 2025**.
+- **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted by <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
@@ -266,7 +267,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang<sup>&dagger;</sup></span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission for RSS 2025</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">Robotics: Science and Systems (RSS) 2025</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2502.01143">[arXiv]</a><a href="https://agile.human2humanoid.com/">[Website]</a><a href="https://github.com/LeCAR-Lab/ASAP">[Code]</a><a href="https://x.com/TairanHe99/status/1886725175413981524">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
@@ -292,7 +293,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline;">Yuanhang Zhang</span>,
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Mohammadreza Mousaei, Jiahe Xu, Junyi Geng, Sebastian Scherer, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission for RSS 2025</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">Robotics: Science and Systems (RSS) 2025</a></h4>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://lecar-lab.github.io/flying_hand/static/pdf/flying_hand.pdf">[Paper]</a><a href="https://lecar-lab.github.io/flying_hand/">[Website]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary5')">▶ TL;DR</h5>
