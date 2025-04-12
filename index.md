@@ -130,9 +130,9 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
 
-- **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted by <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
+- **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted to <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
 - **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer.
-- **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted by <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
+- **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted to <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
