@@ -263,7 +263,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, Ali-akbar Agha-mohammadi, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, <span style="white-space: nowrap;">Ali–akbar Agha–mohammadi</span>, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.06776">[arXiv]</a><a href="https://lecar-lab.github.io/falcon-humanoid/">[Website]</a><a href="https://github.com/LeCAR-Lab/FALCON/">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1921942767682588897">[Twitter]</a></h4>
