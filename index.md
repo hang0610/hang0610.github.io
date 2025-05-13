@@ -261,6 +261,29 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   (<sup style="font-weight: bold;">&dagger;</sup> denotes equal contributions)
 </span>
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
+  <span> FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation </span>
+  <br>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, Ali-akbar Agha-mohammadi, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
+  </h3>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.06776">[arXiv]</a><a href="https://lecar-lab.github.io/falcon-humanoid/">[Website]</a><a href="https://github.com/LeCAR-Lab/FALCON/">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1921942767682588897">[Twitter]</a></h4>
+  <!-- HTML for the collapsible summary -->
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: gray">FALCON empowers humanoids with robust locomotion and precise manipulation under significant, unknown 3D end-effector forces. </span>
+  </div>
+
+
+  <img src="assets/images/falcon.gif" alt="Image 0" width="85.25%%"/>
+
+  <!-- <iframe width="103.6%" height="600" 
+  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {:.note title="Undergoing"} -->
+
+---
+- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He<sup>&dagger;</sup>, Jiawei Gao<sup>&dagger;</sup>, Wenli Xiao<sup>&dagger;</sup>, </span>
