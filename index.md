@@ -260,6 +260,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <span style="font-size: 1.2rem;">
   (<sup style="font-weight: bold;">&dagger;</sup> denotes equal contributions)
 </span>
+
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation </span>
   <br>
@@ -270,11 +271,37 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
   <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">FALCON empowers humanoids with robust locomotion and precise manipulation under significant, unknown 3D end-effector forces. </span>
+      <span style="font-size: 15px; color: gray">FALCON empowers humanoids with robust locomotion and precise manipulation under significant, unknown 3D end-effector forces, via a novel dual-agent force-adaptive RL framework. </span>
   </div>
 
 
   <img src="assets/images/falcon.gif" alt="Image 0" width="85.25%%"/>
+
+  <!-- <iframe width="103.6%" height="600" 
+  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {:.note title="Undergoing"} -->
+
+---
+
+- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
+  <span>
+    Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector<br>Stabilization Control
+  </span>
+  <br>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yitang Li</span>, <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He,<br>Guanya Shi</span>
+  </h3>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.24198">[arXiv]</a><a href="https://lecar-lab.github.io/SoFTA/">[Website]</a><a href="https://github.com/LeCAR-Lab/SoFTA">[Code]</a></h4>
+  <!-- HTML for the collapsible summary -->
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary6')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary6" style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: gray">A slow-fast dual-agent RL framework achieving human-level end-effector stability for humanoids.</span>
+  </div>
+
+
+  <img src="assets/images/SoFTA_cam.gif" alt="Image 0" width="85.25%%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -430,7 +457,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <!-- 1. <font size=3 face="微软雅黑" color=gray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
   1. <font size=3 face="微软雅黑" color=gray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
-  <img src="assets/images/ibvs_nmpc.jpg" alt="Image 0" width="85%"/>
+  <img src="assets/images/ibvs_nmpc.gif" alt="Image 0" width="85%"/>
   <!-- <img src="assets/images/drone.jpg" alt="Image 1" width="20%"/> -->
 
 
