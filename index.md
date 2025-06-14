@@ -173,7 +173,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
-                <b style="font-size: 18px;">Applied Sceintist Intern</b>
+                <b style="font-size: 18px;">Applied Scientist Intern</b>
                 <span style="font-size: 15px; float: right">May 2025 - Present</span>
             </span><br>
             <span style="font-size: 15px;"><a href="https://www.aboutamazon.com/news/company-news/amazon-covariant-ai-robots" target="_blank">Amazon Frontier AI & Robotics Team</a></span><br>
@@ -720,10 +720,11 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="service">Service </h2>
+<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="service">Reviewer Service </h2>
 
-- <font size=4 face="微软雅黑" >Reviewer: </font>
-  <font size=3 face="微软雅黑" color=gray>ICRA 2025, IROS 2025</font>
+- <font size=4 face="微软雅黑">Conference on Robot Learning (<b>CoRL</b>) 2025</font>  
+- <font size=4 face="微软雅黑">IEEE International Conference on Robotics and Automation (<b>ICRA</b>) 2025</font>  
+- <font size=4 face="微软雅黑">IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>) 2025</font>
 
 ---
 
