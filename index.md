@@ -121,9 +121,9 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I am a first-year MS student at [CMU RI](https://www.ri.cmu.edu/), working at [LeCAR Lab](https://lecar-lab.github.io/) advised by [Prof. Guanya Shi](https://www.gshi.me/).**
+**I am a first-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently, I'm also a member of Amazon Frontier AI & Robotics Team, led by [Prof. Pieter Abbeel](), [Dr. Peter Chen](https://www.linkedin.com/in/peter-xi-chen/), and [Dr. Rocky Duan](http://rockyduan.com/)**
 
-Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). After that, I worked with [Prof. Richard Ren](https://wonderren.github.io/) remotely during a summer research. Subsequently, I worked with [Prof. Huazhe Xu](http://hxu.rocks/) as a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
+Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng), [Prof.&nbsp;Zhongqiang&nbsp;Ren](https://wonderren.github.io/) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). Later I worked with [Prof. Huazhe Xu](http://hxu.rocks/) at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
 
 During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
@@ -138,7 +138,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <div>
   <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
-          <img src="assets/images/cmu-seal-r.png" style="border-radius: 50%;">
+          <img src="assets/education/cmu-seal-r.png" style="border-radius: 50%;">
       </div>
       <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
           <span>
@@ -152,7 +152,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <!-- <br> -->
   <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
-          <img src="assets/images/sjtu.png" style="border-radius: 50%;">
+          <img src="assets/education/sjtu.png" style="border-radius: 50%;">
       </div>
       <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
           <span>
@@ -169,7 +169,22 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <div>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/lecar.png" style="border-square: 50%;" width="100%">
+            <img src="assets/experience/amazon.png" style="border-square: 50%;" width="100%">
+        </div>
+        <div style="padding-left: 4%; width: 83%; display: inline-block;">
+            <span>
+                <b style="font-size: 18px;">Applied Sceintist Intern</b>
+                <span style="font-size: 15px; float: right">May 2025 - Present</span>
+            </span><br>
+            <span style="font-size: 15px;"><a href="https://www.aboutamazon.com/news/company-news/amazon-covariant-ai-robots" target="_blank">Amazon Frontier AI & Robotics Team</a></span><br>
+            <span style="font-size: 15px;">Advisor: <a href="https://people.eecs.berkeley.edu/~pabbeel/" target="_blank">Prof. Pieter Abbeel</a>, <a href="http://rockyduan.com/" target="_blank">Dr. Rocky Duan</a>, <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
+            <!-- <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">NULL</span> -->
+        </div>
+    </div>
+    <br>
+    <div style="display: flex; align-items: center;">
+        <div style="width: 15%; display: inline-block;">
+            <img src="assets/experience/lecar.png" style="border-square: 50%;" width="100%">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
@@ -178,13 +193,13 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
             </span><br>
             <span style="font-size: 15px;"><a href="https://lecar-lab.github.io/" target="_blank">Learning and Control for Agile Robotics Lab (LeCAR Lab)</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Humanoid & Aerial Manipulation</span>
+            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Humanoid Loco-Manipulation & Aerial Manipulation</span>
         </div>
     </div>
     <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/tea.jpg" style="border-square: 50%;" width="100%">
+            <img src="assets/experience/tea.jpg" style="border-square: 50%;" width="100%">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
@@ -199,7 +214,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
     <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/rap.png" style="border-square: 50%;">
+            <img src="assets/experience/rap.png" style="border-square: 50%;">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
@@ -214,7 +229,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
     <br>
     <div style="display: flex; align-items: center;">
         <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/irmv.png" style="border-square: 50%;" width="100%">
+            <img src="assets/experience/irmv.png" style="border-square: 50%;" width="100%">
         </div>
         <div style="padding-left: 4%; width: 83%; display: inline-block;">
             <span>
@@ -269,13 +284,13 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.06776">[arXiv]</a><a href="https://lecar-lab.github.io/falcon-humanoid/">[Website]</a><a href="https://github.com/LeCAR-Lab/FALCON/">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1921942767682588897">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary7')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary7" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">FALCON empowers humanoids with robust locomotion and precise manipulation under significant, unknown 3D end-effector forces, via a novel dual-agent force-adaptive RL framework. </span>
   </div>
 
 
-  <img src="assets/images/falcon.gif" alt="Image 0" width="85.25%%"/>
+  <img src="assets/research/falcon.gif" alt="Image 0" width="85.25%%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -301,7 +316,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   </div>
 
 
-  <img src="assets/images/SoFTA_cam.gif" alt="Image 0" width="85.25%%"/>
+  <img src="assets/research/SoFTA_cam.gif" alt="Image 0" width="85.25%%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -326,7 +341,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   </div>
 
 
-  <img src="assets/images/ASAP.gif" alt="Image 0" width="85.25%%"/>
+  <img src="assets/research/ASAP.gif" alt="Image 0" width="85.25%%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -352,7 +367,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   </div>
 
 
-  <img src="assets/images/flying_hand.gif" alt="Image 0" width="85.25%%"/>
+  <img src="assets/research/flying_hand.gif" alt="Image 0" width="85.25%%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -379,7 +394,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   </div>
 
 
-  <img src="assets/images/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/images/dcmm.gif" alt="Image 0" width="49.25%"/>
+  <img src="assets/research/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/research/dcmm.gif" alt="Image 0" width="49.25%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -409,8 +424,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <div class="collapsible-content" id="summary3" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
   </div>
-  <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
-  <img src="assets/images/vitas.png" alt="Image 0" width="85.5%"/>
+  <img src="assets/research/vitas.png" alt="Image 0" width="85.5%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -433,8 +447,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <div class="collapsible-content" id="summary2" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
   </div>
-  <!-- <img src="assets/images/gr.png" alt="Image 0" width="85%"/> -->
-  <img src="assets/images/mcpfd.gif" alt="Image 0" width="85.25%"/>
+  <!-- <img src="assets/research/gr.png" alt="Image 0" width="85%"/> -->
+  <img src="assets/research/mcpfd.gif" alt="Image 0" width="85.25%"/>
 
   <!-- <iframe width="103.6%" height="600" 
   src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
@@ -457,8 +471,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <!-- 1. <font size=3 face="微软雅黑" color=gray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
   1. <font size=3 face="微软雅黑" color=gray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
 
-  <img src="assets/images/ibvs_nmpc.gif" alt="Image 0" width="85%"/>
-  <!-- <img src="assets/images/drone.jpg" alt="Image 1" width="20%"/> -->
+  <img src="assets/research/ibvs_nmpc.gif" alt="Image 0" width="85%"/>
+  <!-- <img src="assets/research/drone.jpg" alt="Image 1" width="20%"/> -->
 
 
   <!-- <iframe width="100%" height="600" 
@@ -486,7 +500,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           </div>
         </td>
         <td style="float: center; height:auto;">
-          <img src="/assets/images/dji.jpg" style="float: left;" height="100" width="100">
+          <img src="/assets/competition/dji.jpg" style="float: left;" height="100" width="100">
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
@@ -529,7 +543,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           </div>
         </td>
         <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/images/iot.jpg" style="float: center;" height="100" width="100">
+          <img src="/assets/competition/iot.jpg" style="float: center;" height="100" width="100">
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
@@ -572,7 +586,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           </div>
         </td>
         <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/images/ict.jpg" style="float: center;" height="100" width="100">
+          <img src="/assets/competition/ict.jpg" style="float: center;" height="100" width="100">
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
@@ -653,7 +667,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           </div>
         </td>
         <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/images/vex.png" style="float: left; background-color: black" height="80" width="80">
+          <img src="/assets/leadership/vex.png" style="float: left; background-color: black" height="80" width="80">
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
