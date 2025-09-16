@@ -238,7 +238,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
             </span><br>
             <span style="font-size: 15px;"><a href="https://irmv.sjtu.edu.cn/" target="_blank">Intelligent Robotics and Machine Vision Lab at SJTU</a></span><br>
             <span style="font-size: 15px;">Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng" target="_blank">Prof. Hesheng Wang</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Image-Based Visual Servo for Quadrotor</span>
+            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Image-Based Visual Servo for Quadrotors</span>
         </div>
     </div>
     <!-- <br>
@@ -307,7 +307,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yitang Li</span>, <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He,<br>Guanya Shi</span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://www.corl.org/">Conference on Robot Learning (CoRL) 2025</a></h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.24198">[arXiv]</a><a href="https://lecar-lab.github.io/SoFTA/">[Website]</a><a href="https://github.com/LeCAR-Lab/SoFTA">[Code]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary6')">▶ TL;DR</h5>
