@@ -121,7 +121,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I am a first-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently, I'm also a member of Amazon Frontier AI & Robotics Team, led by [Prof. Pieter Abbeel](), [Dr. Peter Chen](https://www.linkedin.com/in/peter-xi-chen/), and [Dr. Rocky Duan](http://rockyduan.com/)**
+**I am a second-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently, I'm also a member of Amazon Frontier AI & Robotics Team, led by [Prof. Pieter Abbeel](), [Dr. Peter Chen](https://www.linkedin.com/in/peter-xi-chen/), and [Dr. Rocky Duan](http://rockyduan.com/)**
 
 Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng), [Prof.&nbsp;Zhongqiang&nbsp;Ren](https://wonderren.github.io/) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). Later I worked with [Prof. Huazhe Xu](http://hxu.rocks/) at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
 
