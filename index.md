@@ -121,7 +121,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I am a second-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently, I'm also a member of Amazon Frontier AI & Robotics Team, led by [Prof. Pieter Abbeel](), [Dr. Peter Chen](https://www.linkedin.com/in/peter-xi-chen/), and [Dr. Rocky Duan](http://rockyduan.com/)**
+**I am a second-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently I'm also a member of Amazon Frontier AI & Robotics (FAR) Team, advised by [Prof. Pieter Abbeel]() and [Dr. Rocky Duan](http://rockyduan.com/)**
 
 Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng), [Prof.&nbsp;Zhongqiang&nbsp;Ren](https://wonderren.github.io/) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). Later I worked with [Prof. Huazhe Xu](http://hxu.rocks/) at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
 
@@ -130,6 +130,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
 
+- **[2026.01.22]** <a href="https://lecar-lab.github.io/falcon-humanoid/">**FALCON**</a> is accepted to <a href="https://sites.google.com/usc.edu/l4dc2026/home/">**L4DC 2026**</a> and selected as an **Oral**!
+- **[2025.08.01]** <a href="https://lecar-lab.github.io/SoFTA/">**Hold My Beer**</a> is accepted to <a href="https://www.corl.org/">**CoRL 2025**</a>.
 - **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted to <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
 - **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer.
 - **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted to <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
@@ -281,7 +283,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, <span style="white-space: nowrap;">Ali–akbar Agha–mohammadi</span>, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://sites.google.com/usc.edu/l4dc2026/home">Learning for Dynamics & Control Conference (L4DC) 2026</a> <span style="color: red;">(Oral)</span></h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.06776">[arXiv]</a><a href="https://lecar-lab.github.io/falcon-humanoid/">[Website]</a><a href="https://github.com/LeCAR-Lab/FALCON/">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1921942767682588897">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary7')">▶ TL;DR</h5>
