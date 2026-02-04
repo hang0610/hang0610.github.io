@@ -279,6 +279,23 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 </span>
 
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
+  <span> RPL: Learning Robust Humanoid Perceptive Locomotion over Challenging Terrains </span>
+  <br>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Younggyo Seo, Juyue Chen, Yifu Yuan, Koushil Sreenath, <span style="white-space: nowrap;">Pieter Abbeel</span>, Carmelo Sferrazza, Karen Liu, Rocky Duan, Guanya Shi</span>
+  </h3>
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2602.03002">[arXiv]</a><a href="https://rpl-humanoid.github.io/">[Website]</a><a href="https://x.com/Yuanhang__Zhang/status/2019092752240181641">[Twitter]</a></h4>
+  <!-- HTML for the collapsible summary -->
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary7')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary7" style="width: 85%; display: inline-block;">
+      <span style="font-size: 15px; color: gray">RPL enables robust humanoid perceptive locomotion through a unified multi-depth policy that handles challenging terrains (slopes, stairs, stepping stones), multi-directional movements, payloads. </span>
+  </div>
+
+  <img src="assets/research/rpl.gif" alt="Image 0" width="85.25%%"/>
+
+---
+
+- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation </span>
   <br>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, <span style="white-space: nowrap;">Ali–akbar Agha–mohammadi</span>, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
@@ -293,12 +310,6 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 
 
   <img src="assets/research/falcon.gif" alt="Image 0" width="85.25%%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
 
 ---
 
@@ -419,7 +430,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zhecheng Yuan, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Huazhe Xu </span>
   </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;">In Submission for IROS 2025</h4> 
+  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2026.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2026</a></h4>
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
   <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
   <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary3')">▶ TL;DR</h5>
