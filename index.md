@@ -286,8 +286,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2602.03002">[arXiv]</a><a href="https://rpl-humanoid.github.io/">[Website]</a><a href="https://x.com/Yuanhang__Zhang/status/2019092752240181641">[Twitter]</a></h4>
   <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary7')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary7" style="width: 85%; display: inline-block;">
+  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary8')">▶ TL;DR</h5>
+  <div class="collapsible-content" id="summary8" style="width: 85%; display: inline-block;">
       <span style="font-size: 15px; color: gray">RPL enables robust humanoid perceptive locomotion through a unified multi-depth policy that handles challenging terrains (slopes, stairs, stepping stones), multi-directional movements, payloads. </span>
   </div>
 
