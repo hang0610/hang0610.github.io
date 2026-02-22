@@ -358,8 +358,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He<sup>&dagger;</sup>, Jiawei Gao<sup>&dagger;</sup>, Wenli Xiao<sup>&dagger;</sup>, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang<sup>&dagger;</sup></span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He*, Jiawei Gao*, Wenli Xiao*, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang*</span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">Robotics: Science and Systems (RSS) 2025</a></h4>
@@ -384,7 +384,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanqi He<sup>&dagger;</sup>, Xiaofeng Guo<sup>&dagger;</sup>, Luyi Tang, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanqi He*, Xiaofeng Guo*, Luyi Tang, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline;">Yuanhang Zhang</span>,
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Mohammadreza Mousaei, Jiahe Xu, Junyi Geng, Sebastian Scherer, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
   </h3>
@@ -410,8 +410,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> Catch It! Learning to Catch in Flight with Mobile Dexterous Hands </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang<sup>&dagger;</sup></span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang<sup>&dagger;</sup>, Zhenyang Chen, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang*</span>,
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang*, Zhenyang Chen, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yanjie Ze, Huazhe Xu</span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a></h4>
@@ -437,8 +437,8 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Reinforcement Learning
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yufeng Tian<sup>&dagger;</sup>, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Shuiqi Cheng<sup>&dagger;</sup>, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yufeng Tian*, </span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Shuiqi Cheng*, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianming Wei, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianxing Zhou, </span>
   <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span>,
