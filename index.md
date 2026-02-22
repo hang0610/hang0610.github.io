@@ -281,7 +281,7 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
   <span> RPL: Learning Robust Humanoid Perceptive Locomotion over Challenging Terrains </span>
   <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Younggyo Seo, Juyue Chen, Yifu Yuan, Koushil Sreenath, <span style="white-space: nowrap;">Pieter Abbeel<sup>&dagger;</sup></span>, Carmelo Sferrazza<sup>&dagger;</sup>, Karen Liu<sup>&dagger;</sup>, Rocky Duan<sup>&dagger;</sup>, Guanya Shi</span>
+  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Younggyo Seo, Juyue Chen, Yifu Yuan, Koushil Sreenath, <span style="white-space: nowrap;">Pieter Abbeel<sup>&dagger;</sup></span>, Carmelo Sferrazza<sup>&dagger;</sup>, Karen Liu<sup>&dagger;</sup>, Rocky Duan<sup>&dagger;</sup>, Guanya Shi<sup>&dagger;</sup></span>
   </h3>
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
   - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2602.03002">[arXiv]</a><a href="https://rpl-humanoid.github.io/">[Website]</a><a href="https://x.com/Yuanhang__Zhang/status/2019092752240181641">[Twitter]</a></h4>
