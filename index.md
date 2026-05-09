@@ -85,7 +85,7 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
     </span>
   </div>
   <div class="compact-row">
-    <span class="compact-logo"><img src="assets/education/sjtu.png" alt="SJTU logo"></span>
+    <span class="compact-logo"><img class="sjtu-logo" src="assets/education/sjtu.png" alt="SJTU logo"></span>
     <span class="compact-row-content">
       <span class="compact-row-title">Shanghai Jiao Tong University</span>
       <span class="compact-row-date">Sep. 2019 - Jun. 2023</span>
