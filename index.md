@@ -22,110 +22,17 @@ hide_description: true
     clip: rect(0 0 0 0);
 	}
 </style> -->
-<style>
-  h1 {
-    color:rgb(1,92,171); /* 更改为你想要的颜色 */
-  }
-</style>
-<style>
-  h3 {
-    font-family: sans;
-    color: rgb(0, 0, 0);
-    font-size: 1.2rem;
-  }
-  span.small-text {
-    font-size: 1rem; /* 或其他你想要的大小 */
-  }
-</style>
-
-<style type="text/css">
-  .body-social > ul {
-    display: inline-block;
-    list-style-type: none;
-    margin-bottom: 0;
-    overflow: hidden;
-    padding: 0;
-  }
-
-  .body-social > ul > li {
-    float: left;
-    
-    /* padding-left: 5px; */
-    padding-right: 10px;
-    
-    /* display: inline-block; */
-  }
-
-
-  .body-social > ul > li > a {
-    display: inline;
-    text-align: center;
-    font-size: 0.95rem;
-    font-weight: 600;
-    /*width: 3rem;*/
-    /*height: 4rem;*/
-    padding: 4px;
-    
-    /* line-height: 3rem; */
-    
-    text-decoration: none;
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 5px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-    
-    /* border-bottom: none; */
-  }
-
-  .body-social > ul > li > a:not(.btn):not(.no-hover) {
-    border-color: var(--accent-color);
-  }
-
-  .body-social > ul > li > a:hover {
-    color: white;
-    background-color: var(--accent-color);
-    border-radius: 5px;
-    padding: 4px;
-    transition: background-color 250ms, color 250ms, text-decoration-color 250ms, border-color 250ms;
-  }
-
-  .note-sm:before, .note:before {
-    font-size: 1.3rem;
-    color: rgb(1,92,171);
-    line-height: 0.5em;
-    /* padding: 1px; */
-  }
-</style>
-
-<style>
-/* Summary title style */
-.summary-title {
-  font-family: sans;
-  font-size: 1.1rem;
-  color: rgb(1,92,171);
-  line-height: 1.8em;
-  font-weight: bold;
-  margin: 0.0em 0em;
-  cursor: pointer;
-}
-
-/* Collapsible content styling */
-.collapsible-content {
-  display: none; /* Hide by default */
-  width: 85%;
-  font-size: 15px;
-  color: gray;
-  margin-top: 0.5em;
-}
-</style>
+{% include home-styles.html %}
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I am a second-year MS student at [CMU RI](https://www.ri.cmu.edu/), working with [Prof. Guanya Shi](https://www.gshi.me/). Currently I'm also a member of Amazon Frontier AI & Robotics (FAR) Team, advised by [Prof. Pieter Abbeel]() and [Dr. Rocky Duan](http://rockyduan.com/)**
+I am an Applied Scientist at Amazon FAR (Frontier AI & Robotics). 
 
-Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng), [Prof.&nbsp;Zhongqiang&nbsp;Ren](https://wonderren.github.io/) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). Later I worked with [Prof. Huazhe Xu](http://hxu.rocks/) at [Tsinghua University (IIIS)](https://iiis.tsinghua.edu.cn/en/).
+I received my Master's degree from the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/), and Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) advised by [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Zhongqiang&nbsp;Ren](https://wonderren.github.io/). I also interned at [Tsinghua University (IIIS)](https://iiis.tsinghua.edu.cn/en/) advised by [Huazhe Xu](http://hxu.rocks/). During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
-During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
+**Current Focus**: Scalable learning systems for robots to perceive, reason, and act reliably in the real world.
+
+**Robots**: I have worked on many types of robots, including <a href="#research-humanoids">humanoids</a>, <a href="#research-aerial-robots">aerial robots</a>, and <a href="#research-mobile-manipulators">mobile manipulators</a>.
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
@@ -133,132 +40,58 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 - **[2026.01.22]** <a href="https://lecar-lab.github.io/falcon-humanoid/">**FALCON**</a> is accepted to <a href="https://sites.google.com/usc.edu/l4dc2026/home/">**L4DC 2026**</a> and selected as an **Oral**!
 - **[2025.08.01]** <a href="https://lecar-lab.github.io/SoFTA/">**Hold My Beer**</a> is accepted to <a href="https://www.corl.org/">**CoRL 2025**</a>.
 - **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted to <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
-- **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer.
+<!-- - **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer. -->
 - **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted to <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
 
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
-<div>
-  <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
-      <div style="width: 15%; display: inline-block;">
-          <img src="assets/education/cmu-seal-r.png" style="border-radius: 50%;">
-      </div>
-      <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
-          <span>
-              <b style="font-size: 18px;">Carnegie Mellon University</b>
-              <span style="font-size: 15px; float: right">Aug. 2024 - Present</span>
-          </span><br>
-          <span style="font-size: 15px;">Master Student</span><br>
-          <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Robotic Systems Development</span><br>
-      </div>
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
+<div class="compact-list experience-list">
+  <div class="compact-row">
+    <span class="compact-logo"><img src="assets/experience/amazon.png" alt="Amazon logo"></span>
+    <span class="compact-row-content">
+      <span class="compact-row-title">Applied Scientist Intern</span>
+      <span class="compact-row-date">May 2025 - Feb. 2026</span>
+      <span class="compact-row-detail"><a href="https://www.aboutamazon.com/news/company-news/amazon-covariant-ai-robots" target="_blank">Amazon Frontier AI & Robotics Team</a></span>
+      <span class="compact-row-advisor">Advisor: <a href="https://people.eecs.berkeley.edu/~pabbeel/" target="_blank">Prof. Pieter Abbeel</a> and <a href="http://rockyduan.com/" target="_blank">Dr. Rocky Duan</a></span>
+    </span>
   </div>
-  <!-- <br> -->
-  <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
-      <div style="width: 15%; display: inline-block;">
-          <img src="assets/education/sjtu.png" style="border-radius: 50%;">
-      </div>
-      <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
-          <span>
-              <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
-              <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
-          </span><br>
-          <span style="font-size: 15px;">Undergraduate Student</span><br>
-          <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>
-      </div>
+  <div class="compact-row">
+    <span class="compact-logo"><img src="assets/experience/lecar.png" alt="LeCAR Lab logo"></span>
+    <span class="compact-row-content">
+      <span class="compact-row-title">Research Assistant</span>
+      <span class="compact-row-date">Oct. 2024 - May 2026</span>
+      <span class="compact-row-detail"><a href="https://lecar-lab.github.io/" target="_blank">LeCAR Lab, CMU RI</a></span>
+      <span class="compact-row-advisor">Advisor: <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span>
+    </span>
+  </div>
+  <div class="compact-row">
+    <span class="compact-logo"><img src="assets/experience/tea.jpg" alt="TEA Lab logo"></span>
+    <span class="compact-row-content">
+      <span class="compact-row-title">Research Assistant</span>
+      <span class="compact-row-date">Jan. 2024 - Jul. 2024</span>
+      <span class="compact-row-detail"><a href="http://hxu.rocks/index.html" target="_blank">Tsinghua Embodied AI Lab (TEA Lab)</a></span>
+      <span class="compact-row-advisor">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span>
+    </span>
   </div>
 </div>
 
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
-<div>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/experience/amazon.png" style="border-square: 50%;" width="100%">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Applied Scientist Intern</b>
-                <span style="font-size: 15px; float: right">May 2025 - Present</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="https://www.aboutamazon.com/news/company-news/amazon-covariant-ai-robots" target="_blank">Amazon Frontier AI & Robotics Team</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://people.eecs.berkeley.edu/~pabbeel/" target="_blank">Prof. Pieter Abbeel</a>, <a href="http://rockyduan.com/" target="_blank">Dr. Rocky Duan</a>, <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
-            <!-- <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">NULL</span> -->
-        </div>
-    </div>
-    <br>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/experience/lecar.png" style="border-square: 50%;" width="100%">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Graduate Research Assistant</b>
-                <span style="font-size: 15px; float: right">Oct. 2024 - Present</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="https://lecar-lab.github.io/" target="_blank">Learning and Control for Agile Robotics Lab (LeCAR Lab)</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://www.gshi.me/" target="_blank">Prof. Guanya Shi</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Humanoid Loco-Manipulation & Aerial Manipulation</span>
-        </div>
-    </div>
-    <br>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/experience/tea.jpg" style="border-square: 50%;" width="100%">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Full-time Research Assistant</b>
-                <span style="font-size: 15px; float: right">Jan. 2024 - Jul. 2024</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="http://hxu.rocks/index.html" target="_blank">Tsinghua Embodied AI Lab (TEA Lab)</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Mobile Manipulation</span>
-        </div>
-    </div>
-    <br>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/experience/rap.png" style="border-square: 50%;">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Research Intern (Remote)</b>
-                <span style="font-size: 15px; float: right">Summer 2023</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="https://rap-lab.github.io/" target="_blank">Robotics Autonomy and Planning Lab at SJTU</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://wonderren.github.io/" target="_blank">Prof. Zhongqiang Ren</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Multi-Agent Path Finding</span>
-        </div>
-    </div>
-    <br>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/experience/irmv.png" style="border-square: 50%;" width="100%">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Undergraduate Research Assistant</b>
-                <span style="font-size: 15px; float: right">Jan. 2023 - Jun. 2023</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="https://irmv.sjtu.edu.cn/" target="_blank">Intelligent Robotics and Machine Vision Lab at SJTU</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng" target="_blank">Prof. Hesheng Wang</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Image-Based Visual Servo for Quadrotors</span>
-        </div>
-    </div>
-    <!-- <br>
-    <div style="display: flex; align-items: center;">
-        <div style="width: 15%; display: inline-block;">
-            <img src="assets/images/nls.svg" style="border-square: 50%;" width="90%">
-        </div>
-        <div style="padding-left: 4%; width: 83%; display: inline-block;">
-            <span>
-                <b style="font-size: 18px;">Undergraduate Research Assistant</b>
-                <span style="font-size: 15px; float: right">Sep. 2022 - Feb. 2023</span>
-            </span><br>
-            <span style="font-size: 15px;"><a href="https://isn.sjtu.edu.cn/web/index" target="_blank">Institute for Sensing and Navigation at SJTU</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://drone.sjtu.edu.cn/dpzou/" target="_blank">Prof. Danping Zou</a></span><br>
-            <span style="font-size: 15px;">Topic: </span><span style="font-size: 15px; font-weight: bold">Autonomous Drone Racing</span>
-        </div>
-    </div> -->
-    <br>
+<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
+<div class="compact-list">
+  <div class="compact-row">
+    <span class="compact-logo"><img src="assets/education/cmu-seal-r.png" alt="CMU logo"></span>
+    <span class="compact-row-content">
+      <span class="compact-row-title">Carnegie Mellon University</span>
+      <span class="compact-row-date">Aug. 2024 - May 2026</span>
+      <span class="compact-row-detail">M.S. in Robotic Systems Development</span>
+    </span>
+  </div>
+  <div class="compact-row">
+    <span class="compact-logo"><img src="assets/education/sjtu.png" alt="SJTU logo"></span>
+    <span class="compact-row-content">
+      <span class="compact-row-title">Shanghai Jiao Tong University</span>
+      <span class="compact-row-date">Sep. 2019 - Jun. 2023</span>
+      <span class="compact-row-detail">B.Eng. in Automation</span>
+    </span>
+  </div>
 </div>
 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
@@ -273,488 +106,25 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
 </div> -->
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="research">Research</h2>
-<span style="font-size: 1.2rem;">
-  (<sup style="font-weight: bold;">*</sup> denotes equal contributions, <sup style="font-weight: bold;">&dagger;</sup> indicates equal advising)
-</span>
-
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> RPL: Learning Robust Humanoid Perceptive Locomotion over Challenging Terrains </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Younggyo Seo, Juyue Chen, Yifu Yuan, Koushil Sreenath, <span style="white-space: nowrap;">Pieter Abbeel<sup>&dagger;</sup></span>, Carmelo Sferrazza<sup>&dagger;</sup>, Karen Liu<sup>&dagger;</sup>, Rocky Duan<sup>&dagger;</sup>, Guanya Shi<sup>&dagger;</sup></span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2602.03002">[arXiv]</a><a href="https://rpl-humanoid.github.io/">[Website]</a><a href="https://x.com/Yuanhang__Zhang/status/2019092752240181641">[Twitter]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary9')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary9" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">RPL enables robust humanoid perceptive locomotion through a unified multi-depth policy that handles challenging terrains (slopes, stairs, stepping stones), multi-directional movements, payloads. </span>
-  </div>
-
-  <img src="assets/research/rpl.gif" alt="Image 0" width="85.25%%"/>
+{::nomarkdown}
+{% include research.html %}
+{:/nomarkdown}
 
 ---
 
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zhen Wu*, Xiaoyu Huang*, Lujie Yang*, <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang,</span> <span style="white-space: nowrap;">Koushil Sreenath, Xi Chen, </span>Pieter Abbeel<sup>&dagger;</sup>, Rocky Duan<sup>&dagger;</sup>, Angjoo Kanazawa<sup>&dagger;</sup>, Carmelo Sferrazza<sup>&dagger;</sup>, Guanya Shi<sup>&dagger;</sup>, Karen Liu<sup>&dagger;</sup></span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">In Submission</h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2602.15827">[arXiv]</a><a href="https://php-parkour.github.io/">[Website]</a><a href="https://x.com/zhenkirito123/status/2023789637114945684">[Twitter]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary8')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary8" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">PHP enables agile and long-horizon humanoid parkour with depth perception and motion matching for chaining skills. </span>
-  </div>
-
-  <img src="assets/research/php.gif" alt="Image 0" width="85.25%%"/>
+{% include competitions.html %}
 
 ---
 
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Yifu Yuan, Prajwal Gurunath, Tairan He, Shayegan Omidshafiei, <span style="white-space: nowrap;">Ali–akbar Agha–mohammadi</span>, Marcell Vazquez-Chanlatte, Liam Pedersen, Guanya Shi</span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://sites.google.com/usc.edu/l4dc2026/home">Learning for Dynamics & Control Conference (L4DC) 2026</a> <span style="color: red;">(Oral)</span></h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.06776">[arXiv]</a><a href="https://lecar-lab.github.io/falcon-humanoid/">[Website]</a><a href="https://github.com/LeCAR-Lab/FALCON/">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1921942767682588897">[Twitter]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary7')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary7" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">FALCON empowers humanoids with robust locomotion and precise manipulation under significant, unknown 3D end-effector forces, via a novel dual-agent force-adaptive RL framework. </span>
-  </div>
-
-
-  <img src="assets/research/falcon.gif" alt="Image 0" width="85.25%%"/>
+{% include leadership.html %}
 
 ---
 
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span>
-    Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector<br>Stabilization Control
-  </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yitang Li</span>, <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He,<br>Guanya Shi</span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://www.corl.org/">Conference on Robot Learning (CoRL) 2025</a></h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2505.24198">[arXiv]</a><a href="https://lecar-lab.github.io/SoFTA/">[Website]</a><a href="https://github.com/LeCAR-Lab/SoFTA">[Code]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary6')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary6" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">A slow-fast dual-agent RL framework achieving human-level end-effector stability for humanoids.</span>
-  </div>
-
-
-  <img src="assets/research/SoFTA_cam.gif" alt="Image 0" width="85.25%%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
-
----
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tairan He*, Jiawei Gao*, Wenli Xiao*, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang*</span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbab, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica Hodgins, Linxi "Jim" Fan, Yuke Zhu, Changliu Liu, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">Robotics: Science and Systems (RSS) 2025</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2502.01143">[arXiv]</a><a href="https://agile.human2humanoid.com/">[Website]</a><a href="https://github.com/LeCAR-Lab/ASAP">[Code]</a><a href="https://x.com/TairanHe99/status/1886725175413981524">[Twitter]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary0')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary0" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">ASAP learns agile whole-body humanoid motions via learning a residual action model from the real world to align sim-to-real physics and achieve athletic motions. </span>
-  </div>
-
-
-  <img src="assets/research/ASAP.gif" alt="Image 0" width="85.25%%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
+{% include awards.html %}
 
 ---
 
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanqi He*, Xiaofeng Guo*, Luyi Tang, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline;">Yuanhang Zhang</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Mohammadreza Mousaei, Jiahe Xu, Junyi Geng, Sebastian Scherer, </span><span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Guanya&nbsp;Shi</span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">Robotics: Science and Systems (RSS) 2025</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://lecar-lab.github.io/flying_hand/static/pdf/flying_hand.pdf">[Paper]</a><a href="https://lecar-lab.github.io/flying_hand/">[Website]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary5')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary5" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">A unified aerial manipulation framework that enhances precision and versatility through an end-effector-centric interface. </span>
-  </div>
-
-
-  <img src="assets/research/flying_hand.gif" alt="Image 0" width="85.25%%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
-
----
-
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span> Catch It! Learning to Catch in Flight with Mobile Dexterous Hands </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang*</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianhai Liang*, Zhenyang Chen, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yanjie Ze, Huazhe Xu</span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2025.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2025</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://dex-manipulation.github.io/corl2024/index.html"> CoRL 2024 Workshop LFDM</a> <span style="color: red;">(Best Paper Nomination)</span></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2409.10319">[arXiv]</a><a href="https://mobile-dex-catch.github.io/">[Website]</a><a href="https://github.com/hang0610/Catch_It">[Code]</a><a href="https://x.com/Yuanhang__Zhang/status/1839887809739358439">[Twitter]</a></h4>
-  <!-- HTML for the collapsible summary -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary1')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary1" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">We build a mobile manipulator with a dexterous hand, and leverage reinforcement learning to train a whole-body control policy for the robot to catch diverse objects randomly thrown by humans. </span>
-  </div>
-
-
-  <img src="assets/research/catch_motion_updated.png" alt="Image 0" width="36%"/><img src="assets/research/dcmm.gif" alt="Image 0" width="49.25%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
-
----
-
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  ViTaS: Visual Tactile Soft Fusion Contrastive Learning for Reinforcement Learning
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Yufeng Tian*, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Shuiqi Cheng*, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianming Wei, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Tianxing Zhou, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zixian Liu, </span>
-  <br>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Zhecheng Yuan, </span>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Huazhe Xu </span>
-  </h3>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><a href="https://2026.ieee-icra.org/">IEEE International Conference on Robotics and Automation (ICRA) 2026</a></h4>
-  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4>  -->
-  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary3')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary3" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">Introduced ViTaS, a framework using using Soft Fusion Contrastive Learning and a CVAE module to fuse visual and tactile information, achieving state-of-the-art performance with high sample efficiency and low parameter count in robotic manipulation. </span>
-  </div>
-  <img src="assets/research/vitas.png" alt="Image 0" width="85.5%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
-
----
-
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  <span>Multi-Agent Combinatorial Path Finding with Heterogeneous Task Duration </span>
-  </h3>
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: 900; text-decoration: underline">Yuanhang Zhang</span>,
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Xuemian Wu</span>, 
-  <span class="small-text" style="font-family: 微软雅黑; font-weight: normal;">Hesheng Wang, Zhongqiang Ren</span>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; "><a href="https://socs24.search-conference.org/">International Symposium on Combinatorial Search (SoCS) 2024</a></h4> 
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://arxiv.org/abs/2311.15330">[arXiv]</a><a href="https://github.com/rap-lab-org/public_pymcpf-d.git">[Code]</a><a href="https://www.youtube.com/embed/sSX0HdzjmY4">[Video]</a></h4> 
-  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">International Symposium on Combinatorial Search (<font size=4 face="微软雅黑" color=black weight=bold><strong>SoCS</strong></font>, <a href="https://hang0610.github.io/publications/SoCS24_paper_54.pdf">The Extended Abstract</a>)</h4> -->
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary2')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary2" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">Proposed two conflict-based search methods—CBSS-TPG (conflict-free) and CBSS-D (conflict-free and minimal cost) to solve the multi-agent combinatorial path finding problem with target duration. </span>
-  </div>
-  <!-- <img src="assets/research/gr.png" alt="Image 0" width="85%"/> -->
-  <img src="assets/research/mcpfd.gif" alt="Image 0" width="85.25%"/>
-
-  <!-- <iframe width="103.6%" height="600" 
-  src="https://www.youtube.com/embed/sSX0HdzjmY4" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {:.note title="Undergoing"} -->
-
----
-- <h3 class="h2" style="font-size: 1.3rem; color: var(--prefer-color-scheme)">
-  Perception-constrained Visual Servoing Based NMPC for Quadrotor Flight
-  </h3>
-  <!-- - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.2rem; ">Date: 2023.2—2023.6</h4> -->
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; ">Undergraduate Thesis (A grade TOP 3%), Advisor: <a href="https://irmv.sjtu.edu.cn/wanghesheng">Prof. Hesheng Wang</a></h4>
-  - <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.8em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://github.com/hang0610/ibvs_nmpc_px4.git">[Code]</a><a href="https://www.youtube.com/embed/3kP_b1RegkI">[Video]</a></h4>
-  <h5 class="summary-title" style="font-family: sans; font-size: 1.1rem; color: rgb(1,92,171); line-height: 1.8em; font-weight: bold; margin: 0.2em 0em -0.2em 0em; margin-bottom: +0.2em;" onclick="toggleSummary('summary4')">▶ TL;DR</h5>
-  <div class="collapsible-content" id="summary4" style="width: 85%; display: inline-block;">
-      <span style="font-size: 15px; color: gray">Incorporated quadrotor dynamics and visual feature dynamics into NMPC to enable the quadrotor to flight </span>
-      <span style="font-size: 15px; font-weight: 900">purely based on visual information without localization.</span>
-  </div>
-  <!-- 1. <font size=3 face="微软雅黑" color=gray>Incorporated quadrotor dynamics and visual feature dynamics into NMPC.</font>
-  1. <font size=3 face="微软雅黑" color=gray>Enabled the quadrotor to flight</font> <font size=3 face="微软雅黑" color=black weight=bold><strong>purely based on visual information without localization.</strong></font> -->
-
-  <img src="assets/research/ibvs_nmpc.gif" alt="Image 0" width="85%"/>
-  <!-- <img src="assets/research/drone.jpg" alt="Image 1" width="20%"/> -->
-
-
-  <!-- <iframe width="100%" height="600" 
-  src="https://www.youtube.com/embed/AGlzNG7ZrcM" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-<br>
-
----
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="competitions">Competitions </h2>
-
-<table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em;  width: 50%">
-  <tbody>
-      <tr>
-        <td style=" height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; height:auto;">UAV Intelligent Perception Technology Competition</span>
-            <br>
-            <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Third Prize (10%)</span>
-            <!-- <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
-          </div>
-        </td>
-        <td style="float: center; height:auto;">
-          <img src="/assets/competition/dji.jpg" style="float: left;" height="100" width="100">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
-            <br>
-            <span style="font-family: 'sans';">2022.09-2022.11</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table>
-{:.stretch-table}
-
-<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</span> -->
-<div style="padding-left: 20px; width: auto;">
-  <div class="image-container2">
-    <img src="assets/competition/dronerace1_updated.gif" alt="Image 0" class="half-width" />
-    <img src="assets/competition/dronerace2_updated.gif" alt="Image 1" class="half-width" />
-  </div>
-  <!-- <div class="image-container2">
-    <img src="assets/competition/uav3_small.jpeg" alt="Image 0" class="half-width" />
-    <img src="assets/competition/uav2.jpeg" alt="Image 1" class="half-width" />
-  </div> -->
-</div>
-
----
-
-<table class="stretch-table" style="margin: 0.5em 0em 0.5em -0.5em; ">
-  <tbody>
-      <tr>
-        <td style="width:auto; height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">National University IOT Design Competition</span>
-            <br>
-            <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National First Prize & Harmony Innovation Award (1%)</span>
-            <!-- <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
-          </div>
-        </td>
-        <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/competition/iot.jpg" style="float: center;" height="100" width="100">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
-            <br>
-            <span style="font-family: 'sans';">2022.06-2022.09</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table>
-{:.stretch-table}
-
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></h4>
-<span></span>
-<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></span> -->
-
-<div style="padding-left: 20px;">
-  <div class="image-container2">
-    <img src="assets/competition/iot1.png" alt="Image 2" class="half-width" />
-    <img src="assets/competition/iot2.png" alt="Image 3" class="half-width" />
-  </div>
-</div>
-
-
----
-
-<table class="stretch-table" style="margin: 0.5em 0em 0.5em -0.5em; width: 90%">
-  <tbody>
-      <tr>
-        <td style="width:auto; height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">National University ICT Competition (Innovation)</span>
-            <br>
-            <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Second Prize (5%)</span>
-            <!-- <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
-          </div>
-        </td>
-        <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/competition/ict.jpg" style="float: center;" height="100" width="100">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
-            <br>
-            <span style="font-family: 'sans';">2021.09-2022.01</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table>
-{:.stretch-table}
-
-<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I conducted data set collection from edge devices via Socket and utilized the MindSpore framework along with the Ascend chip for the model combination of target detection and controlling. Finally, I deployed the combined model in an automated vehicle. <a href="https://youtu.be/QgceA6COu9s">[Video]</a></span> -->
-
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/QgceA6COu9s">[Video]</a></h4>
-<span></span>
-
-<!-- <div style="padding-left: 20px;">
-  <img src="assets/competition/ict1.png" alt="Image 2" width=900/> <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
-</div> -->
-
-<div style="padding-left: 20px;">
-  <img src="assets/competition/ict2.png" alt="Image 3" width=900/>
-</div>
-
-<!-- <img src="assets/competition/ict3.gif" alt="Image 1" width="100%"/> -->
-<!-- <iframe width="900" height="600" 
-  src="https://www.youtube.com/embed/VAeKPYEZg5o" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<!-- --- -->
-
-<!-- <table class="stretch-table">
-  <tbody>
-      <tr>
-        <td style="width:auto; height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.5rem;font-weight: bold; width: auto;height:auto;">National University Unmanned Vehicle Competition(Huawei)</span>
-            <br>
-            <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.2rem">National Third Prize(TOP 10%)</span>
-          </div>
-        </td>
-        <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/images/dji.jpg" style="float: center;" height="100" width="100">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shenyang, China</span>
-            <br>
-            <span style="font-family: 'sans';">2021.06-2021.09</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table> -->
-<!-- {:.stretch-table} -->
-<br>
-
----
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="leadership">Leadership </h2>
-
-<table class="stretch-table" style="margin: -0.2em 0em 0.5em -0.5em; ">
-  <tbody>
-      <tr>
-        <td style="width:300px; height:auto;">
-          <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.2rem;font-weight: bold; width: auto;height:auto;"><a href="https://sjtu-vex.github.io/">SJTU-VEX</a></span>
-            <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; font-weight:bold; font-size:1.1rem">Programming Team Leader</span>
-            <!-- <br>
-            <span class="icon-briefcase" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
-          </div>
-        </td>
-        <td style="float: center; width: auto; height:auto;">
-          <img src="/assets/leadership/vex.png" style="float: left; background-color: black" height="80" width="80">
-          </td>
-          <td>
-          <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
-            <br>
-            <span style="font-family: 'sans';">2020.03-2022.07</span>
-          </div>
-        </td>
-      </tr>
-  </tbody>
-</table>
-{:.stretch-table}
-
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://www.youtube.com/watch?v=_HBTQAAVvzM">[SJTU VEX Change Up Season Reveal 2021]</a></h4>
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">
-  2021 National VEX Robotics Competition: Tournament Champions & Skills Champion <span style="color: red;">(World Record)</span>
-  </h4>
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">2021 VEX Robotics Competition Asian Open: Tournament Champions VEXU; Excellence Award </h4>
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem;">2021 VEX Robotics Competition China Final: Tournament Champions VEXU; Excellence Award </h4>
-
-<div style="padding-left: 20px;">
-  <div class="image-container3">
-    <img src="assets/competition/vex3.jpeg" alt="Image 0" class="onethird-width" />
-    <img src="assets/competition/vex1.jpeg" alt="Image 1" class="onethird-width" />
-    <img src="assets/competition/vex2.jpeg" alt="Image 2" class="onethird-width" />
-  </div>
-</div>
-
-<!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >Led the development of SJTU VEX's AI automation system, including global localization, visual recognition, and communication modules and presented results to universities and IFI Chinese representatives.</span>
-
-<div style="padding-left: 20px;">
-  <div class="image-container2">
-    <img src="assets/competition/vexai1_updated.gif" alt="Image 0" class="half-width" />
-    <img src="assets/competition/vexai2_updated.gif" alt="Image 1" class="half-width" />
-  </div>
-</div>
-<br> -->
-<br>
-
----
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="awards">Awards </h2>
-  <span class="icon-award" aria-hidden="true"></span> **Outstanding Paper Nomination in LFDM Workshop at CoRL 2024**
-
-  <span class="icon-award" aria-hidden="true"></span> **SJTU Outstanding Graduate (top 3%)** 
-
-  <span class="icon-award" aria-hidden="true"></span> SJTU Merit Student (top 3%)
-
-  <span class="icon-award" aria-hidden="true"></span> SJTU Academic Progress Scholarship
-
----
-
-<h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="service">Reviewer Service </h2>
-
-- <font size=4 face="微软雅黑">Conference on Robot Learning (<b>CoRL</b>) 2025</font>  
-- <font size=4 face="微软雅黑">IEEE International Conference on Robotics and Automation (<b>ICRA</b>) 2025</font>  
-- <font size=4 face="微软雅黑">IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>) 2025</font>
+{% include service.html %}
 
 ---
 
@@ -781,7 +151,9 @@ Here are some cute animals I photographed when travelling in my hometown:
   <img src="assets/interests/squirrel.jpeg" alt="Image 3" class="onethird-width" />
 </div> -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=380&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<div class="visitor-map">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=380&t=tt&d=w5Q40Mcc2glzXD3S396H2X_VPVmmSjd_AlGD-dtYM2o&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+</div>
 
 <!--posts-->
 
