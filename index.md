@@ -197,13 +197,13 @@ hr:nth-of-type(6) {
 hr:nth-of-type(7) {
   border-width: 0.5px 0 0 0 !important;
 }
-/* awards */
+/* mobile manipulation */
 hr:nth-of-type(8) {
-  border-width: 0.5px 0 0 0 !important;
-}
-/* Leadership */
-hr:nth-of-type(9) {
   border-width: 3px 0 0 0 !important;
+}
+/* within mobile manipulation */
+hr:nth-of-type(9) {
+  border-width: 0.5px 0 0 0 !important;
 }
 /* service */
 hr:nth-of-type(10) {
