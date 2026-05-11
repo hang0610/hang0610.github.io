@@ -215,4 +215,16 @@ hr:nth-of-type(11) {
 hr:nth-of-type(12) {
   border-width: 3px 0 0 0 !important;
 }
+/* awards */
+hr:nth-of-type(13) {
+  border-width: 3px 0 0 0 !important;
+}
+/* reviewer service */
+hr:nth-of-type(14) {
+  border-width: 3px 0 0 0 !important;
+}
+/* visitor map */
+hr:nth-of-type(15) {
+  border-width: 3px 0 0 0 !important;
+}
 </style>
