@@ -32,7 +32,7 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
 
 **Current Focus**: Scalable learning systems for robots to perceive, reason, and act reliably in the real world.
 
-**Robots**: I have worked on many types of robots, including <a href="#research-humanoids">humanoids</a>, <a href="#research-aerial-robots">aerial robots</a>, and <a href="#research-mobile-manipulators">mobile manipulators</a>.
+**Robots**: I have worked on many types of robots, including <a href="#research-humanoids">humanoids</a>, <a href="#research-mobile-manipulators">mobile manipulators</a>, and <a href="#research-aerial-robots">aerial robots</a>.
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
