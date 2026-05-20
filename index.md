@@ -26,7 +26,7 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-I am an Applied Scientist at Amazon FAR (Frontier AI & Robotics). 
+I am a Member of Technical Staff at Amazon FAR (Frontier AI & Robotics). 
 
 I received my Master's degree from the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/), and Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) advised by [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Zhongqiang&nbsp;Ren](https://wonderren.github.io/). I also interned at [Tsinghua University (IIIS)](https://iiis.tsinghua.edu.cn/en/) advised by [Huazhe Xu](http://hxu.rocks/). During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
