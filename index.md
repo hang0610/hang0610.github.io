@@ -105,28 +105,28 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
   </ul>
 </div> -->
 
----
+<hr class="section-divider">
 {::nomarkdown}
 {% include research.html %}
 {:/nomarkdown}
 
----
+<hr class="section-divider">
 
 {% include competitions.html %}
 
----
+<hr class="section-divider">
 
 {% include leadership.html %}
 
----
+<hr class="section-divider">
 
 {% include awards.html %}
 
----
+<hr class="section-divider">
 
 {% include service.html %}
 
----
+<hr class="section-divider">
 
 <!-- ---
 
@@ -170,61 +170,4 @@ Here are some cute animals I photographed when travelling in my hometown:
         text-align: left; */
         word-wrap: break-word;/* 允许文字自动换行 */
     }
-</style>
-
-
-<style>
-/* research */
-hr:nth-of-type(1) {
-  border-width: 3px 0 0 0 !important;
-}
-hr:nth-of-type(2) {
-  border-width: 0.5px 0 0 0 !important;
-}
-hr:nth-of-type(3) {
-  border-width: 0.5px 0 0 0 !important;
-}
-hr:nth-of-type(4) {
-  border-width: 0.5px 0 0 0 !important;
-}
-/* competition */
-hr:nth-of-type(5) {
-  border-width: 0.5px 0 0 0 !important;
-}
-hr:nth-of-type(6) {
-  border-width: 3px 0 0 0 !important;
-}
-hr:nth-of-type(7) {
-  border-width: 0.5px 0 0 0 !important;
-}
-/* mobile manipulation */
-hr:nth-of-type(8) {
-  border-width: 3px 0 0 0 !important;
-}
-/* within mobile manipulation */
-hr:nth-of-type(9) {
-  border-width: 0.5px 0 0 0 !important;
-}
-/* service */
-hr:nth-of-type(10) {
-  border-width: 3px 0 0 0 !important;
-}
-hr:nth-of-type(11) {
-  border-width: 3px 0 0 0 !important;
-}
-hr:nth-of-type(12) {
-  border-width: 3px 0 0 0 !important;
-}
-/* awards */
-hr:nth-of-type(13) {
-  border-width: 3px 0 0 0 !important;
-}
-/* reviewer service */
-hr:nth-of-type(14) {
-  border-width: 3px 0 0 0 !important;
-}
-/* visitor map */
-hr:nth-of-type(15) {
-  border-width: 3px 0 0 0 !important;
-}
 </style>
