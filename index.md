@@ -37,6 +37,7 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
 
+- **[2026.09.04]** <a href="https://rpl-humanoid.github.io/">**RPL**</a> and <a href="https://ladderman-robot.github.io/">**LadderMan**</a> are accepted to <a href="https://www.corl.org/">**CoRL 2026**</a>!
 - **[2026.01.22]** <a href="https://lecar-lab.github.io/falcon-humanoid/">**FALCON**</a> is accepted to <a href="https://sites.google.com/usc.edu/l4dc2026/home/">**L4DC 2026**</a> and selected as an **Oral**!
 - **[2025.08.01]** <a href="https://lecar-lab.github.io/SoFTA/">**Hold My Beer**</a> is accepted to <a href="https://www.corl.org/">**CoRL 2025**</a>.
 - **[2025.04.11]** <a href="https://agile.human2humanoid.com/">**ASAP**</a> and <a href="https://lecar-lab.github.io/flying_hand/">**Flying Hand**</a> are accepted to <a href="https://2025.ieee-icra.org/">**RSS 2025**</a>.
