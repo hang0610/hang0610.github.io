@@ -26,13 +26,11 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-I am a Member of Technical Staff at Amazon FAR (Frontier AI & Robotics). 
+**I am a Research Engineer at [Meta Superintelligence Labs (MSL)](https://ai.meta.com/)**. Previously, I was a Member of Technical Staff at Amazon FAR (Frontier AI & Robotics). My research focuses on scalable learning systems for general-purpose robots.
 
-I received my Master's degree from the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/), and Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) advised by [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Zhongqiang&nbsp;Ren](https://wonderren.github.io/). I also interned at [Tsinghua University (IIIS)](https://iiis.tsinghua.edu.cn/en/) advised by [Huazhe Xu](http://hxu.rocks/). During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
+I received my Master's degree from the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/) advised by [Guanya Shi](https://www.gshi.me/), and Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) advised by [Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). I also interned at [Tsinghua University (IIIS)](https://iiis.tsinghua.edu.cn/en/) advised by [Huazhe Xu](http://hxu.rocks/). During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
 
-**Current Focus**: Scalable learning systems for robots to perceive, reason, and act reliably in the real world.
-
-**Robots**: I have worked on many types of robots, including <a href="#research-humanoids">humanoids</a>, <a href="#research-mobile-manipulators">mobile manipulators</a>, and <a href="#research-aerial-robots">aerial robots</a>.
+<!-- **Robots**: I have worked on many types of robots, including <a href="#research-humanoids">humanoids</a>, <a href="#research-mobile-manipulators">mobile manipulators</a>, and <a href="#research-aerial-robots">aerial robots</a>. -->
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">News </h3>
@@ -44,7 +42,7 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
 <!-- - **[2025.03.18]** I will join **Amazon Frontier AI & Robotics Team** as an **Applied Scientist Intern** this summer. -->
 - **[2025.01.29]** <a href="https://mobile-dex-catch.github.io/">**Catch It!**</a> is accepted to <a href="https://2025.ieee-icra.org/">**ICRA 2025**</a>.
 
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
+<!-- <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Experience </h3>
 <div class="compact-list experience-list">
   <div class="compact-row">
     <span class="compact-logo"><img src="assets/experience/amazon.png" alt="Amazon logo"></span>
@@ -73,9 +71,9 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
       <span class="compact-row-advisor">Advisor: <a href="http://hxu.rocks/" target="_blank">Prof. Huazhe Xu</a></span>
     </span>
   </div>
-</div>
+</div> -->
 
-<h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
+<!-- <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div class="compact-list">
   <div class="compact-row">
     <span class="compact-logo"><img src="assets/education/cmu-seal-r.png" alt="CMU logo"></span>
@@ -93,7 +91,7 @@ I received my Master's degree from the [Robotics Institute at Carnegie Mellon Un
       <span class="compact-row-detail">B.Eng. in Automation</span>
     </span>
   </div>
-</div>
+</div> -->
 
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
